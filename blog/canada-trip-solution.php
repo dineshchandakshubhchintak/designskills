@@ -12,7 +12,7 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="author" content="ThemeMascot" />
+  <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
   <title>The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure | Design Skills academy</title>

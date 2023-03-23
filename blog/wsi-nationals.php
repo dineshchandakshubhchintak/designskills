@@ -12,7 +12,7 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="author" content="ThemeMascot" />
+  <meta name="author" content="Shubhchintak Technology" />
 
   <title>Designskill</title>
 
