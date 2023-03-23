@@ -41,7 +41,7 @@
 
 $today = date("d-m-Y"); 
 
-$email1  = 'support@designskills.com.test-google-a.com';
+$email1  = 'leads@designskills.com';
 
 // 'shubhada@trimitiy.com.test-google-a.com,website@trimitiy.com.test-google-a.com,business@trimitiy.com.test-google-a.com,enquiry@trimitiy.com.test-google-a.com';
 
@@ -129,7 +129,7 @@ $message = "<html><body><br>
 
 
 
-$from_address="contact@".$_SERVER['SERVER_NAME'];
+$from_address="contact@designskills.com";
 
 $from_name="Design Skills";
 
@@ -142,8 +142,6 @@ $headers = "MIME-Version: 1.0\r\n"
   ."Content-Transfer-Encoding: 8bit\r\n"
 
   ."From: =?UTF-8?B?". base64_encode($from_name) ."?= <$from_address>\r\n"
-
-  ."BCC: incognito@trimitiy.com\r\n"
 
   ."X-Mailer: PHP/". phpversion();
 
