@@ -14,6 +14,9 @@
 
   <meta name="author" content="Shubhchintak Technology" />
 
+<<<<<<< HEAD
+ 
+=======
   <!-- Primary Meta Tags -->
 <title>WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy</title>
 <meta name="title" content="WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy">
@@ -38,6 +41,7 @@
   <!-- Page Title -->
 
   <title>Designskill</title>
+>>>>>>> f61e5748b45c15775c15f2afb6e466b6c38e6f67
 
   <!-- Favicon and Touch Icons -->
 

@@ -12,14 +12,27 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+<title>Choosing the Right Design School: A Comprehensive Guide | Design Skills Academy</title>
+<meta name="title" content="Choosing the Right Design School: A Comprehensive Guide | Design Skills Academy">
+<meta name="description" content="Our blog post provides a comprehensive guide to selecting a design school, including factors to consider, questions to ask, and resources to help you make an informed decision. Discover how to find the right fit for your interests, career aspirations, and learning style.">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/blog/how-to-select-a-design-school.php">
+<meta property="og:title" content="Choosing the Right Design School: A Comprehensive Guide | Design Skills Academy">
+<meta property="og:description" content="Our blog post provides a comprehensive guide to selecting a design school, including factors to consider, questions to ask, and resources to help you make an informed decision. Discover how to find the right fit for your interests, career aspirations, and learning style.">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/blog/how-to-select-a-design-school.php">
+<meta property="twitter:title" content="Choosing the Right Design School: A Comprehensive Guide | Design Skills Academy">
+<meta property="twitter:description" content="Our blog post provides a comprehensive guide to selecting a design school, including factors to consider, questions to ask, and resources to help you make an informed decision. Discover how to find the right fit for your interests, career aspirations, and learning style.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
+  
   <!-- Favicon and Touch Icons -->
 
   <link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">

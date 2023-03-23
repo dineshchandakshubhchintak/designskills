@@ -12,25 +12,40 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+<title>2D vs. 3D Animation: Which One is Right for Your Project? | Design Skills Academy</title>
+<meta name="title" content="2D vs. 3D Animation: Which One is Right for Your Project? | Design Skills Academy">
+<meta name="description" content="Unsure whether to use 2D or 3D animation for your project? Our blog post explores the differences between the two and helps you make an informed decision. Discover the benefits and drawbacks of each animation style, and learn how to choose the right one for your project's needs.">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/blog/2d-vs-3d-animation">
+<meta property="og:title" content="2D vs. 3D Animation: Which One is Right for Your Project? | Design Skills Academy">
+<meta property="og:description" content="Unsure whether to use 2D or 3D animation for your project? Our blog post explores the differences between the two and helps you make an informed decision. Discover the benefits and drawbacks of each animation style, and learn how to choose the right one for your project's needs.">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/blog/2d-vs-3d-animation">
+<meta property="twitter:title" content="2D vs. 3D Animation: Which One is Right for Your Project? | Design Skills Academy">
+<meta property="twitter:description" content="Unsure whether to use 2D or 3D animation for your project? Our blog post explores the differences between the two and helps you make an informed decision. Discover the benefits and drawbacks of each animation style, and learn how to choose the right one for your project's needs.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
+
+
+  
   <!-- Favicon and Touch Icons -->
 
   <link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
 
   <link href="../images/apple-touch-icon.png" rel="apple-touch-icon">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYNJ94051"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+   <!-- Google tag (gtag.js) -->
+   <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYNJ94051"></script>
+   <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
 
   gtag('config', 'G-4XYNJ94051');
 </script>

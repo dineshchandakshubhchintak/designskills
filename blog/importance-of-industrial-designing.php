@@ -12,15 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
+   
+  <!-- Primary Meta Tags -->
+<title>The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy</title>
+<meta name="title" content="The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy">
+<meta name="description" content="Designskill">
 
-  <meta name="keywords" content="Designskill" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/">
+<meta property="og:title" content="The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy">
+<meta property="og:description" content="Explore the impact of industrial designing on user experiences, and how it influences the way we interact with products and brands. Gain insights into the challenges and opportunities of industrial designing, and why it is a critical factor for success in today's competitive market.">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/">
+<meta property="twitter:title" content="The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy">
+<meta property="twitter:description" content="Explore the impact of industrial designing on user experiences, and how it influences the way we interact with products and brands. Gain insights into the challenges and opportunities of industrial designing, and why it is a critical factor for success in today's competitive market.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
-
-  <!-- Favicon and Touch Icons -->
+  
+<!-- Favicon and Touch Icons -->
 
   <link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
 
