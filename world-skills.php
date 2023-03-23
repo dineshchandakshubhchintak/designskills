@@ -12,15 +12,9 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
-
-  <meta name="author" content="Designskill" />
-
-  <!-- Page Title -->
-
-  <title>Designskill</title>
+ 
 
   <!-- Favicon and Touch Icons -->
 
