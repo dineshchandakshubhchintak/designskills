@@ -337,7 +337,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="iopt_img/Icons/common-icon11.webp" alt="common-icon11">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
