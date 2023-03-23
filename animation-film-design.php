@@ -34,7 +34,7 @@
   <meta property="og:description" content="Join our Animation Film Design Course and learn how to create captivating animated films 
   that tell compelling stories. You will learn about the latest animation techniques, tools, software, and workflows used in the film 
   and television industry.">
-  <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">

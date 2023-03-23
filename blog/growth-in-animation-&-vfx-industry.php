@@ -17,8 +17,8 @@
   <title>Designskill</title>
 
   <!-- Primary Meta Tags -->
-  <title>Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills academy</title>
-  <meta name="title" content="Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills academy">
+  <title>Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills Academy</title>
+  <meta name="title" content="Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills Academy">
   <meta name="description" content="Discover the skills and knowledge required to succeed in this dynamic field and 
   explore the career paths available to aspiring animators and VFX artists. Join us for a fascinating journey into the 
   world of animation and VFX.">
@@ -26,7 +26,7 @@
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://designskills.com/blog/growth-in-animation-&-vfx-industry.php">
-  <meta property="og:title" content="Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills academy">
+  <meta property="og:title" content="Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills Academy">
   <meta property="og:description" content="Discover the skills and knowledge required to succeed in this dynamic field and 
   explore the career paths available to aspiring animators and VFX artists. Join us for a fascinating journey into the world 
   of animation and VFX.">

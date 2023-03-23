@@ -17,14 +17,14 @@
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
-  <title>Game, AR, VR Design Course | Learn the Art of Creating Immersive Experiences | Design Skills academy</title>
-  <meta name="title" content="Game, AR, VR Design Course | Learn the Art of Creating Immersive Experiences | Design Skills academy">
+  <title>Game, AR, VR Design Course | Learn the Art of Creating Immersive Experiences | Design Skills Academy</title>
+  <meta name="title" content="Game, AR, VR Design Course | Learn the Art of Creating Immersive Experiences | Design Skills Academy">
   <meta name="description" content="Join our Game, AR, VR Design Course and learn how to create immersive experiences that engage and captivate users.">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://designskills.com/game-ar-and-vr-design.php">
-  <meta property="og:title" content="Game, AR, VR Design Course | Learn the Art of Creating Immersive Experiences | Design Skills academy">
+  <meta property="og:title" content="Game, AR, VR Design Course | Learn the Art of Creating Immersive Experiences | Design Skills Academy">
   <meta property="og:description" content="Join our Game, AR, VR Design Course and learn how to create immersive experiences that engage and captivate users.">
   <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 

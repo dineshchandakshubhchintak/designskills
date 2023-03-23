@@ -17,15 +17,15 @@
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
-  <title>Web Design Technology Course | Learn the Art of Creating Stunning Websites | Design Skill academy</title>
-  <meta name="title" content="Web Design Technology Course | Learn the Art of Creating Stunning Websites | Design Skill academy">
+  <title>Web Design Technology Course | Learn the Art of Creating Stunning Websites | Design Skill Academy</title>
+  <meta name="title" content="Web Design Technology Course | Learn the Art of Creating Stunning Websites | Design Skill Academy">
   <meta name="description" content="Join our Web Design Technology Course and learn how to create stunning websites that are visually appealing, 
   user-friendly, and accessible across different devices.">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://designskills.com/web-design-technology.php">
-  <meta property="og:title" content="Web Design Technology Course | Learn the Art of Creating Stunning Websites | Design Skill academy">
+  <meta property="og:title" content="Web Design Technology Course | Learn the Art of Creating Stunning Websites | Design Skill Academy">
   <meta property="og:description" content="Join our Web Design Technology Course and learn how to create stunning websites that are visually 
   appealing, user-friendly, and accessible across different devices.">
   <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">

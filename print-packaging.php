@@ -17,8 +17,8 @@
   <meta name="author" content="Shubhchinta Technology" />
 
   <!-- Primary Meta Tags -->
-  <title>Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills academy </title>
-  <meta name="title" content="Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills academy ">
+  <title>Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills Academy </title>
+  <meta name="title" content="Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills Academy ">
   <meta name="description" content="Join our Printing and Packaging course and become a skilled professional in the 
   exciting field of printing and packaging design. You will learn about the latest printing technologies, design 
   concepts, color theory, packaging materials, and marketing strategies with hands-on experience and practical assignments. 
@@ -26,8 +26,8 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://designskills.com/print-packaging.php">
-  <meta property="og:title" content="Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills academy ">
+  <meta property="og:url" content="https://www.designskills.com/print-packaging.php">
+  <meta property="og:title" content="Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills Academy ">
   <meta property="og:description" content="Join our Printing and Packaging course and become a skilled professional in 
   the exciting field of printing and packaging design. You will learn about the latest printing technologies, design concepts, 
   color theory, packaging materials, and marketing strategies with hands-on experience and practical assignments. Start your 
@@ -36,7 +36,7 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://designskills.com/print-packaging.php">
+  <meta property="twitter:url" content="https://www.designskills.com/print-packaging.php">
   <meta property="twitter:title" content="Printing and Packaging Course | Learn the Art of Printing and Packaging Design! | Design Skills academy ">
   <meta property="twitter:description" content="Join our Printing and Packaging course and become a skilled professional in 
   the exciting field of printing and packaging design. You will learn about the latest printing technologies, design concepts, 
