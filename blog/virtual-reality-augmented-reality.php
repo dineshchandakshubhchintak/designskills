@@ -12,13 +12,27 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
+  <!-- Primary Meta Tags -->
+  <title>Virtual Reality and Augmented Reality: The Future of Immersive Experiences|Deign Skill academy</title>
+  <meta name="title" content="Virtual Reality and Augmented Reality: The Future of Immersive Experiences|Deign Skill academy">
+  <meta name="description" content="Discover the latest developments, trends, and applications of VR and AR, and gain insights into the opportunities and challenges of these cutting-edge technologies. Join us for a fascinating journey into the future of immersive experiences.">
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://designskills.com/blog/virtual-reality-augmented-reality.php">
+  <meta property="og:title" content="Virtual Reality and Augmented Reality: The Future of Immersive Experiences|Deign Skill academy">
+  <meta property="og:description" content="Discover the latest developments, trends, and applications of VR and AR, and gain insights into the opportunities and challenges of these cutting-edge technologies. Join us for a fascinating journey into the future of immersive experiences.">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <meta name="author" content="ThemeMascot" />
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://designskills.com/blog/virtual-reality-augmented-reality.php">
+  <meta property="twitter:title" content="Virtual Reality and Augmented Reality: The Future of Immersive Experiences|Deign Skill academy">
+  <meta property="twitter:description" content="Discover the latest developments, trends, and applications of VR and AR, and gain insights into the opportunities and challenges of these cutting-edge technologies. Join us for a fascinating journey into the future of immersive experiences.">
+  <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+
+
 
   <!-- Favicon and Touch Icons -->
 

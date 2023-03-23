@@ -12,13 +12,24 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
+  <!-- Primary Meta Tags -->
+  <title>The Art of Traditional Indonesian Textile| Design Skill Academy</title>
+  <meta name="title" content="The Art of Traditional Indonesian Textile| Design skill academy">
+  <meta name="description" content="Discover the different types of batik, from the traditional to the contemporary, and learn about the cultural and social contexts in which they are used. Explore the process of making batik, from waxing to dyeing, and gain insights into the artistry and craftsmanship behind this exquisite art form.">
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://designskills.com/blog/batik">
+  <meta property="og:title" content="The Art of Traditional Indonesian Textile| Design skill academy">
+  <meta property="og:description" content="Discover the different types of batik, from the traditional to the contemporary, and learn about the cultural and social contexts in which they are used. Explore the process of making batik, from waxing to dyeing, and gain insights into the artistry and craftsmanship behind this exquisite art form.">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <meta name="author" content="ThemeMascot" />
-
-  <title>Designskill</title>
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://designskills.com/blog/batik">
+  <meta property="twitter:title" content="The Art of Traditional Indonesian Textile| Design skill academy">
+  <meta property="twitter:description" content="Discover the different types of batik, from the traditional to the contemporary, and learn about the cultural and social contexts in which they are used. Explore the process of making batik, from waxing to dyeing, and gain insights into the artistry and craftsmanship behind this exquisite art form.">
+  <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
   <!-- Favicon and Touch Icons -->
 

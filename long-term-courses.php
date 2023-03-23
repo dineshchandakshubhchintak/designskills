@@ -10,7 +10,7 @@
 	<meta name="author" content="Shubhchintak Technology" />
 
 	<!-- Primary Meta Tags -->
-	<title>Long-Term Media Courses | Develop Your Skills in Media |Design Skills academy</title>
+	<title>Long-Term Media Courses | Develop Your Skills in Media |Design Skills Academy</title>
 	<meta name="title" content="Long-Term Media Courses | Develop Your Skills in Media |Design Skills academy">
 	<meta name="description" content="Transform your career with our long-term media courses. Our programs cover a range of media skills and are taught by industry experts. Enroll today">
 
