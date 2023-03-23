@@ -4,12 +4,29 @@
 <head>
 	<!-- Meta Tags -->
 	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<meta name="description" content="Designskill" />
-	<meta name="keywords" content="Designskill" />
-	<meta name="author" content="Designskill" />
-	<!-- Page Title -->
-	<title>Designskill</title>
+	
+	<meta name="author" content="Shubhchintak Technology" />
+	
+	<!-- Primary Meta Tags -->
+	<title>Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy</title>
+	<meta name="title" content="Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy">
+	<meta name="description" content="Our short-term media courses are perfect for busy professionals who want to upskill in media quickly. Our programs cover a range of skills and are taught by industry experts. Enroll now!">
+
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.designskills.com/short-term-courses">
+	<meta property="og:title" content="Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy">
+	<meta property="og:description" content="Our short-term media courses are perfect for busy professionals who want to upskill in media quickly. Our programs cover a range of skills and are taught by industry experts. Enroll now!">
+	<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+	<!-- Twitter -->
+	<meta property="twitter:url" content="https://www.designskills.com/short-term-courses">
+	<meta property="twitter:title" content="Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy">
+	<meta property="twitter:description" content="Our short-term media courses are perfect for busy professionals who want to upskill in media quickly. Our programs cover a range of skills and are taught by industry experts. Enroll now!">
+	<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+	
 	<!-- Favicon and Touch Icons -->
 	<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
 	<!-- Stylesheet -->

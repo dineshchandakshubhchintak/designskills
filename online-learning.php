@@ -12,11 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+<title>Online Media Learning Videos | Master the Art of Video Production, Photography, and More | Design Skills Academy</title>
+<meta name="title" content="Online Media Learning Videos | Master the Art of Video Production, Photography, and More | Design Skills Academy">
+<meta name="description" content="Learn the latest techniques and best practices in video production, photography, graphic design, and more with our online media learning videos. From beginners to professionals, our comprehensive tutorials and expert insights will help you hone your skills and achieve your goals.
+">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.designskills.com/online-learning">
+<meta property="og:title" content="Online Media Learning Videos | Master the Art of Video Production, Photography, and More | Design Skills Academy">
+<meta property="og:description" content="Learn the latest techniques and best practices in video production, photography, graphic design, and more with our online media learning videos. From beginners to professionals, our comprehensive tutorials and expert insights will help you hone your skills and achieve your goals.
+">
+<meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://www.designskills.com/online-learning">
+<meta property="twitter:title" content="Online Media Learning Videos | Master the Art of Video Production, Photography, and More | Design Skills Academy">
+<meta property="twitter:description" content="Learn the latest techniques and best practices in video production, photography, graphic design, and more with our online media learning videos. From beginners to professionals, our comprehensive tutorials and expert insights will help you hone your skills and achieve your goals.
+">/
+<meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
   <!-- Page Title -->
 

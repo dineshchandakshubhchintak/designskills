@@ -10,17 +10,27 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-	<meta name="description" content="Designskill" />
+	<meta name="author" content="Shubhchintak Technology" />
 
-	<meta name="keywords" content="Designskill" />
+	<!-- Primary Meta Tags -->
+	<title>Discover Stunning Artworks at Our Gallery | Design Skills academy</title>
+	<meta name="title" content="Discover Stunning Artworks at Our Gallery | Design Skills academy">
+	<meta name="description" content="Browse our extensive collection of unique and captivating artworks . From contemporary paintings to modern sculptures, our gallery showcases the best of the art world. .">
 
-	<meta name="author" content="Designskill" />
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://designskills.com/gallery.php">
+	<meta property="og:title" content="Discover Stunning Artworks at Our Gallery | Design Skills academy">
+	<meta property="og:description" content="Browse our extensive collection of unique and captivating artworks . From contemporary paintings to modern sculptures, our gallery showcases the best of the art world. .">
+	<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-	<!-- Page Title -->
+	<!-- Twitter -->
+	<meta property="twitter:url" content="https://designskills.com/gallery.php">
+	<meta property="twitter:title" content="Discover Stunning Artworks at Our Gallery | Design Skills academy">
+	<meta property="twitter:description" content="Browse our extensive collection of unique and captivating artworks . From contemporary paintings to modern sculptures, our gallery showcases the best of the art world. .">
+	<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-	<title>Designskill</title>
-
-	<!-- Favicon and Touch Icons -->
+		<!-- Favicon and Touch Icons -->
 
 	<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
 
