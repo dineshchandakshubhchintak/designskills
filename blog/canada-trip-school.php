@@ -12,13 +12,26 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+  <title>The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy</title>
+  <meta name="title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy">
+  <meta name="description" content="In this media blog, we share our journey of exploring the best of Canada, covering popular destinations and hidden gems, showcasing local culture and traditions, and highlighting the thrill and joy of travel.">
 
-  <meta name="author" content="ThemeMascot" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://designskills.com/blog/canada-trip-school.php">
+  <meta property="og:title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy">
+  <meta property="og:description" content="In this media blog, we share our journey of exploring the best of Canada, covering popular destinations and hidden gems, showcasing local culture and traditions, and highlighting the thrill and joy of travel.">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://designskills.com/blog/canada-trip-school.php">
+  <meta property="twitter:title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy">
+  <meta property="twitter:description"content="In this media blog, we share our journey of exploring the best of Canada, covering popular destinations and hidden gems, showcasing local culture and traditions, and highlighting the thrill and joy of travel.">
+  <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
 
   <!-- Favicon and Touch Icons -->
 

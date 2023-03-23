@@ -10,7 +10,7 @@
 	<meta name="author" content="Shubhchintak Technology" />
 	
 	<!-- Primary Meta Tags -->
-	<title>Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy</title>
+	<title>Short-Term Media Courses | Learn Media Skills in short time | Design Skills Academy</title>
 	<meta name="title" content="Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy">
 	<meta name="description" content="Our short-term media courses are perfect for busy professionals who want to upskill in media quickly. Our programs cover a range of skills and are taught by industry experts. Enroll now!">
 
@@ -26,7 +26,7 @@
 	<meta property="twitter:title" content="Short-Term Media Courses | Learn Media Skills in short time | Design Skills academy">
 	<meta property="twitter:description" content="Our short-term media courses are perfect for busy professionals who want to upskill in media quickly. Our programs cover a range of skills and are taught by industry experts. Enroll now!">
 	<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
-	
+
 	<!-- Favicon and Touch Icons -->
 	<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
 	<!-- Stylesheet -->

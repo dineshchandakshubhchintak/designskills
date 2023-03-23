@@ -15,7 +15,7 @@
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
-    <title>Design Skills academy | Media Study Courses</title>
+    <title>Design Skills Academy | Media Study Courses</title>
     <meta name="title" content="Design Skills academy | Media Study Courses">
     <meta name="description" content="Design Skills Academy has a unique teaching methodology and training standards. We promote design study, research and promotional activities as part of the curriculum">
 

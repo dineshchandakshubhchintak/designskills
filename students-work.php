@@ -15,7 +15,7 @@
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
-  <title>Media Student Work | Examples of Digital Media Projects by Our Students | Design Skills academy</title>
+  <title>Media Student Work | Examples of Digital Media Projects by Our Students | Design Skills Academy</title>
   <meta name="title" content="Designskill">
   <meta name="description" content="Explore our students' creative and innovative digital media projects. From video production to graphic design, our media students showcase their skills and talent in this inspiring gallery.">
 

@@ -12,13 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+  <title>WorldSkills India 2015: A Celebration of Skill Excellence and Innovation| Design Skill Academy</title>
+  <meta name="title" content="WorldSkills India 2015: A Celebration of Skill Excellence and Innovation| Design skill academy">
+  <meta name="description" content="Explore the impact and significance of WorldSkills India on the Indian economy and society, and gain insights into the importance of vocational education and training in shaping the future of India. Join us for a thrilling and inspiring journey into the world of WorldSkills India 2015">
 
-  <meta name="author" content="ThemeMascot" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://designskills.com/blog/world-skill-india-2015.php">
+  <meta property="og:title" content="WorldSkills India 2015: A Celebration of Skill Excellence and Innovation| Design skill academy">
+  <meta property="og:description" content="Explore the impact and significance of WorldSkills India on the Indian economy and society, and gain insights into the importance of vocational education and training in shaping the future of India. Join us for a thrilling and inspiring journey into the world of WorldSkills India 2015">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://designskills.com/blog/world-skill-india-2015.php">
+  <meta property="twitter:title" content="WorldSkills India 2015: A Celebration of Skill Excellence and Innovation| Design skill academy">
+  <meta property="twitter:description" content="Explore the impact and significance of WorldSkills India on the Indian economy and society, and gain insights into the importance of vocational education and training in shaping the future of India. Join us for a thrilling and inspiring journey into the world of WorldSkills India 2015">
+  <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+
+  
 
   <!-- Favicon and Touch Icons -->
 

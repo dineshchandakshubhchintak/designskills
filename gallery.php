@@ -13,7 +13,7 @@
 	<meta name="author" content="Shubhchintak Technology" />
 
 	<!-- Primary Meta Tags -->
-	<title>Discover Stunning Artworks at Our Gallery | Design Skills academy</title>
+	<title>Discover Stunning Artworks at Our Gallery | Design Skills Academy</title>
 	<meta name="title" content="Discover Stunning Artworks at Our Gallery | Design Skills academy">
 	<meta name="description" content="Browse our extensive collection of unique and captivating artworks . From contemporary paintings to modern sculptures, our gallery showcases the best of the art world. .">
 

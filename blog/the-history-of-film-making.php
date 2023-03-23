@@ -12,13 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+  <title>The History of Film Making: From the Silent Era to the Digital Age | Design skills academy</title>
+  <meta name="title" content="The History of Film Making: From the Silent Era to the Digital Age | Design skills academy">
+  <meta name="description" content="Explore the different genres and styles of film making, from Hollywood blockbusters to independent art films, and gain insights into the creative and technical aspects of film production. Join us for a fascinating and informative journey through the history of film making.">
 
-  <meta name="author" content="ThemeMascot" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://designskills.com/blog/the-history-of-film-making.php">
+  <meta property="og:title" content="The History of Film Making: From the Silent Era to the Digital Age | Design skills academy">
+  <meta property="og:description" content="Explore the different genres and styles of film making, from Hollywood blockbusters to independent art films, and gain insights into the creative and technical aspects of film production. Join us for a fascinating and informative journey through the history of film making.">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://designskills.com/blog/the-history-of-film-making.php">
+  <meta property="twitter:title" content="The History of Film Making: From the Silent Era to the Digital Age | Design skills academy">
+  <meta property="twitter:description" content="Explore the different genres and styles of film making, from Hollywood blockbusters to independent art films, and gain insights into the creative and technical aspects of film production. Join us for a fascinating and informative journey through the history of film making.">
+  <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+
+  
 
   <!-- Favicon and Touch Icons -->
 
