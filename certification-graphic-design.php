@@ -14,17 +14,26 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 
-<meta name="description" content="LearnPress | Education & Courses HTML Template" />
+<meta name="author" content="Shubhchintak Technology" />
 
-<meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
+<!-- Primary Meta Tags -->
+<title>Certification in Graphic Designing Course | Master the Art of Visual Communication | Design Skills Academy</title>
+<meta name="title" content="Certification in Graphic Designing Course | Master the Art of Visual Communication | Design Skills Academy">
+<meta name="description" content="Take your creativity to new heights with our comprehensive certification in graphic designing course. Learn the fundamentals of visual communication, typography, color theory, and design software to create stunning graphics, logos, and brand identities for print and digital media">
 
-<meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/certification-graphic-design.php">
+<meta property="og:title" content="Certification in Graphic Designing Course | Master the Art of Visual Communication | Design Skills Academy">
+<meta property="og:description" content="Take your creativity to new heights with our comprehensive certification in graphic designing course. Learn the fundamentals of visual communication, typography, color theory, and design software to create stunning graphics, logos, and brand identities for print and digital media">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/certification-graphic-design.php">
+<meta property="twitter:title" content="Certification in Graphic Designing Course | Master the Art of Visual Communication | Design Skills Academy">
+<meta property="twitter:description" content="Take your creativity to new heights with our comprehensive certification in graphic designing course. Learn the fundamentals of visual communication, typography, color theory, and design software to create stunning graphics, logos, and brand identities for print and digital media">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-
-<!-- Page Title -->
-
-<title>Designskill</title>
 
 
 

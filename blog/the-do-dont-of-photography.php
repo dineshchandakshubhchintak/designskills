@@ -12,13 +12,26 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+<title>Mastering Photography: The Do's and Don'ts of Taking Great Photos | Design Skills Academy</title>
+<meta name="title" content="Mastering Photography: The Do's and Don'ts of Taking Great Photos | Design Skills Academy">
+<meta name="description" content="Want to improve your photography skills? Our blog post covers the do's and don'ts of photography, including tips on lighting, composition, and post-processing. Learn how to avoid common mistakes and take your photography to the next level.">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/blog/the-do-dont-of-photography.php">
+<meta property="og:title" content="Mastering Photography: The Do's and Don'ts of Taking Great Photos | Design Skills Academy">
+<meta property="og:description" content="Want to improve your photography skills? Our blog post covers the do's and don'ts of photography, including tips on lighting, composition, and post-processing. Learn how to avoid common mistakes and take your photography to the next level.">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/blog/the-do-dont-of-photography.php">
+<meta property="twitter:title" content="Mastering Photography: The Do's and Don'ts of Taking Great Photos | Design Skills Academy">
+<meta property="twitter:description" content="Want to improve your photography skills? Our blog post covers the do's and don'ts of photography, including tips on lighting, composition, and post-processing. Learn how to avoid common mistakes and take your photography to the next level.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
 
   <!-- Favicon and Touch Icons -->
 

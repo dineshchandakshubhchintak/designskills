@@ -12,13 +12,26 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+<!-- Primary Meta Tags -->
+<title>Unleashing the Power of VFX: A Comprehensive Workshop for Beginners | Design Skills Academy</title>
+<meta name="title" content="Unleashing the Power of VFX: A Comprehensive Workshop for Beginners | Design Skills Academy">
+<meta name="description" content="Discover the world of visual effects with our comprehensive VFX workshop. Learn the fundamentals of VFX, including motion graphics, compositing, and 3D animation. Perfect for beginners looking to break into the world of VFX.">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/blog/vfx-workshop.php">
+<meta property="og:title" content="Unleashing the Power of VFX: A Comprehensive Workshop for Beginners | Design Skills Academy">
+<meta property="og:description" content="Discover the world of visual effects with our comprehensive VFX workshop. Learn the fundamentals of VFX, including motion graphics, compositing, and 3D animation. Perfect for beginners looking to break into the world of VFX.">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/blog/vfx-workshop.php">
+<meta property="twitter:title" content="Unleashing the Power of VFX: A Comprehensive Workshop for Beginners | Design Skills Academy">
+<meta property="twitter:description" content="Discover the world of visual effects with our comprehensive VFX workshop. Learn the fundamentals of VFX, including motion graphics, compositing, and 3D animation. Perfect for beginners looking to break into the world of VFX.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
 
   <!-- Favicon and Touch Icons -->
 

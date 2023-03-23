@@ -12,13 +12,25 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
+  <!-- Primary Meta Tags -->
+<title>The Top Design Trends of the Year: A Comprehensive Overview | Design Skills Academy</title>
+<meta name="title" content="The Top Design Trends of the Year: A Comprehensive Overview | Design Skills Academy">
+<meta name="description" content="Discover new color schemes, typography, layouts, and design techniques that are shaping the industry. Whether you're a designer looking for inspiration or a business owner looking to refresh your brand, this guide has something for you.">
 
-  <meta name="keywords" content="Designskill" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/blog/the-latest-design-trends.php">
+<meta property="og:title" content="The Top Design Trends of the Year: A Comprehensive Overview | Design Skills Academy">
+<meta property="og:description" content="Discover new color schemes, typography, layouts, and design techniques that are shaping the industry. Whether you're a designer looking for inspiration or a business owner looking to refresh your brand, this guide has something for you.">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <meta name="author" content="ThemeMascot" />
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/blog/the-latest-design-trends.php">
+<meta property="twitter:title" content="The Top Design Trends of the Year: A Comprehensive Overview | Design Skills Academy">
+<meta property="twitter:description" content="Discover new color schemes, typography, layouts, and design techniques that are shaping the industry. Whether you're a designer looking for inspiration or a business owner looking to refresh your brand, this guide has something for you.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
 
   <!-- Favicon and Touch Icons -->
 
