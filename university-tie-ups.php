@@ -12,13 +12,28 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 
-<meta name="description" content="Designskill" />
-
-<meta name="keywords" content="Designskill" />
-
 <meta name="author" content="ThemeMascot" />
 
+<!-- Primary Meta Tags -->
+<title>University Tie-Ups | Collaborations with Top Universities | Design Skills Academy</title>
+<meta name="title" content="University Tie-Ups | Collaborations with Top Universities | Design Skills Academy">
+<meta name="description" content="Explore our university tie-ups and learn more about our collaborations with top universities. Discover the benefits of our partnerships and how they can enhance your academic and professional experience.
+">
 
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.designskills.com/university-tie-ups">
+<meta property="og:title" content="University Tie-Ups | Collaborations with Top Universities | Design Skills Academy">
+<meta property="og:description" content="Explore our university tie-ups and learn more about our collaborations with top universities. Discover the benefits of our partnerships and how they can enhance your academic and professional experience.
+">
+<meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://www.designskills.com/university-tie-ups">
+<meta property="twitter:title" content="University Tie-Ups | Collaborations with Top Universities | Design Skills Academy">
+<meta property="twitter:description" content="Explore our university tie-ups and learn more about our collaborations with top universities. Discover the benefits of our partnerships and how they can enhance your academic and professional experience.
+">/
+<meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 <!-- Page Title -->
 

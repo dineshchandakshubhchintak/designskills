@@ -12,11 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
-
-  <meta name="keywords" content="Designskill" />
-
   <meta name="author" content="Designskill" />
+
+  <!-- Primary Meta Tags -->
+<title>WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy</title>
+<meta name="title" content="WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy">
+<meta name="description" content="Discover the impact of WorldSkills India in transforming the lives of young Indians by promoting skill development, entrepreneurship, and innovation. Learn about our initiatives, events, and partnerships that are building a skilled workforce for the future.
+">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.designskills.com/world-skills">
+<meta property="og:title" content="WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy">
+<meta property="og:description" content="Discover the impact of WorldSkills India in transforming the lives of young Indians by promoting skill development, entrepreneurship, and innovation. Learn about our initiatives, events, and partnerships that are building a skilled workforce for the future.
+">
+<meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://www.designskills.com/world-skills">
+<meta property="twitter:title" content="WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy">
+<meta property="twitter:description" content="Discover the impact of WorldSkills India in transforming the lives of young Indians by promoting skill development, entrepreneurship, and innovation. Learn about our initiatives, events, and partnerships that are building a skilled workforce for the future.
+">/
+<meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
   <!-- Page Title -->
 

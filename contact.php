@@ -12,13 +12,28 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 
-<meta name="description" content="Contact US | Best Animation and Multimedia Institute in Pune, India" />
-
-<meta name="keywords" content="Looking to take a step ahead into the creative industry? - Design Media & Edutainment solutions has a plethora of options in terms of courses for you. We present to you both short term and long term courses that will help you in kick starting your future career. DMES is also an Authorized WorldSkills training center. Our courses are all updated and are according to the current industry standards. We have been certified by a number of organizations for our teaching excellence. Feel free to contact us TODAY!" />
-
 <meta name="author" content="DesignSkills" />
 
+<!-- Primary Meta Tags -->
+<title>Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy</title>
+<meta name="title" content="Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy">
+<meta name="description" content="Need help, have feedback or a question? Get in touch with our team via our contact form or through our email, phone number or social media accounts. We're here to help and value your feedback
+">
 
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.designskills.com/contact">
+<meta property="og:title" content="Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy">
+<meta property="og:description" content="Need help, have feedback or a question? Get in touch with our team via our contact form or through our email, phone number or social media accounts. We're here to help and value your feedback
+">
+<meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+<!-- Twitter -->
+<meta property="twitter:url" content="https://www.designskills.com/contact">
+<meta property="twitter:title" content="Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy">
+<meta property="twitter:description" content="Need help, have feedback or a question? Get in touch with our team via our contact form or through our email, phone number or social media accounts. We're here to help and value your feedback
+">/
+<meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 <!-- Page Title -->
 
