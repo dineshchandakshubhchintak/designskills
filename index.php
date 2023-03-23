@@ -139,7 +139,7 @@
 
 				      <div class="item active">
 
-				        <img src="img/banner/Design_Skills_Academy_Mobile01.jpg" alt="Los Angeles" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_Mobile01.webp" alt="Design_Skills_Academy_Mobile01" style="width:100%;">
 
 				        <div class="carousel-caption" style="padding-bottom: 50px;">
 
@@ -153,7 +153,7 @@
 
 				    	<div class="item">
 
-				        <img src="img/banner/Design_Skills_Academy_Mobile02A.jpg" alt="New York" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_Mobile02A.webp" alt="Design_Skills_Academy_Mobile02A" style="width:100%;">
 
 				        <div class="carousel-caption" style="padding-bottom: 50px;">
 
@@ -167,7 +167,7 @@
 
 			      	<div class="item">
 
-				        <img src="img/banner/Design_Skills_Academy_Mobile03.jpg" alt="New York" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_Mobile03.webp" alt="Design_Skills_Academy_Mobile03" style="width:100%;">
 
 				        <div class="carousel-caption" style="padding-bottom: 50px;">
 
@@ -227,7 +227,7 @@
 
 				      <div class="item active">
 
-				        <img src="img/banner/Design_Skills_Academy_01A.jpg" alt="Los Angeles" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_01A.webp" alt="Design_Skills_Academy_01A" style="width:100%;">
 
 				        <div class="carousel-caption">
 
@@ -243,7 +243,7 @@
 
 				      <div class="item">
 
-				        <img src="img/banner/Design_Skills_Academy_02.jpg" alt="Chicago" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_02.webp" alt="Design_Skills_Academy_02" style="width:100%;">
 
 				        <div class="carousel-caption">
 
@@ -261,7 +261,7 @@
 
 			      	<div class="item">
 
-				        <img src="img/banner/Design_Skills_Academy_03.jpg" alt="New York" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_03.webp" alt="Design_Skills_Academy_03" style="width:100%;">
 
 				        <div class="carousel-caption">
 
@@ -393,7 +393,7 @@
 
 									<div class="col-md-6 wow fadeInUp" data-wow-duration="1s">
 
-										<div class="mb-sm-30"> <img class="img-fullwidth" src="img/home/long-term.jpg" alt="">
+										<div class="mb-sm-30"> <img class="img-fullwidth" src="opt_img/home/long-term.webp" alt="long-term">
 
 											<h4 class="letter-space-1 mt-10 text-uppercase">Long Term<span class="text-theme-color-2"> Courses</span></h4>
 
@@ -403,7 +403,7 @@
 
 									<div class="col-md-6 wow fadeInUp" data-wow-duration="1.2s">
 
-										<div class="mb-sm-30"> <img class="img-fullwidth" src="img/home/short-term.jpg" alt="">
+										<div class="mb-sm-30"> <img class="img-fullwidth" src="opt_img/home/short-term.webp" alt="short-term">
 
 											<h4 class=" letter-space-1 mt-10 text-uppercase">Short Term<span class="text-theme-color-2"> Courses</span></h4>
 
@@ -459,7 +459,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="img/Icons/one-to-one-attention.png" alt=""> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/one-to-one-attention.webp" alt="one-to-one-attention"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -473,7 +473,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="img/Icons/Learn-from-real.png" alt=""> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/Learn-from-real.webp" alt="Learn-from-real"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -487,7 +487,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="img/Icons/International-exposure-for-students.png" alt=""> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/International-exposure-for-students.webp" alt="International-exposure-for-students"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -527,7 +527,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="img/Icons/Updated-course-structure.png" alt=""> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/Updated-course-structure.webp" alt="Updated-course-structure"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -541,7 +541,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="img/Icons/innovative-in-depth-transition.png" alt=""> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/innovative-in-depth-transition.webp" alt="innovative-in-depth-transition"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -555,7 +555,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="img/Icons/industry-meet.png" alt=""> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/industry-meet.webp" alt="industry-meet"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -627,7 +627,7 @@
 
 													<a href="certification-in-compositing.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/compositing.png">
+													    <img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp">
 
 												    </a>
 
@@ -665,7 +665,7 @@
 
 													<a href="certification-in-3d-maya.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/3d_maya.png">
+													    <img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp">
 
 												    </a>
 
@@ -703,7 +703,7 @@
 
 													<a href="certification-graphic-design.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/graphic_design.png">
+													    <img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp">
 
 												    </a>
 
@@ -741,7 +741,7 @@
 
 													<a href="certification-art-design.php">
 
-														<img class="img-fullwidth" alt="" src="img/cources/art_design.png">
+														<img class="img-fullwidth" alt="art_design" src="opt_img/cources/art_design.webp">
 
 													</a>
 
@@ -779,7 +779,7 @@
 
 													<a href="digital-film-production.php"> 
 
-													    <img class="img-fullwidth" alt="" src="img/cources/digital_film.png">
+													    <img class="img-fullwidth" alt="digital_film" src="opt_img/cources/digital_film.webp">
 
 													</a>
 
@@ -817,7 +817,7 @@
 
 													<a href="communication-design.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/communication_design.png">
+													    <img class="img-fullwidth" alt="communication_design" src="opt_img/cources/communication_design.webp">
 
 												    </a>
 
@@ -855,7 +855,7 @@
 
 													<a href="industrial-design.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/industrial_design.png">
+													    <img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp">
 
 												    </a>
 
@@ -893,7 +893,7 @@
 
 													<a href="print-packaging.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/printing_packaging.png">
+													    <img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp">
 
 												    </a>
 
@@ -931,7 +931,7 @@
 
 													<a href="visual-effect-film-design.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/visual_effects.png">
+													    <img class="img-fullwidth" alt="visual_effects" src="opt_img/cources/visual_effects.webp">
 
 												    </a>
 
@@ -969,7 +969,7 @@
 
 													<a href="animation-film-design.php"> 
 
-													    <img class="img-fullwidth" alt="" src="img/cources/animation_film.png">
+													    <img class="img-fullwidth" alt="animation_film" src="opt_img/cources/animation_film.webp">
 
 													</a>
 
@@ -1007,7 +1007,7 @@
 
 													<a href="game-ar-and-vr-design.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/game_ar_vr.png">
+													    <img class="img-fullwidth" alt="game_ar_vr" src="opt_img/cources/game_ar_vr.webp">
 
 												    </a>
 
@@ -1045,7 +1045,7 @@
 
 													<a href="web-design-technology.php">
 
-													    <img class="img-fullwidth" alt="" src="img/cources/web-tech.png">
+													    <img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp">
 
 												    </a>
 
@@ -1119,7 +1119,7 @@
 
 										<div class="col-md-6">
 
-											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/founder-member/Sathish_Profile_picture.png" alt=""> </div>
+											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sathish_Profile_picture.webp" alt="Sathish_Profile_picture"> </div>
 
 										</div>
 
@@ -1151,7 +1151,7 @@
 
 										<div class="col-md-6">
 
-											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/founder-member/Sri_Profile_picture.png" alt=""> </div>
+											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sri_Profile_picture.webp" alt="Sri_Profile_picture"> </div>
 
 										</div>
 
@@ -1203,7 +1203,7 @@
 
 										<div class="icon-box p-15 mb-0 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="img/Icons/strongfoundation.png" alt=""> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/strongfoundation.webp" alt="strongfoundation"> </a>
 
 											<div class="ml-70 ml-sm-0">
 
@@ -1221,7 +1221,7 @@
 
 										<div class="icon-box p-15 mb-0 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="img/Icons/livelycampus.png" alt=""> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/livelycampus.webp" alt="livelycampus"> </a>
 
 											<div class="ml-70 ml-sm-0">
 
@@ -1239,7 +1239,7 @@
 
 										<div class="icon-box p-15 mb-30 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="img/Icons/industryexposure.png" alt=""> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/industryexposure.webp" alt="industryexposure"> </a>
 
 											<div class="ml-70 ml-sm-0">
 
@@ -1257,7 +1257,7 @@
 
 										<div class="icon-box p-15 mb-30 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="img/Icons/liveproject.png" alt=""> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/liveproject.webp" alt="liveproject"> </a>
 
 											<div class="ml-70 ml-sm-0">
 
@@ -1335,7 +1335,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/2.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/2.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1347,7 +1347,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/2.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/2.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1363,7 +1363,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/img-0397.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/img-0397.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1375,7 +1375,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/img-0397.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/img-0397.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1393,7 +1393,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/img-4206-1.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/img-4206-1.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1405,7 +1405,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/img-4206-1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/img-4206-1.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1421,7 +1421,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/5.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/5.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1433,7 +1433,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/5.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/5.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1449,7 +1449,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/11.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/11.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1461,7 +1461,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/11.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/11.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1477,7 +1477,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/14.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/14.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1489,7 +1489,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/14.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/14.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1505,7 +1505,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/19.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/19.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1517,7 +1517,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/19.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/19.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1533,7 +1533,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/21.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/21.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1545,7 +1545,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/21.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/21.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
