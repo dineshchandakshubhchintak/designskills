@@ -12,13 +12,8 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-<<<<<<< HEAD
-  <meta name="author" content="ThemeMascot" />
-
-  
 
   <!-- Page Title -->
-=======
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
@@ -38,7 +33,6 @@
     <meta property="twitter:title" content="Design Skills academy | Media Study Courses">
     <meta property="twitter:description" content="Design Skills Academy has a unique teaching methodology and training standards. We promote design study, research and promotional activities as part of the curriculum">
     <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
->>>>>>> f61e5748b45c15775c15f2afb6e466b6c38e6f67
 
 
   
@@ -248,7 +242,9 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Asifa_India.png" loading="lazy">
+                        <div class="team-thumb"> 
+                          
+                        <img class="img-fullwidth" alt="Asifa_India" src="opt_img/awards/Asifa_India.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -262,7 +258,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Atulya_Sanman.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Atulya_Sanman" src="opt_img/awards/Atulya_Sanman.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -276,7 +272,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Best_Guru.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Best_Guru" src="opt_img/awards/Best_Guru.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -290,7 +286,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Bronze_Medal.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Bronze_Medal" src="opt_img/awards/Bronze_Medal.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -304,7 +300,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Bronze_Medal_Junior_skills.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Bronze_Medal_Junior_skills" src="opt_img/awards/Bronze_Medal_Junior_skills.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -332,7 +328,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Edu_Spark.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Edu_Spark" src="opt_img/awards/Edu_Spark.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -346,7 +342,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Global Skills Australia.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Global Skills Australia" src="opt_img/awards/Global Skills Australia.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -364,7 +360,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Global Skills Australia.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Global Skills Australia" src="opt_img/awards/Global Skills Australia.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -378,7 +374,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Higher_Education.png">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Higher_Education" src="opt_img/awards/Higher_Education.webp">
 
                           <div class="team-overlay"></div>
 
@@ -392,7 +388,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/India Skills 2018.png">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="India Skills 2018" src="opt_img/awards/India Skills 2018.webp">
 
                           <div class="team-overlay"></div>
 
@@ -406,7 +402,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Italy_Skills.png">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Italy_Skills" src="opt_img/awards/Italy_Skills.webp">
 
                           <div class="team-overlay"></div>
 
@@ -420,7 +416,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Maharastra_Skills.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Maharastra_Skills" src="opt_img/awards/Maharastra_Skills.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -434,7 +430,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Medallion Swizz.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Medallion Swizz" src="opt_img/awards/Medallion Swizz.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -448,7 +444,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/MSD_Award01.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="MSD_Award01" src="opt_img/awards/MSD_Award01.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -462,7 +458,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Russia Nationals.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Russia Nationals" src="opt_img/awards/Russia Nationals.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -540,7 +536,7 @@
 
                     <div class="col-md-6">
 
-                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/founder-member/Sathish_Profile_picture.png" alt=""> </div>
+                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sathish_Profile_picture.webp" alt="Sathish_Profile_picture"> </div>
 
                     </div>
 
@@ -572,7 +568,7 @@
 
                     <div class="col-md-6">
 
-                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/founder-member/Sri_Profile_picture.png" alt=""> </div>
+                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sri_Profile_picture.webp" alt=""> </div>
 
                     </div>
 
@@ -634,7 +630,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/SATHISH_NARAYANAN.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="SATHISH_NARAYANAN" src="opt_img/about/SATHISH_NARAYANAN.webp">
 
                       </div>
 
@@ -656,7 +652,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/shridevi.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="shridevi" src="opt_img/about/shridevi.webp">
 
                       </div>
 
@@ -678,7 +674,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/radhika.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="radhika" src="opt_img/about/radhika.webp">
 
                       </div>
 
@@ -700,7 +696,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/madhukar.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="madhukar" src="opt_img/about/madhukar.webp">
 
                       </div>
 
@@ -722,7 +718,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/shreya.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="shreya" src="opt_img/about/shreya.webp">
 
                       </div>
 
@@ -744,7 +740,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/prasad.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="prasad" src="opt_img/about/prasad.webp">
 
                       </div>
 
@@ -766,7 +762,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/abhishek.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="abhishek" src="opt_img/about/abhishek.webp">
 
                       </div>
 
@@ -788,7 +784,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/abhijit.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="abhijit" src="opt_img/about/abhijit.webp">
 
                       </div>
 
@@ -848,7 +844,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/arularasn.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="arularasn" src="opt_img/about/arularasn.webp">
 
                       </div>
 
@@ -870,7 +866,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/woolfgang.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="woolfgang" src="opt_img/about/woolfgang.webp">
 
                       </div>
 
@@ -892,7 +888,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/vikramveturi.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="vikramveturi" src="opt_img/about/vikramveturi.webp">
 
                       </div>
 
@@ -914,7 +910,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/ashishkulkarni.jpg">
+                    <div class="thumb"> <img class="img-fullwidth" alt="ashishkulkarni" src="opt_img/about/ashishkulkarni.webp">
 
                     </div>
 
@@ -936,7 +932,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/anbujawahar.jpg"></div>
+                    <div class="thumb"> <img class="img-fullwidth" alt="anbujawahar" src="opt_img/about/anbujawahar.webp"></div>
 
                     <div class="details p-15 pt-10 pb-10 minh-sty-one">
 
@@ -956,7 +952,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="" src="img/about/geetamohan.jpg"></div>
+                    <div class="thumb"> <img class="img-fullwidth" alt="geetamohan" src="opt_img/about/geetamohan.webp"></div>
 
                     <div class="details p-15 pt-10 pb-10 minh-sty-one">
 
@@ -1002,7 +998,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers001.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers001" src="opt_img/awards/Awards_Achievers001.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1022,7 +1018,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers002.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers002" src="opt_img/awards/Awards_Achievers002.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1042,7 +1038,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers003.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="opt_img/awards/Awards_Achievers003.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1062,7 +1058,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers004.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers004" src="opt_img/awards/Awards_Achievers004.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1082,7 +1078,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers005.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers005" src="opt_img/awards/Awards_Achievers005.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1102,7 +1098,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers006.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers006" src="opt_img/awards/Awards_Achievers006.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1122,7 +1118,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers007.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers007" src="opt_img/awards/Awards_Achievers007.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1142,7 +1138,7 @@
 
                     <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                      <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Awards_Achievers008.jpg" loading="lazy">
+                      <div class="team-thumb"> <img class="img-fullwidth" alt="Awards_Achievers008" src="opt_img/awards/Awards_Achievers008.webp" loading="lazy">
 
                         <div class="team-overlay"></div>
 
@@ -1176,7 +1172,7 @@
 
                         <div class="col-md-6">
 
-                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.jpg" alt="" loading="lazy"> </div>
+                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.webp" alt="GRAPHIC-DESIGN-IN-EVERYDAY-LIFE" loading="lazy"> </div>
 
                         </div>
 
@@ -1206,7 +1202,7 @@
 
                         <div class="col-md-6">
 
-                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/blog/The-Latest-Design-Trends.jpg" alt="" loading="lazy"> </div>
+                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/blog/The-Latest-Design-Trends.webp" alt="The-Latest-Design-Trends" loading="lazy"> </div>
 
                         </div>
 
@@ -1236,7 +1232,7 @@
 
                         <div class="col-md-6">
 
-                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/blog/CANADA-TRIP _ SOLUTIONS.jpg" alt="" loading="lazy"> </div>
+                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/blog/CANADA-TRIP _ SOLUTIONS.webp" alt="CANADA-TRIP _ SOLUTIONS" loading="lazy"> </div>
 
                         </div>
 
@@ -1266,7 +1262,7 @@
 
                         <div class="col-md-6">
 
-                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="img/blog/GAME_AR_VR.jpg" alt="" loading="lazy"> </div>
+                          <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/blog/GAME_AR_VR.webp" alt="GAME_AR_VR" loading="lazy"> </div>
 
                         </div>
 
@@ -1354,7 +1350,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/2.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/2.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1366,7 +1362,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/2.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/2.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1382,7 +1378,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/img-0397.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/img-0397.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1412,7 +1408,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/img-4206-1.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/img-4206-1.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1424,7 +1420,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/img-4206-1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/img-4206-1.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1440,7 +1436,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/5.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/5.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1452,7 +1448,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/5.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/5.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1468,7 +1464,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/11.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/11.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1480,7 +1476,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/11.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/11.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1496,7 +1492,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/14.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/14.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1508,7 +1504,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/14.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/14.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1524,7 +1520,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/19.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/19.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1536,7 +1532,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/19.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/19.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -1552,7 +1548,7 @@
 
 									<div class="gallery-item infrastructure">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/infrastructure/thumbnail/21.jpg" alt="project" loading="lazy">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/infrastructure/thumbnail/21.webp" alt="project" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -1564,7 +1560,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/infrastructure/21.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/infrastructure/21.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
