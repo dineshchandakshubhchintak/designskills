@@ -12,7 +12,7 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="author" content="ThemeMascot" />
+  <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
 <title>Online Media Learning Videos | Master the Art of Video Production, Photography, and More | Design Skills Academy</title>

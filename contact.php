@@ -12,7 +12,7 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 
-<meta name="author" content="DesignSkills" />
+<meta name="author" content="Shubhchintak Technology" />
 
 <!-- Primary Meta Tags -->
 <title>Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy</title>

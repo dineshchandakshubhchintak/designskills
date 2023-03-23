@@ -12,7 +12,7 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="author" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
 <title>WorldSkills India | Empowering India's Youth through Skills Development. | Design Skills Academy</title>
