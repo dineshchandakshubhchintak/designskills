@@ -129,7 +129,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="" src="../img/blog/2DVS3DAnimation.jpg" class="img-responsive img-fullwidth ">
+                        <img alt="2DVS3DAnimation" src="../opt_img/blog/2DVS3DAnimation.webp" class="img-responsive img-fullwidth ">
 
                     </div>
 
