@@ -50,6 +50,22 @@
   gtag('config', 'G-4XYNJ94051');
 </script>
 
+	<script type="application/ld+json">
+		{
+		"@context": "https://schema.org",
+		"@type": "Corporation",
+		"name": "Design Skills Academy",
+		"url": "https://www.designskills.com",
+		"logo": "https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png",
+		"sameAs": [
+			"https://www.facebook.com/designskills",
+			"https://www.instagram.com/designskills.pune/",
+			"https://www.youtube.com/channel/UCUmqh4smgHZkmYv4IFsG4dw"
+		]
+		}
+	</script>
+
+
 </head>
 	<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 
