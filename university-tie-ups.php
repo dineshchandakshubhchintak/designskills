@@ -161,7 +161,7 @@
 
     <!--</section>-->
 
-     <img src="img/University_TieUps.jpg" alt="Nature" class="responsive">
+     <img src="opt_img/University_TieUps.webp" alt="NatuUniversity_TieUps" class="responsive">
 
     <section>
 
@@ -259,7 +259,7 @@
 
                         <div class="entry-header text-center">
 
-                          <img src="img/logo/logo-1.png" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" />
+                          <img src="opt_img/logo/logo-1.webp" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" />
 
                           <h2 class="entry-title pt-10"><a href="#">VU VISHWAKARMA</a></h2>
 
@@ -293,7 +293,7 @@
 
                          
 
-                          <img src="img/logo/logo-2.png" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" />
+                          <img src="opt_img/logo/logo-2.webp" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" />
 
                           <h2 class="entry-title pt-10"><a href="#">JAGRAN LAKECITY UNIVERSITY</a></h2>
 
