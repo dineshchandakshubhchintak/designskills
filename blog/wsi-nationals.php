@@ -17,15 +17,15 @@
   <title>Designskill</title>
 
   <!-- Primary Meta Tags -->
-  <title>Designskill</title>
-  <meta name="title" content="WorldSkills Competition: Celebrating Excellence in Skills and Innovation | Design Skills academy">
+  <title>WorldSkills Competition: Celebrating Excellence in Skills and Innovation | Design Skills Academy</title>
+  <meta name="title" content="WorldSkills Competition: Celebrating Excellence in Skills and Innovation | Design Skills Academy">
   <meta name="description" content="Discover the excitement and energy of WorldSkills Competition and witness the passion and 
   dedication of the world's top young professionals. Join us for a memorable event that celebrates skills, creativity, and diversity.">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://designskills.com/blog/wsi-nationals">
-  <meta property="og:title" content="WorldSkills Competition: Celebrating Excellence in Skills and Innovation | Design Skills academy">
+  <meta property="og:title" content="WorldSkills Competition: Celebrating Excellence in Skills and Innovation | Design Skills Academy">
   <meta property="og:description" content="Discover the excitement and energy of WorldSkills Competition and witness the passion and 
   dedication of the world's top young professionals. Join us for a memorable event that celebrates skills, creativity, and diversity.">
   <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">

@@ -15,14 +15,14 @@
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
-  <title>The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy</title>
-  <meta name="title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy">
+  <title>The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill Academy</title>
+  <meta name="title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill Academy">
   <meta name="description" content="In this media blog, we share our journey of exploring the best of Canada, covering popular destinations and hidden gems, showcasing local culture and traditions, and highlighting the thrill and joy of travel.">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://designskills.com/blog/canada-trip-school.php">
-  <meta property="og:title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill academy">
+  <meta property="og:title" content="The Ultimate Canada Trip: Exploring the Best of Nature, Culture, and Adventure |Deign Skill Academy">
   <meta property="og:description" content="In this media blog, we share our journey of exploring the best of Canada, covering popular destinations and hidden gems, showcasing local culture and traditions, and highlighting the thrill and joy of travel.">
   <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 

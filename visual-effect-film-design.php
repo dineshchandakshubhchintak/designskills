@@ -30,7 +30,7 @@
   <meta property="og:description" content="Join our Visual Effects Film Design Course and learn how to create stunning visual effects that 
   enhance the storytelling in movies and TV shows. You will learn about the latest visual effects techniques, tools, software, and workflows 
   used in the film and television industry.">
-  <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">

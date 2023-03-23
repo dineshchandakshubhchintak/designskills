@@ -15,15 +15,15 @@
   <meta name="author" content="Shubhchintak Technology" />
 
   <!-- Primary Meta Tags -->
-  <title>Graphic Design in Everyday Life: How it Shapes Our Perception and Communication | Design Skills academy</title>
-  <meta name="title" content="Graphic Design in Everyday Life: How it Shapes Our Perception and Communication | Design Skills academy">
+  <title>Graphic Design in Everyday Life: How it Shapes Our Perception and Communication | Design Skills Academy</title>
+  <meta name="title" content="Graphic Design in Everyday Life: How it Shapes Our Perception and Communication | Design Skills Academy">
   <meta name="description" content="In this article, we explore the ubiquitous presence of graphic design in everyday life and how it influences 
   our decision-making, emotions, and behavior.">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://designskills.com/blog/graphic-design-in-every-life">
-  <meta property="og:title" content="Graphic Design in Everyday Life: How it Shapes Our Perception and Communication | Design Skills academy">
+  <meta property="og:title" content="Graphic Design in Everyday Life: How it Shapes Our Perception and Communication | Design Skills Academy">
   <meta property="og:description" content="In this article, we explore the ubiquitous presence of graphic design in everyday life and how it influences 
   our decision-making, emotions, and behavior.">
   <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">

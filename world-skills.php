@@ -41,7 +41,11 @@
   <!-- Page Title -->
 
   <title>Designskill</title>
+<<<<<<< Updated upstream
 >>>>>>> f61e5748b45c15775c15f2afb6e466b6c38e6f67
+=======
+>>>>>>> 007607216477b4a003b7dac2c9d757c6eacc3db8
+>>>>>>> Stashed changes
 
   <!-- Favicon and Touch Icons -->
 
