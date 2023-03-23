@@ -12,16 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="" />
+  <!-- Primary Meta Tags -->
+    <title>Design Skills academy | Media Study Courses</title>
+    <meta name="title" content="Design Skills academy | Media Study Courses">
+    <meta name="description" content="Design Skills Academy has a unique teaching methodology and training standards. We promote design study, research and promotional activities as part of the curriculum">
 
-  <meta name="author" content="ThemeMascot" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.designskills.com/about">
+    <meta property="og:title" content="Design Skills academy | Media Study Courses">
+    <meta property="og:description" content="Design Skills Academy has a unique teaching methodology and training standards. We promote design study, research and promotional activities as part of the curriculum">
+    <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <!-- Page Title -->
+    <!-- Twitter -->
+    <meta property="twitter:url" content="https://www.designskills.com/about">
+    <meta property="twitter:title" content="Design Skills academy | Media Study Courses">
+    <meta property="twitter:description" content="Design Skills Academy has a unique teaching methodology and training standards. We promote design study, research and promotional activities as part of the curriculum">
+    <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
 
+  
   <link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
 
   

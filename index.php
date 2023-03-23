@@ -12,15 +12,25 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-	<meta name="description" content="Designskill" />
+	<meta name="author" content="Shubhchintak Technology" />
 
-	<meta name="keywords" content="Designskill" />
+	<!-- Primary Meta Tags -->
+	<title>Media Study Courses | Learn Art and Media Skills | Design Skills academy</title>
+	<meta name="title" content="Design Skills academy | Media Study Courses | Design Skills academy">
+	<meta name="description" content="Take your digital media skills to the next level with our media study courses. Choose from a variety of topics and learn from industry experts.">
 
-	<meta name="author" content="Designskill" />
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.designskills.com/index">
+	<meta property="og:title" content="Media Study Courses | Learn Art and Media Skills | Design Skills academy">
+	<meta property="og:description" content="Take your digital media skills to the next level with our media study courses. Choose from a variety of topics and learn from industry experts.">
+	<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-	<!-- Page Title -->
-
-	<title>Designskill</title>
+	<!-- Twitter -->
+	<meta property="twitter:url" content="https://www.designskills.com/index">
+	<meta property="twitter:title" content="Media Study Courses | Learn Art and Media Skills | Design Skills academy">
+	<meta property="twitter:description" content="Take your digital media skills to the next level with our media study courses. Choose from a variety of topics and learn from industry experts.">
+	<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 	<!-- Favicon and Touch Icons -->
 

@@ -10,16 +10,27 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  
 
-  <meta name="keywords" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="author" content="ThemeMascot" />
+  <!-- Primary Meta Tags -->
+  <title>Media Student Work | Examples of Digital Media Projects by Our Students | Design Skills academy</title>
+  <meta name="title" content="Designskill">
+  <meta name="description" content="Explore our students' creative and innovative digital media projects. From video production to graphic design, our media students showcase their skills and talent in this inspiring gallery.">
 
-  <!-- Page Title -->
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.designskills.com/students-work">
+  <meta property="og:title" content="Media Student Work | Examples of Digital Media Projects by Our Students | Design Skills academy">
+  <meta property="og:description" content="Explore our students' creative and innovative digital media projects. From video production to graphic design, our media students showcase their skills and talent in this inspiring gallery.">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
-
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://www.designskills.com/students-work">
+  <meta property="twitter:title" content="Media Student Work | Examples of Digital Media Projects by Our Students | Design Skills academy">
+  <meta property="twitter:description" content="Explore our students' creative and innovative digital media projects. From video production to graphic design, our media students showcase their skills and talent in this inspiring gallery.">
+  <meta property="twitter:image"content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
   <!-- Favicon and Touch Icons -->
 
   <link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
