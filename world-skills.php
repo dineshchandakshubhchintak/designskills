@@ -913,7 +913,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_switzerland04.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland04.webp" alt="world_skills_switzerland04">
 
                         <div class="overlay-shade"></div>
 
@@ -925,7 +925,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_switzerland04.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_switzerland04.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -939,7 +939,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_switzerland06.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland06.webp" alt="world_skills_switzerland06">
 
                         <div class="overlay-shade"></div>
 
@@ -951,7 +951,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_switzerland06.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_switzerland06.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -963,7 +963,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_team india01.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_team india01.webp" alt="world_skills_team india01">
 
                         <div class="overlay-shade"></div>
 
@@ -975,7 +975,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_team india01.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_team india01.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -987,7 +987,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_teamindia02.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_teamindia02.webp" alt="world_skills_teamindia02">
 
                         <div class="overlay-shade"></div>
 
@@ -999,7 +999,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_teamindia02.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_teamindia02.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -1011,7 +1011,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_webdesign01.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_webdesign01.webp" alt="world_skills_webdesign01">
 
                         <div class="overlay-shade"></div>
 
@@ -1023,7 +1023,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_webdesign01.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_webdesign01.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -1035,7 +1035,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/wp_20150811_003.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/wp_20150811_003.webp" alt="wp_20150811_003">
 
                         <div class="overlay-shade"></div>
 
@@ -1047,7 +1047,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/wp_20150811_003.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/wp_20150811_003.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -1061,7 +1061,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/medal_pictures.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/medal_pictures.webp" alt="medal_pictures">
 
                         <div class="overlay-shade"></div>
 
@@ -1073,7 +1073,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/medal_pictures.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/medal_pictures.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -1085,7 +1085,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/top_panel.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/top_panel.webp" alt="top_panel">
 
                         <div class="overlay-shade"></div>
 
@@ -1097,7 +1097,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/top_panel.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/top_panel.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -1109,7 +1109,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_austria.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_austria.webp" alt="world_skills_austria">
 
                         <div class="overlay-shade"></div>
 
@@ -1121,7 +1121,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_austria.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_austria.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
@@ -1133,7 +1133,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="img/world-skills/thumbnail/world_skills_switzerland07.jpg" alt="project">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland07.webp" alt="world_skills_switzerland07">
 
                         <div class="overlay-shade"></div>
 
@@ -1145,7 +1145,7 @@
 
                           <div class="icons-holder-inner">
 
-                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/world-skills/fullview/world_skills_switzerland07.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                            <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/world-skills/fullview/world_skills_switzerland07.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                           </div>
 
