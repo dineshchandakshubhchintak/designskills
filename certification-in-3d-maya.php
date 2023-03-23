@@ -181,7 +181,7 @@
 
     <section id="home">
 
-       <img src="img/cources/VISUAL_EFFECTSArtboard.jpg" alt="Nature" class="responsive">  
+       <img src="opt_img/cources/VISUAL_EFFECTSArtboard.webp" alt="VISUAL_EFFECTSArtboard" class="responsive">  
 
     </section>
 
@@ -243,7 +243,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> 
 
-                 <img src="img/Icons/common-icon11.png" alt="">
+                 <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -261,7 +261,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -279,7 +279,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -297,7 +297,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                 <img src="img/Icons/common-icon11.png" alt=""> 
+                 <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11"> 
 
                 </a>
 
@@ -327,7 +327,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> 
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -345,7 +345,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                 <img src="img/Icons/common-icon11.png" alt=""> 
+                 <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11"> 
 
                 </a>
 
@@ -363,7 +363,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -381,7 +381,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
