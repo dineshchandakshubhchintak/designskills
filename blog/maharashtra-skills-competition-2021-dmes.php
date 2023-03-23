@@ -12,13 +12,28 @@
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
-  <meta name="description" content="Designskill" />
+  <meta name="author" content="Shubhchintak Technology" />
 
-  <meta name="keywords" content="Designskill" />
+  <!-- Primary Meta Tags -->
+  <title>Maharashtra Skills Competition 2021 - Showcasing Excellence in Skills| Design Skills academy</title>
+  <meta name="title" content="Maharashtra Skills Competition 2021 - Showcasing Excellence in Skills| Design Skills academy">
+  <meta name="description" content="Maharashtra Skills Competition 2021 is a platform for young and talented individuals to showcase their skills and compete with their peers in various domains.">
 
-  <meta name="author" content="ThemeMascot" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://designskills.com/blog/maharashtra-skills-competition-2021-dmes">
+  <meta property="og:title" content="Maharashtra Skills Competition 2021 - Showcasing Excellence in Skills| Design Skills academy">
+  <meta property="og:description content="Maharashtra Skills Competition 2021 is a platform for young and talented individuals to showcase their skills and compete with their peers in various domains.">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <title>Designskill</title>
+  <!-- Twitter -->
+  <meta property="twitter:url" content="https://designskills.com/blog/maharashtra-skills-competition-2021-dmes">
+  <meta property="twitter:title" Maharashtra Skills Competition 2021 - Showcasing Excellence in Skills| Design Skills academy">
+  <meta property="twitter:description" content="Maharashtra Skills Competition 2021 is a platform for young and talented individuals to showcase their skills and compete with their peers in various domains.">
+  <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+
+
+  
 
   <!-- Favicon and Touch Icons -->
 

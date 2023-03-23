@@ -14,18 +14,25 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 
-<meta name="description" content="LearnPress | Education & Courses HTML Template" />
+<meta name="author" content="Shubhchintak Technology" />
 
-<meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
+<!-- Primary Meta Tags -->
+<title>Certification in 3D Maya Course | Learn to Create Stunning Visuals | Design Skills Academy</title>
+<meta name="title" content="Certification in 3D Maya Course | Learn to Create Stunning Visuals | Design Skills Academy">
+<meta name="description" content="Unlock your potential and become a skilled 3D artist with our comprehensive certification in 3D Maya course. Learn the fundamentals of 3D modeling, animation, and rendering using industry-standard software and techniques to create stunning visual content for film, television, and games.">
 
-<meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/certification-in-3d-maya.php">
+<meta property="og:title" content="Certification in 3D Maya Course | Learn to Create Stunning Visuals | Design Skills Academy">
+<meta property="og:description" content="Unlock your potential and become a skilled 3D artist with our comprehensive certification in 3D Maya course. Learn the fundamentals of 3D modeling, animation, and rendering using industry-standard software and techniques to create stunning visual content for film, television, and games.">
+<meta property="og:image" content="https:www.//designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-
-
-<!-- Page Title -->
-
-<title>Designskill</title>
-
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/certification-in-3d-maya.php">
+<meta property="twitter:title" content="Certification in 3D Maya Course | Learn to Create Stunning Visuals | Design Skills Academy">
+<meta property="twitter:description" content="Unlock your potential and become a skilled 3D artist with our comprehensive certification in 3D Maya course. Learn the fundamentals of 3D modeling, animation, and rendering using industry-standard software and techniques to create stunning visual content for film, television, and games.">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 
 <!-- Favicon and Touch Icons -->

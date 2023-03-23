@@ -14,17 +14,25 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 
-<meta name="description" content="Designskill" />
+<meta name="author" content="Shubhchintak Technology" />
 
-<meta name="keywords" content="Designskill" />
+<!-- Primary Meta Tags -->
+<title>Certification in Film Making & TV Production | Master the Art of Visual Storytelling | Design Skills Academy</title>
+<meta name="title" content="Certification in Film Making & TV Production | Master the Art of Visual Storytelling | Design Skills Academy">
+<meta name="description" content="Learn the skills and techniques needed to create compelling visual stories for film and television with our comprehensive certification in film making & TV production. Explore the entire production process from ideation to distribution and gain hands-on experience with industry-standard equipment and software">
 
-<meta name="author" content="ThemeMascot" />
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://designskills.com/digital-film-production.php">
+<meta property="og:title" content="Certification in Film Making & TV Production | Master the Art of Visual Storytelling | Design Skills Academy">
+<meta property="og:description" content="Learn the skills and techniques needed to create compelling visual stories for film and television with our comprehensive certification in film making & TV production. Explore the entire production process from ideation to distribution and gain hands-on experience with industry-standard equipment and software">
+<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-
-
-<!-- Page Title -->
-
-<title>Designskill</title>
+<!-- Twitter -->
+<meta property="twitter:url" content="https://designskills.com/digital-film-production.php">
+<meta property="twitter:title" content="Certification in Film Making & TV Production | Master the Art of Visual Storytelling | Design Skills Academy">
+<meta property="twitter:description" content="Learn the skills and techniques needed to create compelling visual stories for film and television with our comprehensive certification in film making & TV production. Explore the entire production process from ideation to distribution and gain hands-on experience with industry-standard equipment and software">
+<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 
 
