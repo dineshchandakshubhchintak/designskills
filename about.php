@@ -42,23 +42,23 @@
 
   <!-- Stylesheet -->
 
-  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="css/bootstrap.min.css" rel="preload" type="text/css">
 
-  <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
+  <link href="css/jquery-ui.min.css" rel="preload" type="text/css">
 
-  <link href="css/animate.css" rel="stylesheet" type="text/css">
+  <link href="css/animate.css" rel="preload" type="text/css">
 
-  <link href="css/css-plugin-collections.css" rel="stylesheet" />
+  <link href="css/css-plugin-collections.css" rel="preload" />
 
-  <link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet" />
+  <link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="preload" />
 
-  <link href="css/style-main.css" rel="stylesheet" type="text/css">
+  <link href="css/style-main.css" rel="preload" type="text/css">
 
-  <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
+  <link href="css/custom-bootstrap-margin-padding.css" rel="preload" type="text/css">
 
-  <link href="css/responsive.css" rel="stylesheet" type="text/css">
+  <link href="css/responsive.css" rel="preload" type="text/css">
 
-  <link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
+  <link href="css/colors/theme-skin-color-set-1.css" rel="preload" type="text/css">
 
   
 
@@ -388,7 +388,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="India Skills 2018" src="opt_img/awards/India Skills 2018.webp">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="India Skills 2018" src="opt_img/awards/India Skills 2018.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -402,7 +402,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="Italy_Skills" src="opt_img/awards/Italy_Skills.webp">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Italy_Skills" src="opt_img/awards/Italy_Skills.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
@@ -536,7 +536,7 @@
 
                     <div class="col-md-6">
 
-                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sathish_Profile_picture.webp" alt="Sathish_Profile_picture"> </div>
+                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sathish_Profile_picture.webp" alt="Sathish_Profile_picture" loading="lazy"> </div>
 
                     </div>
 
@@ -568,7 +568,7 @@
 
                     <div class="col-md-6">
 
-                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sri_Profile_picture.webp" alt=""> </div>
+                      <div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sri_Profile_picture.webp" alt="Sri_Profile_picture" loading="lazy"> </div>
 
                     </div>
 
@@ -630,7 +630,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="SATHISH_NARAYANAN" src="opt_img/about/SATHISH_NARAYANAN.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="SATHISH_NARAYANAN" src="opt_img/about/SATHISH_NARAYANAN.webp"loading="lazy">
 
                       </div>
 
@@ -674,7 +674,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="radhika" src="opt_img/about/radhika.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="radhika" src="opt_img/about/radhika.webp"loading="lazy">
 
                       </div>
 
@@ -696,7 +696,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="madhukar" src="opt_img/about/madhukar.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="madhukar" src="opt_img/about/madhukar.webp"loading="lazy">
 
                       </div>
 
@@ -718,7 +718,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="shreya" src="opt_img/about/shreya.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="shreya" src="opt_img/about/shreya.webp"loading="lazy">
 
                       </div>
 
@@ -740,7 +740,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="prasad" src="opt_img/about/prasad.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="prasad" src="opt_img/about/prasad.webp" loading="lazy">
 
                       </div>
 
@@ -762,7 +762,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="abhishek" src="opt_img/about/abhishek.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="abhishek" src="opt_img/about/abhishek.webp" loading="lazy">
 
                       </div>
 
@@ -784,7 +784,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="abhijit" src="opt_img/about/abhijit.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="abhijit" src="opt_img/about/abhijit.webp" loading="lazy">
 
                       </div>
 
@@ -844,7 +844,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="arularasn" src="opt_img/about/arularasn.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="arularasn" src="opt_img/about/arularasn.webp" loading="lazy">
 
                       </div>
 
@@ -866,7 +866,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="woolfgang" src="opt_img/about/woolfgang.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="woolfgang" src="opt_img/about/woolfgang.webp" loading="lazy">
 
                       </div>
 
@@ -888,7 +888,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="vikramveturi" src="opt_img/about/vikramveturi.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="vikramveturi" src="opt_img/about/vikramveturi.webp" loading="lazy">
 
                       </div>
 
@@ -910,7 +910,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="ashishkulkarni" src="opt_img/about/ashishkulkarni.webp">
+                    <div class="thumb"> <img class="img-fullwidth" alt="ashishkulkarni" src="opt_img/about/ashishkulkarni.webp" loading="lazy">
 
                     </div>
 
@@ -932,7 +932,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="anbujawahar" src="opt_img/about/anbujawahar.webp"></div>
+                    <div class="thumb"> <img class="img-fullwidth" alt="anbujawahar" src="opt_img/about/anbujawahar.webp" loading="lazy"></div>
 
                     <div class="details p-15 pt-10 pb-10 minh-sty-one">
 
@@ -952,7 +952,7 @@
 
                   <div class="hover-effect mb-30">
 
-                    <div class="thumb"> <img class="img-fullwidth" alt="geetamohan" src="opt_img/about/geetamohan.webp"></div>
+                    <div class="thumb"> <img class="img-fullwidth" alt="geetamohan" src="opt_img/about/geetamohan.webp" loading="lazy"></div>
 
                     <div class="details p-15 pt-10 pb-10 minh-sty-one">
 

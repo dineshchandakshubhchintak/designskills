@@ -43,7 +43,7 @@
 
 <!-- Favicon and Touch Icons -->
 
-<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+<link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -193,7 +193,7 @@
 
     <!--</section>-->
 
-     <img src="img/Contact_Final.jpg" alt="Nature" class="responsive">
+     <img src="opt_img/Contact_Final.webp" alt="Contact_Final" class="responsive" loading="lazy">
 
     <!-- Section Contact -->
 
