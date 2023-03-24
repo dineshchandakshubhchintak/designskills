@@ -3,6 +3,12 @@ RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule (.*) $1.php [L]
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule (.*) $1.html [L]
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+
+
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php80” package as the default “PHP” programming language.
@@ -10,3 +16,17 @@ RewriteRule (.*) $1.html [L]
   AddHandler application/x-httpd-ea-php80___lsphp .php .php8 .phtml
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
+<IfModule mod_expires.c> 
+  ExpiresActive On
+  ExpiresDefault "access plus 1 seconds"
+  ExpiresByType text/html "access plus 84600 seconds"
+  ExpiresByType image/x-icon "access plus 2592000 seconds"
+  ExpiresByType image/gif "access plus 2592000 seconds"
+  ExpiresByType image/jpg "access plus 2592000 seconds"
+  ExpiresByType image/webp "access plus 2592000 seconds"
+  ExpiresByType image/svg "access plus 2592000 seconds"
+  ExpiresByType image/png "access plus 2592000 seconds"
+  ExpiresByType text/css "access plus 2592000 seconds"
+  ExpiresByType text/javascript "access plus 2592000 seconds"
+  ExpiresByType application/x-javascript "access plus 2592000 seconds"
+</IfModule>
