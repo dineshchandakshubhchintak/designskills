@@ -17,17 +17,17 @@
   <!-- Primary Meta Tags -->
 <title>The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy</title>
 <meta name="title" content="The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy">
-<meta name="description" content="Designskill">
+<meta name="description" content="Explore the impact of industrial designing on user experiences, and how it influences the way we interact with products and brands. Gain insights into the challenges and opportunities of industrial designing, and why it is a critical factor for success in today's competitive market.">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://designskills.com/">
+<meta property="og:url" content="https://designskills.com/blog/importance-of-industrial-designing">
 <meta property="og:title" content="The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy">
 <meta property="og:description" content="Explore the impact of industrial designing on user experiences, and how it influences the way we interact with products and brands. Gain insights into the challenges and opportunities of industrial designing, and why it is a critical factor for success in today's competitive market.">
 <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 <!-- Twitter -->
-<meta property="twitter:url" content="https://designskills.com/">
+<meta property="twitter:url" content="https://designskills.com/blog/importance-of-industrial-designing">
 <meta property="twitter:title" content="The Importance of Industrial Designing: Shaping Products, Brands, and User Experiences | Design Skills Academy">
 <meta property="twitter:description" content="Explore the impact of industrial designing on user experiences, and how it influences the way we interact with products and brands. Gain insights into the challenges and opportunities of industrial designing, and why it is a critical factor for success in today's competitive market.">
 <meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
@@ -35,7 +35,7 @@
   
 <!-- Favicon and Touch Icons -->
 
-  <link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+  <link href="../opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
   <link href="../images/apple-touch-icon.png" rel="apple-touch-icon">
 <!-- Google tag (gtag.js) -->
@@ -93,7 +93,7 @@
 
         <!-- Section: inner-header -->
 
-        <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="../img/blog/blogbg3.jpg" style="height:300px">
+        <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="../opt_img/blog/blogbg3.webp" style="height:300px">
 
           <div class="container pt-60 pb-60">
 

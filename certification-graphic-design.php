@@ -39,7 +39,7 @@
 
 <!-- Favicon and Touch Icons -->
 
-<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+<link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -177,7 +177,7 @@
 
     <section id="home">
 
-        <img src="img/cources/COMMUNICATION_DESIGN.jpg" alt="Nature" class="responsive">
+        <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive">
 
     </section>
 
@@ -239,7 +239,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> 
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -257,7 +257,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -275,7 +275,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                   <img src="img/Icons/common-icon11.png" alt="">
+                   <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -303,7 +303,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> 
 
-                  <img src="img/Icons/common-icon11.png" alt="">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
@@ -321,7 +321,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                   <img src="img/Icons/common-icon11.png" alt="">
+                   <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                 </a>
 
