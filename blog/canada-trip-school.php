@@ -35,7 +35,7 @@
 
   <!-- Favicon and Touch Icons -->
 
-  <link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+  <link href="../opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
   <link href="../images/apple-touch-icon.png" rel="apple-touch-icon">
 <!-- Google tag (gtag.js) -->
@@ -131,7 +131,7 @@
 
     				 <div class="col-md-6">
 
-                        <img alt="CANADA-TRIP-SCHOOL" src="../opt_img/blog/CANADA-TRIP-SCHOOL.webp" class="img-responsive img-fullwidth ">
+                        <img alt="CANADA-TRIP-SCHOOL" src="../opt_img/blog/CANADA-TRIP-SCHOOL.webp" class="img-responsive img-fullwidth " loading="lazy">
 
                         <br>
 

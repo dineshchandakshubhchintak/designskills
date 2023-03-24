@@ -34,7 +34,7 @@
 
 
 	<!-- Favicon and Touch Icons -->
-	<link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+	<link href="../opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 	<link href="../images/apple-touch-icon.png" rel="apple-touch-icon">
 	<link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	<link href="../css/jquery-ui.min.css" rel="stylesheet" type="text/css">
@@ -92,7 +92,7 @@
 				<div class="container pb-10">
 					<div class="section-content">
 						<div class="row">
-							<div class="col-md-6"> <img alt="Importance-of-Having-ART-Basic" src="../opt_img/blog/Importance-of-Having-ART-Basic.webp" class="img-responsive img-fullwidth "> </div>
+							<div class="col-md-6"> <img alt="Importance-of-Having-ART-Basic" src="../opt_img/blog/Importance-of-Having-ART-Basic.webp" class="img-responsive img-fullwidth " loading="lazy"> </div>
 							<div class="col-md-6">
 								<h3 class="mb-30 line-height-1 text-uppercase text-center">Importance of Having Art as a Base in the<span class="text-theme-color-2"> Design Industry</span></h3>
 								<p>As mentioned above, the study of art is imperative for pursuing a career in the design industry. The art field in itself comprises of several topics that are general as well as specialized. General knowledge of what art is and the principles of art is enough knowledge, but specializing in this field is what will get you ahead in the design industry.</p>

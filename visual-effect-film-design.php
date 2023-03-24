@@ -44,7 +44,7 @@
 
   <!-- Favicon and Touch Icons -->
 
-  <link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+  <link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
   <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -179,7 +179,7 @@
 
 
 
-        <img src="opt_img/cources/VISUAL_EFFECTSArtboard.webp" alt="NVISUAL_EFFECTSArtboard" class="responsive">
+        <img src="opt_img/cources/VISUAL_EFFECTSArtboard.webp" alt="NVISUAL_EFFECTSArtboard" class="responsive" loading="lazy">
 
         <!-- end .rev_slider_wrapper -->
 
@@ -251,7 +251,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                   </a>
 
@@ -269,7 +269,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                   </a>
 
@@ -287,7 +287,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                   </a>
 
@@ -315,7 +315,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                   </a>
 
@@ -333,7 +333,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                   </a>
 
@@ -351,7 +351,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                   </a>
 
