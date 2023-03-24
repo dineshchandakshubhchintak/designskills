@@ -102,7 +102,7 @@
 
       <!-- Section: inner-header -->
 
-      <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="../img/blog/blogbg3.jpg" style="height:300px">
+      <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="../opt_img/blog/blogbg3.webp" style="height:300px">
 
         <div class="container pt-60 pb-60">
 
