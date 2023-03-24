@@ -30,7 +30,7 @@
 	<meta property="twitter:url" content="https://www.designskills.com/index">
 	<meta property="twitter:title" content="Media Study Courses | Learn Art and Media Skills | Design Skills academy">
 	<meta property="twitter:description" content="Take your digital media skills to the next level with our media study courses. Choose from a variety of topics and learn from industry experts.">
-	<meta property="twitter:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+	<meta property="twitter:image"  content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 	<!-- Favicon and Touch Icons -->
 
@@ -40,64 +40,67 @@
 
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYNJ94051"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYNJ94051"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-4XYNJ94051');
-</script>
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-4XYNJ94051');
+	</script>
 
 	<script type="application/ld+json">
 		{
-		"@context": "https://schema.org",
-		"@type": "Corporation",
-		"name": "Design Skills Academy",
-		"url": "https://www.designskills.com",
-		"logo": "https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png",
-		"sameAs": [
-			"https://www.facebook.com/designskills",
-			"https://www.instagram.com/designskills.pune/",
-			"https://www.youtube.com/channel/UCUmqh4smgHZkmYv4IFsG4dw"
-		]
+			"@context": "https://schema.org",
+			"@type": "Corporation",
+			"name": "Design Skills Academy",
+			"url": "https://www.designskills.com",
+			"logo": "https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png",
+			"sameAs": [
+				"https://www.facebook.com/designskills",
+				"https://www.instagram.com/designskills.pune/",
+				"https://www.youtube.com/channel/UCUmqh4smgHZkmYv4IFsG4dw"
+			]
 		}
 	</script>
 
 
 </head>
-	<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 
-	<link href="css/animate.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
 
-	<link href="css/css-plugin-collections.css" rel="stylesheet" />
+<link href="css/css-plugin-collections.css" rel="stylesheet" />
 
-	<link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet" />
+<link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet" />
 
-	<link href="css/style-main.css" rel="stylesheet" type="text/css">
+<link href="css/style-main.css" rel="stylesheet" type="text/css">
 
-	<link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
+<link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
 
-	<link href="css/responsive.css" rel="stylesheet" type="text/css">
-
-
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
 
 
 
-	<!-- CSS | Theme Color -->
 
-	<link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
 
-	<!-- Revolution Slider 5.x CSS settings -->
+<!-- CSS | Theme Color -->
 
-	<!-- <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css" />
+<link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
+
+<!-- Revolution Slider 5.x CSS settings -->
+
+<!-- <link href="js/revolution-slider/css/settings.css" rel="stylesheet" type="text/css" />
 
 	<link href="js/revolution-slider/css/layers.css" rel="stylesheet" type="text/css" />
 
 	<link href="js/revolution-slider/css/navigation.css" rel="stylesheet" type="text/css" /> -->
 
-	
+
 
 </head>
 
@@ -115,187 +118,187 @@
 
 			<section id="home">
 
-				  <div id="myCarousel" class="carousel slide d-md-none " data-ride="carousel">
+				<div id="myCarousel" class="carousel slide d-md-none " data-ride="carousel">
 
-				    <!-- Indicators -->
+					<!-- Indicators -->
 
-				    <ol class="carousel-indicators">
+					<ol class="carousel-indicators">
 
-				      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 
-				      <li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
 
-				      <li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
 
-				    </ol>
+					</ol>
 
 
 
-				    <!-- Wrapper for slides -->
+					<!-- Wrapper for slides -->
 
-				    <div class="carousel-inner">
+					<div class="carousel-inner">
 
 
 
-				      <div class="item active">
+						<div class="item active">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_Mobile01.webp" alt="Design_Skills_Academy_Mobile01" style="width:100%;" loading="lazy">
+							<img src="opt_img/banner/Design_Skills_Academy_Mobile01.webp" alt="Design_Skills_Academy_Mobile01" style="width:100%;" loading="lazy">
 
-				        <div class="carousel-caption" style="padding-bottom: 50px;">
+							<div class="carousel-caption" style="padding-bottom: 50px;">
 
-				          <h3 class="slide-sty" style="line-height: 29px; font-size: 25px;">CREATIVE ART AND MEDIA STUDIES </h3>
+								<h3 class="slide-sty" style="line-height: 29px; font-size: 25px;">CREATIVE ART AND MEDIA STUDIES </h3>
 
-				          
 
-				        </div>
 
-				      </div>
+							</div>
 
-				    	<div class="item">
+						</div>
 
-				        <img src="opt_img/banner/Design_Skills_Academy_Mobile02A.webp" alt="Design_Skills_Academy_Mobile02A" style="width:100%;" loading="lazy">
+						<div class="item">
 
-				        <div class="carousel-caption" style="padding-bottom: 50px;">
+							<img src="opt_img/banner/Design_Skills_Academy_Mobile02A.webp" alt="Design_Skills_Academy_Mobile02A" style="width:100%;" loading="lazy">
 
-				          <h3 class="slide-sty" style="line-height: 29px; font-size: 25px;">SEVERAL ACHIEVEMENT AND AWARDS</h3>
+							<div class="carousel-caption" style="padding-bottom: 50px;">
 
-				          
+								<h3 class="slide-sty" style="line-height: 29px; font-size: 25px;">SEVERAL ACHIEVEMENT AND AWARDS</h3>
 
-				        </div>
 
-				      </div>
 
-			      	<div class="item">
+							</div>
 
-				        <img src="opt_img/banner/Design_Skills_Academy_Mobile03.webp" alt="Design_Skills_Academy_Mobile03" style="width:100%;" loading="lazy">
+						</div>
 
-				        <div class="carousel-caption" style="padding-bottom: 50px;">
+						<div class="item">
 
-				          <h3 class="slide-sty" style="line-height: 29px; font-size: 25px;">INTEGRATING DESIGN <br>EXCELLENCE</h3>
+							<img src="opt_img/banner/Design_Skills_Academy_Mobile03.webp" alt="Design_Skills_Academy_Mobile03" style="width:100%;" loading="lazy">
 
-				          
+							<div class="carousel-caption" style="padding-bottom: 50px;">
 
-				        </div>
+								<h3 class="slide-sty" style="line-height: 29px; font-size: 25px;">INTEGRATING DESIGN <br>EXCELLENCE</h3>
 
-				      </div>
 
-		    		</div>
 
+							</div>
 
+						</div>
 
-				    <!-- Left and right controls -->
+					</div>
 
-				    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
 
-				      <span class="glyphicon glyphicon-chevron-left"></span>
 
-				      <span class="sr-only">Previous</span>
+					<!-- Left and right controls -->
 
-				    </a>
+					<a class="left carousel-control" href="#myCarousel" data-slide="prev">
 
-				    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-left"></span>
 
-				      <span class="glyphicon glyphicon-chevron-right"></span>
+						<span class="sr-only">Previous</span>
 
-				      <span class="sr-only">Next</span>
+					</a>
 
-				    </a>
+					<a class="right carousel-control" href="#myCarousel" data-slide="next">
 
-				  </div>
+						<span class="glyphicon glyphicon-chevron-right"></span>
 
-				  <div id="myCarousel1" class="carousel slide d-none d-md-block" data-ride="carousel1">
+						<span class="sr-only">Next</span>
 
-				    <!-- Indicators -->
+					</a>
 
-				    <ol class="carousel-indicators">
+				</div>
 
-				      <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+				<div id="myCarousel1" class="carousel slide d-none d-md-block" data-ride="carousel1">
 
-				      <li data-target="#myCarousel1" data-slide-to="1"></li>
+					<!-- Indicators -->
 
-				      <li data-target="#myCarousel1" data-slide-to="2"></li>
+					<ol class="carousel-indicators">
 
-				    </ol>
+						<li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
 
+						<li data-target="#myCarousel1" data-slide-to="1"></li>
 
+						<li data-target="#myCarousel1" data-slide-to="2"></li>
 
-				    <!-- Wrapper for slides -->
+					</ol>
 
-				    <div class="carousel-inner">
 
 
+					<!-- Wrapper for slides -->
 
-				      <div class="item active">
+					<div class="carousel-inner">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_01A.webp" alt="Design_Skills_Academy_01A" style="width:100%;" loading="lazy">
 
-				        <div class="carousel-caption">
 
-				          <h3 class="slide-sty">CREATIVE ART & MEDIA STUDIES </h3>
+						<div class="item active">
 
-				          <p class="slide-p">Supported by best of the Faculties & Mentors Backed by industry Leaders & Veterans</p>
+							<img src="opt_img/banner/Design_Skills_Academy_01A.webp" alt="Design_Skills_Academy_01A" style="width:100%;" loading="lazy">
 
-				        </div>
+							<div class="carousel-caption">
 
-				      </div>
+								<h3 class="slide-sty">CREATIVE ART & MEDIA STUDIES </h3>
 
+								<p class="slide-p">Supported by best of the Faculties & Mentors Backed by industry Leaders & Veterans</p>
 
+							</div>
 
-				      <div class="item">
+						</div>
 
-				        <img src="opt_img/banner/Design_Skills_Academy_02.webp" alt="Design_Skills_Academy_02" style="width:100%;" loading="lazy">
 
-				        <div class="carousel-caption">
 
-				          <h3 class="slide-sty"> SEVERAL ACHIEVEMENT & AWARDS </h3>
+						<div class="item">
 
-				          <p class="slide-p">We provide training for India Skills & World Skills International. <br>Our students get an opportunity to compete at domestic and international competition.</p>
+							<img src="opt_img/banner/Design_Skills_Academy_02.webp" alt="Design_Skills_Academy_02" style="width:100%;" loading="lazy">
 
-										
+							<div class="carousel-caption">
 
-				        </div>
+								<h3 class="slide-sty"> SEVERAL ACHIEVEMENT & AWARDS </h3>
 
-				      </div>
+								<p class="slide-p">We provide training for India Skills & World Skills International. <br>Our students get an opportunity to compete at domestic and international competition.</p>
 
-				    
 
-			      	<div class="item">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_03.webp" alt="Design_Skills_Academy_03" style="width:100%;" loading="lazy">
+							</div>
 
-				        <div class="carousel-caption">
+						</div>
 
-				          <h3 class="slide-sty">Integrating Design Excellence </h3>
 
-				          <p class="slide-p">Our pedagogy and hands on skill training will empower you to have your dream job. </p>
 
-				        </div>
+						<div class="item">
 
-				      </div>
+							<img src="opt_img/banner/Design_Skills_Academy_03.webp" alt="Design_Skills_Academy_03" style="width:100%;" loading="lazy">
 
-		    		</div>
+							<div class="carousel-caption">
 
+								<h3 class="slide-sty">Integrating Design Excellence </h3>
 
+								<p class="slide-p">Our pedagogy and hands on skill training will empower you to have your dream job. </p>
 
-				    <!-- Left and right controls -->
+							</div>
 
-				    <a class="left carousel-control" href="#myCarousel1" data-slide="prev">
+						</div>
 
-				      <span class="glyphicon glyphicon-chevron-left"></span>
+					</div>
 
-				      <span class="sr-only">Previous</span>
 
-				    </a>
 
-				    <a class="right carousel-control" href="#myCarousel1" data-slide="next">
+					<!-- Left and right controls -->
 
-				      <span class="glyphicon glyphicon-chevron-right"></span>
+					<a class="left carousel-control" href="#myCarousel1" data-slide="prev">
 
-				      <span class="sr-only">Next</span>
+						<span class="glyphicon glyphicon-chevron-left"></span>
 
-				    </a>
+						<span class="sr-only">Previous</span>
 
-				  </div>
+					</a>
+
+					<a class="right carousel-control" href="#myCarousel1" data-slide="next">
+
+						<span class="glyphicon glyphicon-chevron-right"></span>
+
+						<span class="sr-only">Next</span>
+
+					</a>
+
+				</div>
 
 			</section>
 
@@ -317,7 +320,8 @@
 
 										<a href="long-term-courses.php" class="text-white  "> <i class="fa fa-user text-white font-64"></i></a>
 
-										<h4 class="text-uppercase mt-20"><a href="long-term-courses.php" class="text-white  ">Courses</a></h4> </div>
+										<h4 class="text-uppercase mt-20"><a href="long-term-courses.php" class="text-white  ">Courses</a></h4>
+									</div>
 
 								</div>
 
@@ -331,7 +335,8 @@
 
 										<a href="img/DMES_Brochure.pdf" target="_blank" download="" class="more"> <i class="fa fa-comments-o text-white font-64"></i></a>
 
-										<h4 class="text-uppercase mt-20"><a href="img/DMES_Brochure.pdf" class="text-white">Propspects</a></h4> </div>
+										<h4 class="text-uppercase mt-20"><a href="img/DMES_Brochure.pdf" class="text-white">Propspects</a></h4>
+									</div>
 
 								</div>
 
@@ -345,7 +350,8 @@
 
 										<a href="contact.php" class="text-white "> <i class="fa fa-envelope-o text-white font-64"></i></a>
 
-										<h4 class="text-uppercase mt-20"><a href="contact.php" class="text-white">Post an Enquiry</a></h4> </div>
+										<h4 class="text-uppercase mt-20"><a href="contact.php" class="text-white">Post an Enquiry</a></h4>
+									</div>
 
 								</div>
 
@@ -359,7 +365,8 @@
 
 										<a href="tel:7447447499" class="text-white"> <i class="fa fa-mobile text-white font-64"></i></a>
 
-										<h4 class="text-uppercase mt-20"><a href="tel:7447447499" class="text-white">Call +91 7447447499</a></h4> </div>
+										<h4 class="text-uppercase mt-20"><a href="tel:7447447499" class="text-white">Call +91 7447447499</a></h4>
+									</div>
 
 								</div>
 
@@ -397,7 +404,8 @@
 
 											<h4 class="letter-space-1 mt-10 text-uppercase">Long Term<span class="text-theme-color-2"> Courses</span></h4>
 
-											<p>Courses to nurture students towards the creative career that they wish to pursue in the future.</p> <a href="long-term-courses.php" class="btn btn-sm btn-theme-colored">KNOW MORE</a> </div>
+											<p>Courses to nurture students towards the creative career that they wish to pursue in the future.</p> <a href="long-term-courses.php" class="btn btn-sm btn-theme-colored">KNOW MORE</a>
+										</div>
 
 									</div>
 
@@ -407,7 +415,8 @@
 
 											<h4 class=" letter-space-1 mt-10 text-uppercase">Short Term<span class="text-theme-color-2"> Courses</span></h4>
 
-											<p> Aimed in order to meet the exponentially growing demand of trained professionals.</p> <a href="short-term-courses.php" class="btn btn-sm btn-theme-colored">KNOW MORE</a> </div>
+											<p> Aimed in order to meet the exponentially growing demand of trained professionals.</p> <a href="short-term-courses.php" class="btn btn-sm btn-theme-colored">KNOW MORE</a>
+										</div>
 
 									</div>
 
@@ -427,9 +436,9 @@
 
 									<?php include 'enquire-now.php' ?>
 
-										<!-- Application Form End-->
+									<!-- Application Form End-->
 
-										<!-- Application Form End-->
+									<!-- Application Form End-->
 
 								</div>
 
@@ -583,7 +592,7 @@
 
 				<!--<div class="container pr-5 pl-5 mt-0 pt-70 pb-10 mb-0">-->
 
-			    <div class="container ">
+				<div class="container ">
 
 					<div class="section-title text-center">
 
@@ -593,21 +602,21 @@
 
 								<h2 class="mt-0 line-height-1 text-center text-uppercase mb-10 text-black-333 font-30">
 
-								    Our <span class="text-theme-color-2"> Courses</span>
+									Our <span class="text-theme-color-2"> Courses</span>
 
 								</h2>
 
 								<p class="pb-20">We offer courses which is more aligned towards industry job roles. Our syllabus and assignments are more inclained towards industry practices.
 
-									<br> High importance given for Strong foundation in Art & Design, Conceptual Understanding and fundamentals 
+									<br> High importance given for Strong foundation in Art & Design, Conceptual Understanding and fundamentals
 
 								</p>
 
-								<div class="portfolio-filter text-center mb-40" data-link-with="grid-petcare-gallery"> 
+								<div class="portfolio-filter text-center mb-40" data-link-with="grid-petcare-gallery">
 
-									<a class="active mb-sm-10" data-filter="*">All</a> 
+									<a class="active mb-sm-10" data-filter="*">All</a>
 
-									<a href="#computer" class="" data-filter=".computer">Long Term </a> 
+									<a href="#computer" class="" data-filter=".computer">Long Term </a>
 
 									<a href="#languages" class="" data-filter=".languages">Short Term</a>
 
@@ -627,9 +636,9 @@
 
 													<a href="certification-in-compositing.php">
 
-													    <img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp" loading="lazy">
+														<img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -639,9 +648,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="certification-in-compositing.php">Certification in Compositing</a>
+														<a href="certification-in-compositing.php">Certification in Compositing</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -665,9 +674,9 @@
 
 													<a href="certification-in-3d-maya.php">
 
-													    <img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp" loading="lazy">
+														<img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -677,9 +686,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="certification-in-3d-maya.php">Certification In 3D Maya</a>
+														<a href="certification-in-3d-maya.php">Certification In 3D Maya</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -703,9 +712,9 @@
 
 													<a href="certification-graphic-design.php">
 
-													    <img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp" loading="lazy">
+														<img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -715,11 +724,11 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="certification-graphic-design.php">Certification in Graphic Design</a>
+														<a href="certification-graphic-design.php">Certification in Graphic Design</a>
 
-													</h5> 
+													</h5>
 
-											    </div>
+												</div>
 
 											</div>
 
@@ -753,9 +762,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="certification-art-design.php">Certification in Art & Design</a>
+														<a href="certification-art-design.php">Certification in Art & Design</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -777,9 +786,9 @@
 
 												<div class="thumb">
 
-													<a href="digital-film-production.php"> 
+													<a href="digital-film-production.php">
 
-													    <img class="img-fullwidth" alt="digital_film" src="opt_img/cources/digital_film.webp" loading="lazy">
+														<img class="img-fullwidth" alt="digital_film" src="opt_img/cources/digital_film.webp" loading="lazy">
 
 													</a>
 
@@ -791,9 +800,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="digital-film-production.php">Digital Film Production</a>
+														<a href="digital-film-production.php">Digital Film Production</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -817,9 +826,9 @@
 
 													<a href="communication-design.php">
 
-													    <img class="img-fullwidth" alt="communication_design" src="opt_img/cources/communication_design.webp" loading="lazy">
+														<img class="img-fullwidth" alt="communication_design" src="opt_img/cources/communication_design.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -829,9 +838,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="communication-design.php">Communication Design</a>
+														<a href="communication-design.php">Communication Design</a>
 
-												    </h5> 
+													</h5>
 
 												</div>
 
@@ -855,9 +864,9 @@
 
 													<a href="industrial-design.php">
 
-													    <img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp" loading="lazy">
+														<img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -867,9 +876,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="industrial-design.php">Industrial Design</a>
+														<a href="industrial-design.php">Industrial Design</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -893,9 +902,9 @@
 
 													<a href="print-packaging.php">
 
-													    <img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp" loading="lazy">
+														<img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -905,9 +914,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="print-packaging.php">Printing & Packaging</a>
+														<a href="print-packaging.php">Printing & Packaging</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -931,9 +940,9 @@
 
 													<a href="visual-effect-film-design.php">
 
-													    <img class="img-fullwidth" alt="visual_effects" src="opt_img/cources/visual_effects.webp" loading="lazy">
+														<img class="img-fullwidth" alt="visual_effects" src="opt_img/cources/visual_effects.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -943,9 +952,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="visual-effect-film-design.php"> Visual Effect Film Design</a>
+														<a href="visual-effect-film-design.php"> Visual Effect Film Design</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -967,9 +976,9 @@
 
 												<div class="thumb">
 
-													<a href="animation-film-design.php"> 
+													<a href="animation-film-design.php">
 
-													    <img class="img-fullwidth" alt="animation_film" src="opt_img/cources/animation_film.webp" loading="lazy">
+														<img class="img-fullwidth" alt="animation_film" src="opt_img/cources/animation_film.webp" loading="lazy">
 
 													</a>
 
@@ -981,9 +990,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="animation-film-design.php">Animation Film Design</a>
+														<a href="animation-film-design.php">Animation Film Design</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -1007,9 +1016,9 @@
 
 													<a href="game-ar-and-vr-design.php">
 
-													    <img class="img-fullwidth" alt="game_ar_vr" src="opt_img/cources/game_ar_vr.webp" loading="lazy">
+														<img class="img-fullwidth" alt="game_ar_vr" src="opt_img/cources/game_ar_vr.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -1019,9 +1028,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="game-ar-and-vr-design.php">Game, Ar, vr, Design </a>
+														<a href="game-ar-and-vr-design.php">Game, Ar, vr, Design </a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -1045,9 +1054,9 @@
 
 													<a href="web-design-technology.php">
 
-													    <img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp" loading="lazy">
+														<img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp" loading="lazy">
 
-												    </a>
+													</a>
 
 												</div>
 
@@ -1057,9 +1066,9 @@
 
 													<h5 class="font-weight-700 text-uppercase mt-0">
 
-													    <a href="web-design-technology.php">Web Design Technology</a>
+														<a href="web-design-technology.php">Web Design Technology</a>
 
-													</h5> 
+													</h5>
 
 												</div>
 
@@ -1129,13 +1138,13 @@
 
 											<h5 class="mt-0 mb-5"><a href="about-us.php" class="text-white">Founder Director</a></h5>
 
-											<p class="mb-15 mt-15 text-white">DSA is an amalgamation of my passion and dedication towards curating a better environment for promoting art & design. With vision on my nodes, I am working relentlessly in bringing about a creative transition amid the youth of today.</p> 
+											<p class="mb-15 mt-15 text-white">DSA is an amalgamation of my passion and dedication towards curating a better environment for promoting art & design. With vision on my nodes, I am working relentlessly in bringing about a creative transition amid the youth of today.</p>
 
 											<a href="https://www.linkedin.com/in/sathishnarayanan/" class="btn btn-dark btn-theme-colored" target="_blank">
 
-										    <i class="fa fa-linkedin"></i></a> 
+												<i class="fa fa-linkedin"></i></a>
 
-									    </div>
+										</div>
 
 									</div>
 
@@ -1161,11 +1170,11 @@
 
 											<h5 class="mt-0 mb-5"><a href="about-us.php" class="text-white">Director</a></h5>
 
-											<p class="mb-15 mt-15 text-white">Driven by the zeal to promote art, I am involved in integrating creativity within youths. Being blessed with a decade of experience in Client Servicing and Design Consulting, I have been using these credentials to rudder DSA towards the summit.</p> 
+											<p class="mb-15 mt-15 text-white">Driven by the zeal to promote art, I am involved in integrating creativity within youths. Being blessed with a decade of experience in Client Servicing and Design Consulting, I have been using these credentials to rudder DSA towards the summit.</p>
 
 											<a href="https://www.linkedin.com/in/sridevi-sathish-5a7798116/" class="btn btn-dark btn-theme-colored" target="_blank">
 
-										    <i class="fa fa-linkedin"></i></a> 
+												<i class="fa fa-linkedin"></i></a>
 
 										</div>
 
@@ -1283,7 +1292,7 @@
 
 			</section>
 
-			
+
 
 			<!-- SECTION Gallery Grid 3 -->
 
@@ -1329,7 +1338,7 @@
 
 								<div class="gallery-isotope grid-4 gutter-small clearfix" data-lightbox="gallery">
 
-								
+
 
 									<!-- Portfolio Item Start -->
 
@@ -1341,7 +1350,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1369,7 +1379,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1399,7 +1410,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1427,7 +1439,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1455,7 +1468,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1483,7 +1497,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1511,7 +1526,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1539,7 +1555,8 @@
 
 											<div class="text-holder">
 
-												<!--<div class="title text-center">Sample Title</div>--></div>
+												<!--<div class="title text-center">Sample Title</div>-->
+											</div>
 
 											<div class="icons-holder">
 
@@ -1557,15 +1574,15 @@
 
 									<!-- Portfolio Item End -->
 
-									
+
 
 								</div>
 
-							    <div class="button-wrapper" style="text-align: center; padding-top: 20px;"> <a href="gallery.php" class="btn">View More <span class="icon-more-icon"></span></a> </div>
+								<div class="button-wrapper" style="text-align: center; padding-top: 20px;"> <a href="gallery.php" class="btn">View More <span class="icon-more-icon"></span></a> </div>
 
 							</div>
 
-							
+
 
 						</div>
 
@@ -1597,71 +1614,71 @@
 
 						</div>
 
-							<div class="row col-md-12 ">	
+						<div class="row col-md-12 ">
 
-									<div class="item col-md-3">
+							<div class="item col-md-3">
 
-										<div class="mb-30">
+								<div class="mb-30">
 
-											<div class="thumb">
+									<div class="thumb">
 
-												<iframe width="280" height="280" src="https://www.youtube.com/embed/L8tOZmzrFEw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-											</div>
-
-										</div>
+										<iframe width="280" height="280" src="https://www.youtube.com/embed/L8tOZmzrFEw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 									</div>
-
-									<div class="item col-md-3">
-
-										<div class="mb-30">
-
-											<div class="thumb">
-
-												<iframe width="280" height="280" src="https://www.youtube.com/embed/1Ad7yzmIDwg" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="item col-md-3">
-
-										<div class="mb-30">
-
-											<div class="thumb">
-
-												<iframe width="280" height="280" src="https://www.youtube.com/embed/haI7wRjQpRg" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-											</div>
-
-										</div>
-
-									</div>
-
-									<div class="item col-md-3">
-
-										<div class="mb-30">
-
-											<div class="thumb">
-
-												<iframe width="280" height="280" src="https://www.youtube.com/embed/uCRtvWNtFY4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-											</div>
-
-										</div>
-
-									</div>
-
-								<div class="button-wrapper" style="text-align: center; padding-top: 20px;"> <a href="video.php" class="btn">View More <span class="icon-more-icon"></span></a> 
 
 								</div>
 
 							</div>
 
-						
+							<div class="item col-md-3">
+
+								<div class="mb-30">
+
+									<div class="thumb">
+
+										<iframe width="280" height="280" src="https://www.youtube.com/embed/1Ad7yzmIDwg" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="item col-md-3">
+
+								<div class="mb-30">
+
+									<div class="thumb">
+
+										<iframe width="280" height="280" src="https://www.youtube.com/embed/haI7wRjQpRg" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="item col-md-3">
+
+								<div class="mb-30">
+
+									<div class="thumb">
+
+										<iframe width="280" height="280" src="https://www.youtube.com/embed/uCRtvWNtFY4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="button-wrapper" style="text-align: center; padding-top: 20px;"> <a href="video.php" class="btn">View More <span class="icon-more-icon"></span></a>
+
+							</div>
+
+						</div>
+
+
 
 					</div>
 
@@ -1713,7 +1730,7 @@
 
 	<script src="js/custom.js"></script>
 
-		
+
 
 </body>
 
