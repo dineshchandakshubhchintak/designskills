@@ -79,7 +79,8 @@
   gtag('config', 'G-4XYNJ94051');
 </script>
 
-</head>ref="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
+</head>
+<link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
 
 <!-- CSS | Responsive media queries -->
 
