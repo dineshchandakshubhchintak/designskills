@@ -32,7 +32,7 @@
 
 		<!-- Favicon and Touch Icons -->
 
-	<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+	<link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
 	<!-- Stylesheet -->
 
@@ -134,7 +134,7 @@
 
 													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-														<a href="img/dsa/advisory-1-1.jpg" data-lightbox-gallery="gallery"> <i class="fa fa-picture-o"></i> </a>
+														<a href="opt_img/dsa/advisory-1-1.webp" data-lightbox-gallery="gallery"> <i class="fa fa-picture-o"></i> </a>
 
 													</div>
 
@@ -156,7 +156,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-2-2.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-2-2.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -176,7 +176,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-3-3.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-3-3.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -196,7 +196,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-4-4.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-4-4.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -216,7 +216,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-5-5.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-5-5.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -236,7 +236,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-6-6.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-6-6.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -256,7 +256,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-7-7.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-7-7.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -276,7 +276,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-8-8.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-8-8.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -296,7 +296,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-9-9.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-9-9.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -316,7 +316,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-10-10.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-10-10.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -338,7 +338,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-11-11.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-11-11.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -358,7 +358,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-12-12.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-12-12.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -378,7 +378,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-13-13.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-13-13.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -398,7 +398,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-14-14.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-14-14.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -418,7 +418,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-15-15.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-15-15.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -438,7 +438,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-16-16.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-16-16.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -458,7 +458,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-17-17.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-17-17.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -478,7 +478,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-18-18.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-18-18.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -498,7 +498,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-19-19.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-19-19.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -518,7 +518,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-20-20.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-20-20.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -538,7 +538,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-21-21.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-21-21.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -558,7 +558,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-22-22.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-22-22.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -578,7 +578,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-24-24.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-24-24.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -598,7 +598,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-25-25.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-25-25.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -618,7 +618,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-26-26.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-26-26.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -638,7 +638,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-27-27.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-27-27.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -658,7 +658,7 @@
 
 												<div class="icons-holder-inner">
 
-													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/dsa/advisory-28-28.png" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+													<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/dsa/advisory-28-28.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
 												</div>
 
@@ -678,7 +678,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/animation-classes-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/animation-classes-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -698,7 +698,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/animation-institute-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/animation-institute-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -718,7 +718,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/art-design-classes-design-media-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/art-design-classes-design-media-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -738,7 +738,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/art-design-design-media-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/art-design-design-media-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -758,7 +758,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/ar-vr-in-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/ar-vr-in-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -778,7 +778,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/best-design-institute-design-media-school-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/best-design-institute-design-media-school-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -798,7 +798,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/best-fashion-design-institute-design-media-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/best-fashion-design-institute-design-media-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -818,7 +818,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/best-graphic-design-institute-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/best-graphic-design-institute-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -838,7 +838,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/communication-design-course-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/communication-design-course-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -858,7 +858,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-classes-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-classes-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -878,7 +878,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-media-edutainment-school-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-media-edutainment-school-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -898,7 +898,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-media-parents-meet.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-media-parents-meet.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -918,7 +918,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-media-school-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-media-school-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -938,7 +938,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-school-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-school-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -958,7 +958,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-deva-sir.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-deva-sir.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -978,7 +978,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-amish-writer.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-amish-writer.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -998,7 +998,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-annualday.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-annualday.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1018,7 +1018,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-annualpooja.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-annualpooja.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1038,7 +1038,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-anuragshourie.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-anuragshourie.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1058,7 +1058,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-asia-skills-abudhabi.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-asia-skills-abudhabi.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1078,7 +1078,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-aubreyalousis.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-aubreyalousis.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1098,7 +1098,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-awstc.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-awstc.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1118,7 +1118,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-chitkara-university.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-chitkara-university.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1138,7 +1138,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-color-kye.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-color-kye.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1158,7 +1158,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-crickettournament.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-crickettournament.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1178,7 +1178,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-ecofriendly.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-ecofriendly.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1198,7 +1198,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-euroskills-2018.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-euroskills-2018.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1218,7 +1218,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-fashion-workshop.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-fashion-workshop.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1238,7 +1238,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-felicitation-of-champion.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-felicitation-of-champion.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1258,7 +1258,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-felicitation.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-felicitation.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1278,7 +1278,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-imagica.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-imagica.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1298,7 +1298,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-img-6195.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-img-6195.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1318,7 +1318,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-img-6201.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-img-6201.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1338,7 +1338,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-img-6249.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-img-6249.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1358,7 +1358,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-img-6250.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-img-6250.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1378,7 +1378,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-italy-skills.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-italy-skills.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1398,7 +1398,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-italy-competition.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-italy-competition.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1418,7 +1418,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-joysession.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-joysession.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1438,7 +1438,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-lionking.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-lionking.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1458,7 +1458,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-liveproject-1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-liveproject-1.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1478,7 +1478,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-liveproject.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-liveproject.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1498,7 +1498,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-lowresulation.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-lowresulation.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1518,7 +1518,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-manthan.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-manthan.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1538,7 +1538,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-mescexamination.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-mescexamination.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1558,7 +1558,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-onam.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-onam.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1578,7 +1578,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-outdoorstudy.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-outdoorstudy.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1598,7 +1598,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-photos.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-photos.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1618,7 +1618,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-purva.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-purva.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1638,7 +1638,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-recruitmentdrive.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-recruitmentdrive.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1658,7 +1658,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-rtim.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-rtim.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1678,7 +1678,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-russia-skills.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-russia-skills.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1698,7 +1698,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-shwetasendoff.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-shwetasendoff.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1718,7 +1718,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-skills.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-skills.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1738,7 +1738,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-students-life-1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-students-life-1.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1758,7 +1758,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-students-life-2.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-students-life-2.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1778,7 +1778,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-students-life-3.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-students-life-3.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1798,7 +1798,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-trainthetrainer.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-trainthetrainer.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1818,7 +1818,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-vickyvelingkart.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-vickyvelingkart.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1838,7 +1838,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-waste-to-best.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-waste-to-best.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1858,7 +1858,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-welcome-shweta.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-welcome-shweta.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1878,7 +1878,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-worldskills.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-worldskills.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1898,7 +1898,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/design-skills-academy-wsfinale.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/design-skills-academy-wsfinale.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1918,7 +1918,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/direction-course-design-media-school-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/direction-course-design-media-school-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1938,7 +1938,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/fashion-design-institute-design-media-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/fashion-design-institute-design-media-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1958,7 +1958,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/film-making-course-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/film-making-course-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1978,7 +1978,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"><a href="img/campus-life/film-making-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"><a href="opt_img/campus-life/film-making-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1998,7 +1998,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/game-design-course-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/game-design-course-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2018,7 +2018,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/graphic-design-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/graphic-design-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2038,7 +2038,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/industrial-design-course-pune-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/industrial-design-course-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2058,7 +2058,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/innovative-classes-design-media-pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/innovative-classes-design-media-pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2078,7 +2078,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/photoshop-class-in-pune-design-media-school.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/photoshop-class-in-pune-design-media-school.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2098,7 +2098,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/prathmesh-resort-pune-design-media-school.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/prathmesh-resort-pune-design-media-school.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2118,7 +2118,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/script-writing-design-media.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/script-writing-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -2138,7 +2138,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="img/campus-life/visual-effects-institute-design-Media-Pune.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/visual-effects-institute-design-Media-Pune.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
