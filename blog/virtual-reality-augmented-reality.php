@@ -128,7 +128,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="" src="../img/blog/GAME_AR_VR.jpg" class="img-responsive img-fullwidth "><br>
+                        <img alt="GAME_AR_VR.webp" src="../opt_img/blog/GAME_AR_VR.webp" class="img-responsive img-fullwidth "><br>
 
                     </div>
 

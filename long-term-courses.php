@@ -88,7 +88,7 @@
 									<div class="col-sm-3 col-md-3">
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
-												<a href="digital-film-production.php"><img class="img-fullwidth" alt="" src="img/cources/digital_film.png"></a>
+												<a href="digital-film-production.php"><img class="img-fullwidth" alt="digital_film" src="opt_img/cources/digital_film.webp"></a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
 												<h6 class="font-14 font-weight-500 mb-5 text-center">1 Year / 6 Months</h6>
@@ -98,7 +98,7 @@
 									<div class="col-sm-3 col-md-3">
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
-												<a href="communication-design.php"><img class="img-fullwidth" alt="" src="img/cources/communication_design.png"></a>
+												<a href="communication-design.php"><img class="img-fullwidth" alt="communication_design" src="opt_img/cources/communication_design.webp"></a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
 												<h6 class="font-14 font-weight-500 mb-5 text-center">1 Year / 18 Months / 2 Years</h6>
@@ -112,7 +112,7 @@
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
 												<a href="animation-film-design.php">
-												    <img class="img-fullwidth" alt="" src="img/cources/animation_film.png">
+												    <img class="img-fullwidth" alt="animation_film" src="opt_img/cources/animation_film.webp">
 											    </a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
@@ -127,7 +127,7 @@
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
 												<a href="visual-effect-film-design.php">
-												    <img class="img-fullwidth" alt="" src="img/cources/visual_effects.png">
+												    <img class="img-fullwidth" alt="visual_effects" src="opt_img/cources/visual_effects.webp">
 											    </a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
@@ -146,7 +146,7 @@
 								<div class="project mb-30 border-2px">
 									<div class="thumb">
 										<a href="game-ar-and-vr-design.php">
-										    <img class="img-fullwidth" alt="" src="img/cources/game_ar_vr.png">
+										    <img class="img-fullwidth" alt="game_ar_vr" src="opt_img/cources/game_ar_vr.webp">
 									    </a>
 									</div>
 									<div class="project-details p-15 pt-10 pb-10">
@@ -250,7 +250,7 @@
 								</div>
 							</div>
 							<div class="col-md-5 col-sm-5">
-								<div id="accordion1" class="panel-group accordion transparent"> <img src="img/home/long-term.jpg" alt="image" title="image" height="288px" /> </div>
+								<div id="accordion1" class="panel-group accordion transparent"> <img src="opt_img/home/long-term.webp" alt="long-term" title="image" height="288px" /> </div>
 							</div>
 						</div>
 					</div>

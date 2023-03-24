@@ -10,18 +10,18 @@
 	<meta name="author" content="Shubhcintak Technology" />
 
 	<!-- Primary Meta Tags -->
-	<title>The Importance of Art as a Base in the Design Industry | Designskill Academy</title>
-	<meta name="title" content="The Importance of Art as a Base in the Design Industry | Designskill Academy">
+	<title>The Importance of Art as a Base in the Design Industry | Design Skill Academy</title>
+	<meta name="title" content="The Importance of Art as a Base in the Design Industry | Design Skill Academy">
 	<meta name="description" content="Art is the foundation of the design industry, and its importance cannot be overstated. 
 	From graphic design to fashion design, art plays a critical role in shaping the industry's aesthetics, functionality, and innovation.">
 
 	<!-- Open Graph / Facebook -->
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://designskills.com/blog/graphic-design-in-every-life">
-	<meta property="og:title" content="The Importance of Art as a Base in the Design Industry | Designskill Academy">
+	<meta property="og:title" content="The Importance of Art as a Base in the Design Industry | Design Skill Academy">
 	<meta property="og:description" content="Art is the foundation of the design industry, and its importance cannot be overstated. 
 	From graphic design to fashion design, art plays a critical role in shaping the industry's aesthetics, functionality, and innovation.">
-	<meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+	<meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
@@ -92,7 +92,7 @@
 				<div class="container pb-10">
 					<div class="section-content">
 						<div class="row">
-							<div class="col-md-6"> <img alt="" src="../img/blog/Importance-of-Having-ART-Basic.jpg" class="img-responsive img-fullwidth "> </div>
+							<div class="col-md-6"> <img alt="Importance-of-Having-ART-Basic" src="../opt_img/blog/Importance-of-Having-ART-Basic.webp" class="img-responsive img-fullwidth "> </div>
 							<div class="col-md-6">
 								<h3 class="mb-30 line-height-1 text-uppercase text-center">Importance of Having Art as a Base in the<span class="text-theme-color-2"> Design Industry</span></h3>
 								<p>As mentioned above, the study of art is imperative for pursuing a career in the design industry. The art field in itself comprises of several topics that are general as well as specialized. General knowledge of what art is and the principles of art is enough knowledge, but specializing in this field is what will get you ahead in the design industry.</p>

@@ -146,7 +146,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/MAHARASTRA_SKILLS.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/MAHARASTRA_SKILLS.webp" alt="MAHARASTRA_SKILLS" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -175,7 +175,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/Importance-of-Having-ART-Basic.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/Importance-of-Having-ART-Basic.webp" alt="Importance-of-Having-ART-Basic" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -205,7 +205,7 @@
 
                     <div class="post-thumb thumb">
 
-                      <img src="img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.jpg" alt="" class="img-responsive img-fullwidth">
+                      <img src="opt_img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.webp" alt="GRAPHIC-DESIGN-IN-EVERYDAY-LIFE" class="img-responsive img-fullwidth">
                     </div>
 
                   </div>
@@ -234,7 +234,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/WSI_NATIONALS.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/WSI_NATIONALS.webp" alt="WSI_NATIONALS" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -264,7 +264,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/Growth_in_Animaton_VFX.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/Growth_in_Animaton_VFX.webp" alt="Growth_in_Animaton_VFX" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -294,7 +294,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/CANADA-TRIP _ SOLUTIONS.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/CANADA-TRIP _ SOLUTIONS.webp" alt="CANADA-TRIP _ SOLUTIONS" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -322,7 +322,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/CANADA-TRIP-SCHOOL.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/CANADA-TRIP-SCHOOL.webp" alt="CANADA-TRIP-SCHOOL" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -350,7 +350,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/GAME_AR_VR.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/GAME_AR_VR.webp" alt="GAME_AR_VR" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -378,7 +378,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/Batik.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/Batik.webp" alt="Batik" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -406,7 +406,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/WORLD-SKILLS-INDIA-2015.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/WORLD-SKILLS-INDIA-2015.webp" alt="WORLD-SKILLS-INDIA-2015" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -434,7 +434,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/THE-HISTORY-FILM-MAKING.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/THE-HISTORY-FILM-MAKING.webp" alt="THE-HISTORY-FILM-MAKING" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -462,7 +462,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/IMPORTANCEOF-INDUSTRIA-DESIGNING.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/IMPORTANCEOF-INDUSTRIA-DESIGNING.webp" alt="IMPORTANCEOF-INDUSTRIA-DESIGNING" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -490,7 +490,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/VFX.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/VFX.webp" alt="VFX" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -518,7 +518,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/2DVS3DAnimation.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/2DVS3DAnimation.webp" alt="2DVS3DAnimation" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -546,7 +546,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/The-Do-Photography.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/The-Do-Photography.webp" alt="The-Do-Photography" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -580,7 +580,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/How-To-Select-A-Design-School.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/How-To-Select-A-Design-School.webp" alt="How-To-Select-A-Design-School" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 
@@ -608,7 +608,7 @@
 
                   <div class="entry-header">
 
-                    <div class="post-thumb thumb"> <img src="img/blog/The-Latest-Design-Trends.jpg" alt="" class="img-responsive img-fullwidth"> </div>
+                    <div class="post-thumb thumb"> <img src="opt_img/blog/The-Latest-Design-Trends.webp" alt="The-Latest-Design-Trends" class="img-responsive img-fullwidth"> </div>
 
                   </div>
 

@@ -195,7 +195,7 @@
 
       <section id="home">
 
-        <img src="img/cources/ANIMATION.jpg" alt="Nature" class="responsive">
+        <img src="opt_img/cources/ANIMATION.webp" alt="ANIMATION" class="responsive">
 
       </section>
 
@@ -263,7 +263,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -281,7 +281,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -299,7 +299,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -327,7 +327,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -345,7 +345,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -363,7 +363,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 

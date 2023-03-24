@@ -137,7 +137,7 @@
 
               <div class="col-md-6">
 
-                <img alt="" src="../img/blog/WSI_NATIONALS.jpg" class="img-responsive img-fullwidth ">
+                <img alt="WSI_NATIONALS" src="../opt_img/blog/WSI_NATIONALS.webp" class="img-responsive img-fullwidth ">
 
               </div>
 

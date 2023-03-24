@@ -129,7 +129,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="" src="../img/blog/WORLD-SKILLS-INDIA-2015.jpg" class="img-responsive img-fullwidth "><br>
+                        <img alt="WORLD-SKILLS-INDIA-2015" src="../opt_img/blog/WORLD-SKILLS-INDIA-2015.webp" class="img-responsive img-fullwidth "><br>
 
                     </div>
 

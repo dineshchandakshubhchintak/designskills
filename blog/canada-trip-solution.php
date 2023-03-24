@@ -141,7 +141,7 @@
 
               <div class="col-md-6">
 
-                <img alt="" src="../img/blog/CANADA-TRIP _ SOLUTIONS.jpg" class="img-responsive img-fullwidth "><br>
+                <img alt="CANADA-TRIP _ SOLUTIONS" src="../opt_img/blog/CANADA-TRIP _ SOLUTIONS.webp" class="img-responsive img-fullwidth "><br>
 
               </div>
 

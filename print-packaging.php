@@ -32,7 +32,7 @@
   the exciting field of printing and packaging design. You will learn about the latest printing technologies, design concepts, 
   color theory, packaging materials, and marketing strategies with hands-on experience and practical assignments. Start your 
   career in the printing and packaging industry today!">
-  <meta property="og:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
+  <meta property="og:image" content="https://www.designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
@@ -162,7 +162,7 @@
 
       <section id="home">
 
-        <img src="img/cources/COMMUNICATION_DESIGN.jpg" alt="Nature" class="responsive">
+        <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive">
 
       </section>
 
@@ -234,7 +234,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -252,7 +252,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -270,7 +270,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -290,7 +290,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -308,7 +308,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -326,7 +326,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -358,7 +358,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -376,7 +376,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -394,7 +394,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -412,7 +412,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -430,7 +430,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 

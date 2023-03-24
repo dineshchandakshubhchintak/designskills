@@ -79,7 +79,9 @@
     gtag('config', 'G-4XYNJ94051');
   </script>
 
-</head>ref="css/style-main.css" rel="stylesheet" type="text/css">
+</head>
+
+<link href="css/style-main.css" rel="stylesheet" type="text/css">
 
 <!-- CSS | Preloader Styles -->
 
@@ -159,7 +161,7 @@
 
       <section id="home">
 
-        <img src="img/cources/COMMUNICATION_DESIGN.jpg" alt="Nature" class="responsive">
+        <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive">
 
       </section>
 
@@ -221,7 +223,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="COMMUNICATION_DESIGN">
 
                   </a>
 
@@ -239,7 +241,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -257,7 +259,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -285,7 +287,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -303,7 +305,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 
@@ -321,7 +323,7 @@
 
                   <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                    <img src="img/Icons/common-icon11.png" alt="">
+                    <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
 
                   </a>
 

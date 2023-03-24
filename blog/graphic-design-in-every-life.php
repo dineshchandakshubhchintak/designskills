@@ -137,7 +137,7 @@
 
               <div class="col-md-6">
 
-                <img alt="" src="../img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.jpg" class="img-responsive img-fullwidth ">
+                <img alt="GRAPHIC-DESIGN-IN-EVERYDAY-LIFE" src="../opt_img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.webp" class="img-responsive img-fullwidth ">
 
               </div>
 
