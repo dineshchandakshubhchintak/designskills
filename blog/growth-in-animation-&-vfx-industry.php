@@ -14,8 +14,6 @@
 
   <meta name="author" content="Shubhchintak Technology" />
 
-  <title>Designskill</title>
-
   <!-- Primary Meta Tags -->
   <title>Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills Academy</title>
   <meta name="title" content="Growth in Animation & VFX Industry: Opportunities and Trends | Design Skills Academy">
@@ -105,7 +103,7 @@
 
       <!-- Section: inner-header -->
 
-      <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="../img/blog/blogbg3.jpg" style="height:300px">
+      <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="../opt_img/blog/blogbg3.webp" style="height:300px">
 
         <div class="container pt-60 pb-60">
 
@@ -386,7 +384,7 @@
 
       <!-- Section: inner-header -->
 
-      <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="img/highres-picture-general/director-ramesh-sippy-visit.png" style="height:300px">
+      <section class="inner-header divider parallax layer-overlay overlay-dark-4" data-bg-img="opt_img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
 
         <div class="container pt-60 pb-60">
 

@@ -20,14 +20,6 @@
 
 
 
-<!-- Page Title -->
-
-<title>Designskill</title>
-
-
-
-
-
 <!-- Favicon and Touch Icons -->
 
 <link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
