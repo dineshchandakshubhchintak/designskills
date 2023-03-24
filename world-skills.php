@@ -349,7 +349,7 @@
 
                     <div class="gallery-item photos students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/_mg-7895.jpg" alt="_mg-7895" loading="lazy">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/_mg-7895.webp" alt="_mg-7895" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
