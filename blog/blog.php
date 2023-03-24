@@ -16,7 +16,7 @@
 
 <meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
 
-<meta name="author" content="ThemeMascot" />
+<meta name="author" content="Shubhchintak Technology" />
 
 
 
