@@ -124,7 +124,7 @@
 
 									<div class="gallery-item photos students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-1-1.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-1-1.webp" alt="advisory-1-1">
 
 											<div class="overlay-shade"></div>
 
@@ -148,7 +148,7 @@
 
 									<div class="gallery-item campus">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-2-2.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-2-2.webp" alt="advisory-2-2">
 
 											<div class="overlay-shade"></div>
 
@@ -168,7 +168,7 @@
 
 									<div class="gallery-item photos">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-3-3.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-3-3.webp" alt="advisory-3-3">
 
 											<div class="overlay-shade"></div>
 
@@ -188,7 +188,7 @@
 
 									<div class="gallery-item campus students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-4-4.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-4-4.webp" alt="advisory-4-4">
 
 											<div class="overlay-shade"></div>
 
@@ -208,7 +208,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-5-5.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-5-5.webp" alt="advisory-5-5">
 
 											<div class="overlay-shade"></div>
 
@@ -228,7 +228,7 @@
 
 									<div class="gallery-item photos">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-6-6.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-6-6.webp" alt="advisory-6-6">
 
 											<div class="overlay-shade"></div>
 
@@ -248,7 +248,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-7-7.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-7-7.webp" alt="advisory-7-7">
 
 											<div class="overlay-shade"></div>
 
@@ -268,7 +268,7 @@
 
 									<div class="gallery-item photos">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-8-8.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-8-8.webp" alt="advisory-8-8">
 
 											<div class="overlay-shade"></div>
 
@@ -288,7 +288,7 @@
 
 									<div class="gallery-item campus students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-9-9.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-9-9.webp" alt="advisory-9-9">
 
 											<div class="overlay-shade"></div>
 
@@ -308,7 +308,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-10-10.jpg" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-10-10.webp" alt="advisory-10-10">
 
 											<div class="overlay-shade"></div>
 
@@ -328,7 +328,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-11-11.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-11-11.webp" alt="advisory-11-11">
 
 											<div class="overlay-shade"></div>
 
@@ -350,7 +350,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-12-12.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-12-12.webp" alt="advisory-12-12">
 
 											<div class="overlay-shade"></div>
 
@@ -370,7 +370,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-13-13.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-13-13.webp" alt="advisory-13-13">
 
 											<div class="overlay-shade"></div>
 
@@ -390,7 +390,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-14-14.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-14-14.webp" alt="advisory-14-14">
 
 											<div class="overlay-shade"></div>
 
@@ -410,7 +410,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-15-15.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-15-15.webp" alt="advisory-15-15">
 
 											<div class="overlay-shade"></div>
 
@@ -430,7 +430,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-16-16.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-16-16.webp" alt="advisory-16-16">
 
 											<div class="overlay-shade"></div>
 
@@ -450,7 +450,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-17-17.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-17-17.webp" alt="advisory-17-17">
 
 											<div class="overlay-shade"></div>
 
@@ -470,7 +470,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-18-18.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-18-18.webp" alt="advisory-18-18">
 
 											<div class="overlay-shade"></div>
 
@@ -490,7 +490,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-19-19.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-19-19.webp" alt="advisory-19-19">
 
 											<div class="overlay-shade"></div>
 
@@ -510,7 +510,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-20-20.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-20-20.webp" alt="advisory-20-20">
 
 											<div class="overlay-shade"></div>
 
@@ -530,7 +530,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-21-21.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-21-21.webp" alt="advisory-21-21">
 
 											<div class="overlay-shade"></div>
 
@@ -550,7 +550,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-22-22.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-22-22.webp" alt="advisory-22-22">
 
 											<div class="overlay-shade"></div>
 
@@ -570,7 +570,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-24-24.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-24-24.webp" alt="advisory-24-24">
 
 											<div class="overlay-shade"></div>
 
@@ -590,7 +590,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-25-25.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-25-25.webp" alt="advisory-25-25">
 
 											<div class="overlay-shade"></div>
 
@@ -610,7 +610,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-26-26.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-26-26.webp" alt="advisory-26-26">
 
 											<div class="overlay-shade"></div>
 
@@ -630,7 +630,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-27-27.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-27-27.webp" alt="advisory-27-27">
 
 											<div class="overlay-shade"></div>
 
@@ -650,7 +650,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="img/dsa/advisory-28-28.png" alt="project">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-28-28.webp" alt="advisory-28-28">
 
 											<div class="overlay-shade"></div>
 
@@ -670,7 +670,7 @@
 
 									<div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/animation-classes-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/animation-classes-pune-design-media.webp" alt="animation-classes-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -690,7 +690,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/animation-institute-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/animation-institute-pune-design-media.webp" alt="animation-classes-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -710,7 +710,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/art-design-classes-design-media-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/art-design-classes-design-media-pune.webp" alt="art-design-classes-design-media-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -730,7 +730,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/art-design-design-media-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/art-design-design-media-pune.webp" alt="art-design-design-media-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -750,7 +750,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/ar-vr-in-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/ar-vr-in-pune-design-media.webp" alt="ar-vr-in-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -770,7 +770,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/best-design-institute-design-media-school-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/best-design-institute-design-media-school-pune.webp" alt="best-design-institute-design-media-school-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -790,7 +790,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/best-fashion-design-institute-design-media-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/best-fashion-design-institute-design-media-pune.webp" alt="best-fashion-design-institute-design-media-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -810,7 +810,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/best-graphic-design-institute-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/best-graphic-design-institute-pune-design-media.webp" alt="best-graphic-design-institute-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -830,7 +830,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/communication-design-course-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/communication-design-course-pune-design-media.webp" alt="communication-design-course-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -850,7 +850,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-classes-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-classes-pune.webp" alt="design-classes-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -870,7 +870,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-media-edutainment-school-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-media-edutainment-school-pune.webp" alt="design-media-edutainment-school-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -890,7 +890,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-media-parents-meet.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-media-parents-meet.webp" alt="design-media-parents-meet" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -910,7 +910,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-media-school-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-media-school-pune.webp" alt="design-media-school-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -930,7 +930,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-school-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-school-pune.webp" alt="design-school-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -950,7 +950,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-deva-sir.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-deva-sir.webp" alt="design-skills-academy-deva-sir" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -970,7 +970,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-amish-writer.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-amish-writer.webp" alt="design-skills-academy-amish-writer" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -990,7 +990,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-annualday.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-annualday.webp" alt="design-skills-academy-annualday" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1010,7 +1010,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-annualpooja.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-annualpooja.webp" alt="design-skills-academy-annualpooja" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1030,7 +1030,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-anuragshourie.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-anuragshourie.webp" alt="design-skills-academy-anuragshourie" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1050,7 +1050,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-asia-skills-abudhabi.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-asia-skills-abudhabi.webp" alt="design-skills-academy-asia-skills-abudhabi" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1070,7 +1070,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-aubreyalousis.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-aubreyalousis.webpp" alt="design-skills-academy-aubreyalousis" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1090,7 +1090,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-awstc.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-awstc.webp" alt="esign-skills-academy-awstc" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1110,7 +1110,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-chitkara-university.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-chitkara-university.webp" alt="design-skills-academy-chitkara-university" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1130,7 +1130,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-color-kye.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-color-kye.webp" alt="design-skills-academy-color-kye" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1150,7 +1150,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-crickettournament.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-crickettournament.webp" alt="design-skills-academy-crickettournament" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1170,7 +1170,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-ecofriendly.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-ecofriendly.webp" alt="design-skills-academy-ecofriendly" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1190,7 +1190,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-euroskills-2018.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-euroskills-2018.webp" alt="design-skills-academy-euroskills-2018" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1210,7 +1210,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-fashion-workshop.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-fashion-workshop.webp" alt="design-skills-academy-fashion-workshop" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1230,7 +1230,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-felicitation-of-champion.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-felicitation-of-champion.webp" alt="design-skills-academy-felicitation-of-champion" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1250,7 +1250,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-felicitation.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-felicitation.webp" alt="design-skills-academy-felicitation" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1270,7 +1270,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-imagica.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-imagica.webp" alt="design-skills-academy-imagica" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1290,7 +1290,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-img-6195.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-img-6195.webp" alt="design-skills-academy-img-6195" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1310,7 +1310,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-img-6201.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-img-6201.webp" alt="design-skills-academy-img-6201" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1330,7 +1330,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-img-6249.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-img-6249.webp" alt="design-skills-academy-img-6249" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1350,7 +1350,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-img-6250.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-img-6250.webp" alt="design-skills-academy-img-6250" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1370,7 +1370,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-italy-skills.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-italy-skills.webp" alt="design-skills-academy-italy-skills" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1390,7 +1390,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-italy-competition.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-italy-competition.webp" alt="design-skills-academy-italy-competition" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1410,7 +1410,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-joysession.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-joysession.webp" alt="design-skills-academy-joysession" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1430,7 +1430,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-lionking.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-lionking.webp" alt="design-skills-academy-lionking" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1450,7 +1450,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-liveproject-1.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-liveproject-1.webp" alt="design-skills-academy-liveproject-1" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1470,7 +1470,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-liveproject.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-liveproject.webp" alt="design-skills-academy-liveproject" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1490,7 +1490,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-lowresulation.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-lowresulation.webp" alt="design-skills-academy-lowresulation" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1510,7 +1510,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-manthan.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-manthan.webp" alt="design-skills-academy-manthan" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1530,7 +1530,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-mescexamination.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-mescexamination.webp" alt="design-skills-academy-mescexamination" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1550,7 +1550,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-onam.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-onam.webp" alt="design-skills-academy-onam" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1570,7 +1570,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-outdoorstudy.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-outdoorstudy.webp" alt="design-skills-academy-outdoorstudy" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1590,7 +1590,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-photos.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-photos.webp" alt="design-skills-academy-photos" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1610,7 +1610,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-purva.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-purva.webp" alt="design-skills-academy-purva" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1630,7 +1630,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-recruitmentdrive.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-recruitmentdrive.webp" alt="design-skills-academy-recruitmentdrive" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1650,7 +1650,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-rtim.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-rtim.webp" alt="design-skills-academy-rtim" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1670,7 +1670,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-russia-skills.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-russia-skills.webp" alt="design-skills-academy-russia-skills" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1690,7 +1690,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-shwetasendoff.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-shwetasendoff.webp" alt="design-skills-academy-shwetasendoff" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1710,7 +1710,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-skills.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-skills.webp" alt="design-skills-academy-skills" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1730,7 +1730,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-students-life-1.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-students-life-1.webp" alt="design-skills-academy-students-life-1" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1750,7 +1750,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-students-life-2.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-students-life-2.webp" alt="design-skills-academy-students-life-2" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1770,7 +1770,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-students-life-3.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-students-life-3.webp" alt="design-skills-academy-students-life-3" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1790,7 +1790,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-trainthetrainer.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-trainthetrainer.webp" alt="design-skills-academy-trainthetrainer" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1810,7 +1810,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-vickyvelingkart.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-vickyvelingkart.webp" alt="design-skills-academy-vickyvelingkart" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1830,7 +1830,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-waste-to-best.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-waste-to-best.webp" alt="design-skills-academy-waste-to-best" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1850,7 +1850,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-welcome-shweta.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-welcome-shweta.webp" alt="design-skills-academy-welcome-shweta" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1870,7 +1870,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-worldskills.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-worldskills.webp" alt="design-skills-academy-worldskills" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1890,7 +1890,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/design-skills-academy-wsfinale.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-wsfinale.webp" alt="design-skills-academy-wsfinale" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1910,7 +1910,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/direction-course-design-media-school-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/direction-course-design-media-school-pune.webp" alt="direction-course-design-media-school-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1930,7 +1930,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/fashion-design-institute-design-media-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/fashion-design-institute-design-media-pune.webp" alt="fashion-design-institute-design-media-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1950,7 +1950,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/film-making-course-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/film-making-course-pune-design-media.webp" alt="film-making-course-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1970,7 +1970,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/film-making-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/film-making-pune-design-media.webp" alt="film-making-pune-design-medi" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -1990,7 +1990,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/game-design-course-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/game-design-course-pune.webp" alt="game-design-course-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2010,7 +2010,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/graphic-design-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/graphic-design-pune-design-media.webp" alt="graphic-design-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2030,7 +2030,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/industrial-design-course-pune-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/industrial-design-course-pune-design-media.webp" alt="industrial-design-course-pune-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2050,7 +2050,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/innovative-classes-design-media-pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/innovative-classes-design-media-pune.webp" alt="innovative-classes-design-media-pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2070,7 +2070,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/photoshop-class-in-pune-design-media-school.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/photoshop-class-in-pune-design-media-school.webp" alt="photoshop-class-in-pune-design-media-school" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2090,7 +2090,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/prathmesh-resort-pune-design-media-school.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/prathmesh-resort-pune-design-media-school.webp" alt="prathmesh-resort-pune-design-media-school" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2110,7 +2110,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/script-writing-design-media.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/script-writing-design-media.webp" alt="script-writing-design-media" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 
@@ -2130,7 +2130,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="img/campus-life/thumbnail/visual-effects-institute-design-Media-Pune.jpg" alt="project" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/visual-effects-institute-design-Media-Pune.webp" alt="visual-effects-institute-design-Media-Pune" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 

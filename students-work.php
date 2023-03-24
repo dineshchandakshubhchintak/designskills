@@ -138,7 +138,7 @@
 
             <!-- Section: Gallery -->
 
-            <img src="img/STUDENTS-WORKS.jpg" alt="Nature" class="responsive">
+            <img src="opt_img/STUDENTS-WORKS.webp" alt="STUDENTS-WORKS" class="responsive">
 
          <section>
 
@@ -172,7 +172,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-1.png" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-1.webp" alt="design-skills-1">
 
                       <div class="overlay-shade"></div>
 
@@ -210,7 +210,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-sea-animal-illustration.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-sea-animal-illustration.webp" alt="design-skills-sea-animal-illustration">
 
                       <div class="overlay-shade"></div>
 
@@ -248,7 +248,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-madhubani-illustration-02.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-madhubani-illustration-02.webp" alt="design-skills-madhubani-illustration-02">
 
                       <div class="overlay-shade"></div>
 
@@ -286,7 +286,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-madhubani-illustration-04.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-madhubani-illustration-04.webp" alt="design-skills-madhubani-illustration-04">
 
                       <div class="overlay-shade"></div>
 
@@ -302,7 +302,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-madhubani-illustration-04.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-madhubani-illustration-04.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -324,7 +324,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-academy-2d-Animation-01.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-academy-2d-Animation-01.webp" alt="design-skills-academy-2d-Animation-01">
 
                       <div class="overlay-shade"></div>
 
@@ -362,7 +362,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-academy-2d-Animation-02.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-academy-2d-Animation-02.webp" alt="design-skills-academy-2d-Animation-02">
 
                       <div class="overlay-shade"></div>
 
@@ -378,7 +378,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-academy-2d-Animation-02.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-academy-2d-Animation-02.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -404,7 +404,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-argonland-3.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-argonland-3.webp" alt="design-skills-argonland-3">
 
                       <div class="overlay-shade"></div>
 
@@ -420,7 +420,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-argonland-3.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-argonland-3.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -442,7 +442,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-argon-land-3.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-argon-land-3.webp" alt="design-skills-argon-land-3">
 
                       <div class="overlay-shade"></div>
 
@@ -458,7 +458,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-argon-land-3.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-argon-land-3.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -480,7 +480,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-fantasy-run1.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-fantasy-run1.webp" alt="design-skills-fantasy-run1">
 
                       <div class="overlay-shade"></div>
 
@@ -496,7 +496,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-fantasy-run1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-fantasy-run1.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -522,7 +522,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-plant-charcters.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-plant-charcters.webp" alt="design-skills-plant-charcters">
 
                       <div class="overlay-shade"></div>
 
@@ -538,7 +538,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-plant-charcters.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-plant-charcters.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -564,7 +564,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-sketch.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-sketch.webp" alt="design-skills-sketch">
 
                       <div class="overlay-shade"></div>
 
@@ -580,7 +580,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-sketch.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-sketch.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -602,7 +602,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/2d-animation/thumbnail/design-skills-4.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/2d-animation/thumbnail/design-skills-4.webp" alt="design-skills-4">
 
                       <div class="overlay-shade"></div>
 
@@ -618,7 +618,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/2d-animation/design-skills-4.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/2d-animation/design-skills-4.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -674,7 +674,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-01.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-01.webp" alt="design-skills-academy-workshop-01">
 
                       <div class="overlay-shade"></div>
 
@@ -690,7 +690,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-01.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-01.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -712,7 +712,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-02.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-02.webp" alt="esign-skills-academy-workshop-02">
 
                       <div class="overlay-shade"></div>
 
@@ -728,7 +728,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-02.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-02.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -750,7 +750,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-03.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-03.webp" alt="design-skills-academy-workshop-03">
 
                       <div class="overlay-shade"></div>
 
@@ -766,7 +766,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-03.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-03.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -788,7 +788,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-04.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-04.webp" alt="design-skills-academy-workshop-04">
 
                       <div class="overlay-shade"></div>
 
@@ -804,7 +804,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-04.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-04.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -830,7 +830,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-05.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-05.webp" alt="design-skills-academy-workshop-05">
 
                       <div class="overlay-shade"></div>
 
@@ -846,7 +846,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-05.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-05.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -872,7 +872,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-06.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-06.webp" alt="design-skills-academy-workshop-06">
 
                       <div class="overlay-shade"></div>
 
@@ -888,7 +888,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-06.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-06.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -910,7 +910,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-07.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-07.webp" alt="design-skills-academy-workshop-07">
 
                       <div class="overlay-shade"></div>
 
@@ -926,7 +926,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-07.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-07.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -948,7 +948,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-08.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-08.webp" alt="design-skills-academy-workshop-08">
 
                       <div class="overlay-shade"></div>
 
@@ -964,7 +964,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-08.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-08.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -990,7 +990,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-09.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-09.webp" alt="design-skills-academy-workshop-09">
 
                       <div class="overlay-shade"></div>
 
@@ -1006,7 +1006,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-09.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-09.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1032,7 +1032,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-10.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-10.webp" alt="design-skills-academy-workshop-10">
 
                       <div class="overlay-shade"></div>
 
@@ -1048,7 +1048,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-10.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-10.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1070,7 +1070,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-11.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-11.webp" alt="design-skills-academy-workshop-11">
 
                       <div class="overlay-shade"></div>
 
@@ -1086,7 +1086,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-11.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-11.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1108,7 +1108,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-12.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-12.webp" alt="design-skills-academy-workshop-12">
 
                       <div class="overlay-shade"></div>
 
@@ -1124,7 +1124,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-12.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-12.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1146,7 +1146,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-13.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-13.webp" alt="design-skills-academy-workshop-13">
 
                       <div class="overlay-shade"></div>
 
@@ -1162,7 +1162,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-13.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-13.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1184,7 +1184,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-14.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-14.webp" alt="design-skills-academy-workshop-14">
 
                       <div class="overlay-shade"></div>
 
@@ -1200,7 +1200,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-14.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-14.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1222,7 +1222,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-15.jpeg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/craft-workshop/thumbnail/design-skills-academy-workshop-15.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1238,7 +1238,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/craft-workshop/design-skills-academy-workshop-15.jpeg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/craft-workshop/design-skills-academy-workshop-15.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1290,7 +1290,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/1.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/1.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1306,7 +1306,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/1.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/1.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1328,7 +1328,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/2.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/2.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1344,7 +1344,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/2.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/2.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1366,7 +1366,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/3.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/3.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1382,7 +1382,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/3.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/3.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1404,7 +1404,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/4.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/4.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1420,7 +1420,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/4.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/4.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1442,7 +1442,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/5.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/5.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1458,7 +1458,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/5.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/5.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1480,7 +1480,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/6.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/6.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1496,7 +1496,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/6.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/6.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1518,7 +1518,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/7.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/7.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1534,7 +1534,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/7.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/7.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1556,7 +1556,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/8.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/8.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1572,7 +1572,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/8.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/8.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1594,7 +1594,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/9.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/9.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1610,7 +1610,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/9.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/9.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1632,7 +1632,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/10.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/10.webp" alt="project">
 
     
 
@@ -1650,7 +1650,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/10.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/10.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1672,7 +1672,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/11.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/11.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1688,7 +1688,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/11.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/11.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1710,7 +1710,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/12.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/12.webp" alt="project">
 
                       <div class="overlay-shade"></div>
 
@@ -1726,7 +1726,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/12.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/12.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1748,7 +1748,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/final-character.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/final-character.webp" alt="final-character">
 
                       <div class="overlay-shade"></div>
 
@@ -1764,7 +1764,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/final-character.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/final-character.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1786,7 +1786,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/illustration.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/illustration.webp" alt="illustration">
 
                       <div class="overlay-shade"></div>
 
@@ -1802,7 +1802,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/illustration.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/illustration.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1826,7 +1826,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/satan-boy.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/satan-boy.webp" alt="satan-boy">
 
                       <div class="overlay-shade"></div>
 
@@ -1842,7 +1842,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/satan-boy.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/satan-boy.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1864,7 +1864,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/scifi-girl.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/scifi-girl.webp" alt="cifi-girl">
 
                       <div class="overlay-shade"></div>
 
@@ -1880,7 +1880,7 @@
 
                           <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
 
-                            <a href="img/student-work/art-design/scifi-girl.jpg" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                            <a href="opt_img/student-work/art-design/scifi-girl.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
 
                           </div>
 
@@ -1902,7 +1902,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/sova-valornt.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/sova-valornt.webp" alt="sova-valornt">
 
                       <div class="overlay-shade"></div>
 
@@ -1940,7 +1940,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img/student-work/art-design/thumbnail/valorant-sage-1.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img/student-work/art-design/thumbnail/valorant-sage-1.webp" alt="valorant-sage-1">
 
                       <div class="overlay-shade"></div>
 
@@ -2006,7 +2006,7 @@
 
                     <div class="thumb">
 
-                      <img class="img-fullwidth" src="img\student-work\digital-art\thumbnail\akash-varsheny-digital-paint-01.jpg" alt="project">
+                      <img class="img-fullwidth" src="opt_img\student-work\digital-art\thumbnail\akash-varsheny-digital-paint-01.webp" alt="kash-varsheny-digital-paint-01">
 
                       <div class="overlay-shade"></div>
 
