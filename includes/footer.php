@@ -274,7 +274,7 @@
 
       <div class="col-sm-6 col-md-3">
 
-        <div class="widget dark"> <img class="mt-10 mb-15" alt="Design_Skills_Academy_Logo" src="opt_img/Design_Skills_Academy_Logo.webp" style=" width: 189px;">
+        <div class="widget dark"> <img class="mt-10 mb-15" alt="" src="opt_img/Design_Skills_Academy_Logo.webp" style=" width: 189px;">
 
           <br> <a class="lineheight-22 font-14">Pioneered by experienced professional from the creative industry, Design skills academy is unique in its teaching methodology and training standards.</a>
 
@@ -306,7 +306,7 @@
 
             <article class="post media-post clearfix pb-0 mb-10">
 
-              <a href="blog.php" class="post-thumb"><img alt="MAHARASTRA_SKILLS" src="../opt_img/blog/MAHARASTRA_SKILLS.webp" style="width: 80px;"></a>
+              <a href="blog.php" class="post-thumb"><img alt="" src="../opt_img/blog/MAHARASTRA_SKILLS.webp" style="width: 80px;"></a>
 
               <div class="post-right">
 
@@ -320,7 +320,7 @@
 
             <article class="post media-post clearfix pb-0 mb-10">
 
-              <a href="blog.php" class="post-thumb"><img alt="" src="../img/blog/Importance-of-Having-ART-Basic.jpg"  style="width: 80px;"></a>
+              <a href="blog.php" class="post-thumb"><img alt="" src="../opt_img/blog/Importance-of-Having-ART-Basic.jpg"  style="width: 80px;"></a>
 
               <div class="post-right">
 
@@ -334,7 +334,7 @@
 
             <article class="post media-post clearfix pb-0 mb-10">
 
-              <a href="blog.php" class="post-thumb"><img alt="GRAPHIC-DESIGN-IN-EVERYDAY-LIFE" src="../opt_img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.webp " style="width: 80px;"></a>
+              <a href="blog.php" class="post-thumb"><img alt="" src="../opt_img/blog/GRAPHIC-DESIGN-IN-EVERYDAY-LIFE.webp " style="width: 80px;"></a>
 
               <div class="post-right">
 
@@ -348,7 +348,7 @@
 
             <article class="post media-post clearfix pb-0 mb-10">
 
-              <a href="blog.php" class="post-thumb"><img alt="WSI_NATIONALS" src="../opt_img/blog/WSI_NATIONALS.webp" style="width: 80px;"></a>
+              <a href="blog.php" class="post-thumb"><img alt="" src="../img/blog/WSI_NATIONALS.jpg" style="width: 80px;"></a>
 
               <div class="post-right">
 
