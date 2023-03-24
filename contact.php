@@ -34,11 +34,6 @@
 <meta property="twitter:description" content="Need help, have feedback or a question? Get in touch with our team via our contact form or through our email, phone number or social media accounts. We're here to help and value your feedback">
 <meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-<!-- Page Title -->
-
-<title>Designskill</title>
-
-
 
 <!-- Favicon and Touch Icons -->
 
