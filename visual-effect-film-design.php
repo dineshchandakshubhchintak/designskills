@@ -179,7 +179,7 @@
 
 
 
-        <img src="img/cources/VISUAL_EFFECTSArtboard.jpg" alt="Nature" class="responsive">
+        <img src="opt_img/cources/VISUAL_EFFECTSArtboard.webp" alt="NVISUAL_EFFECTSArtboard" class="responsive">
 
         <!-- end .rev_slider_wrapper -->
 
