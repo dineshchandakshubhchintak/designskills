@@ -125,7 +125,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="Batik" src="../opt_img/blog/Batik.webp" class="img-responsive img-fullwidth"><br>
+                        <img alt="Batik" src="../opt_img/blog/Batik.webp" class="img-responsive img-fullwidth" loading="lazy"><br>
 
                     </div>
 

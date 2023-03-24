@@ -139,7 +139,7 @@
 
 				      <div class="item active">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_Mobile01.webp" alt="Design_Skills_Academy_Mobile01" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_Mobile01.webp" alt="Design_Skills_Academy_Mobile01" style="width:100%;" loading="lazy">
 
 				        <div class="carousel-caption" style="padding-bottom: 50px;">
 
@@ -153,7 +153,7 @@
 
 				    	<div class="item">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_Mobile02A.webp" alt="Design_Skills_Academy_Mobile02A" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_Mobile02A.webp" alt="Design_Skills_Academy_Mobile02A" style="width:100%;" loading="lazy">
 
 				        <div class="carousel-caption" style="padding-bottom: 50px;">
 
@@ -167,7 +167,7 @@
 
 			      	<div class="item">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_Mobile03.webp" alt="Design_Skills_Academy_Mobile03" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_Mobile03.webp" alt="Design_Skills_Academy_Mobile03" style="width:100%;" loading="lazy">
 
 				        <div class="carousel-caption" style="padding-bottom: 50px;">
 
@@ -227,7 +227,7 @@
 
 				      <div class="item active">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_01A.webp" alt="Design_Skills_Academy_01A" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_01A.webp" alt="Design_Skills_Academy_01A" style="width:100%;" loading="lazy">
 
 				        <div class="carousel-caption">
 
@@ -243,7 +243,7 @@
 
 				      <div class="item">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_02.webp" alt="Design_Skills_Academy_02" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_02.webp" alt="Design_Skills_Academy_02" style="width:100%;" loading="lazy">
 
 				        <div class="carousel-caption">
 
@@ -261,7 +261,7 @@
 
 			      	<div class="item">
 
-				        <img src="opt_img/banner/Design_Skills_Academy_03.webp" alt="Design_Skills_Academy_03" style="width:100%;">
+				        <img src="opt_img/banner/Design_Skills_Academy_03.webp" alt="Design_Skills_Academy_03" style="width:100%;" loading="lazy">
 
 				        <div class="carousel-caption">
 
@@ -393,7 +393,7 @@
 
 									<div class="col-md-6 wow fadeInUp" data-wow-duration="1s">
 
-										<div class="mb-sm-30"> <img class="img-fullwidth" src="opt_img/home/long-term.webp" alt="long-term">
+										<div class="mb-sm-30"> <img class="img-fullwidth" src="opt_img/home/long-term.webp" alt="long-term" loading="lazy">
 
 											<h4 class="letter-space-1 mt-10 text-uppercase">Long Term<span class="text-theme-color-2"> Courses</span></h4>
 
@@ -403,7 +403,7 @@
 
 									<div class="col-md-6 wow fadeInUp" data-wow-duration="1.2s">
 
-										<div class="mb-sm-30"> <img class="img-fullwidth" src="opt_img/home/short-term.webp" alt="short-term">
+										<div class="mb-sm-30"> <img class="img-fullwidth" src="opt_img/home/short-term.webp" alt="short-term" loading="lazy">
 
 											<h4 class=" letter-space-1 mt-10 text-uppercase">Short Term<span class="text-theme-color-2"> Courses</span></h4>
 
@@ -459,7 +459,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/one-to-one-attention.webp" alt="one-to-one-attention"> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/one-to-one-attention.webp" alt="one-to-one-attention" loading="lazy"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -473,7 +473,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/Learn-from-real.webp" alt="Learn-from-real"> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/Learn-from-real.webp" alt="Learn-from-real" loading="lazy"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -487,7 +487,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/International-exposure-for-students.webp" alt="International-exposure-for-students"> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/International-exposure-for-students.webp" alt="International-exposure-for-students" loading="lazy"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -527,7 +527,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/Updated-course-structure.webp" alt="Updated-course-structure"> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/Updated-course-structure.webp" alt="Updated-course-structure" loading="lazy"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -541,7 +541,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/innovative-in-depth-transition.webp" alt="innovative-in-depth-transition"> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/innovative-in-depth-transition.webp" alt="innovative-in-depth-transition" loading="lazy"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -555,7 +555,7 @@
 
 								<div class="icon-box clearfix m-0 p-0 pb-10">
 
-									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/industry-meet.webp" alt="industry-meet"> </a>
+									<a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> <img src="opt_img/Icons/industry-meet.webp" alt="industry-meet" loading="lazy"> </a>
 
 									<div class="ml-120 ml-sm-0">
 
@@ -627,7 +627,7 @@
 
 													<a href="certification-in-compositing.php">
 
-													    <img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp">
+													    <img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp" loading="lazy">
 
 												    </a>
 
@@ -665,7 +665,7 @@
 
 													<a href="certification-in-3d-maya.php">
 
-													    <img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp">
+													    <img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp" loading="lazy">
 
 												    </a>
 
@@ -703,7 +703,7 @@
 
 													<a href="certification-graphic-design.php">
 
-													    <img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp">
+													    <img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp" loading="lazy">
 
 												    </a>
 
@@ -741,7 +741,7 @@
 
 													<a href="certification-art-design.php">
 
-														<img class="img-fullwidth" alt="art_design" src="opt_img/cources/art_design.webp">
+														<img class="img-fullwidth" alt="art_design" src="opt_img/cources/art_design.webp" loading="lazy">
 
 													</a>
 
@@ -779,7 +779,7 @@
 
 													<a href="digital-film-production.php"> 
 
-													    <img class="img-fullwidth" alt="digital_film" src="opt_img/cources/digital_film.webp">
+													    <img class="img-fullwidth" alt="digital_film" src="opt_img/cources/digital_film.webp" loading="lazy">
 
 													</a>
 
@@ -817,7 +817,7 @@
 
 													<a href="communication-design.php">
 
-													    <img class="img-fullwidth" alt="communication_design" src="opt_img/cources/communication_design.webp">
+													    <img class="img-fullwidth" alt="communication_design" src="opt_img/cources/communication_design.webp" loading="lazy">
 
 												    </a>
 
@@ -855,7 +855,7 @@
 
 													<a href="industrial-design.php">
 
-													    <img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp">
+													    <img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp" loading="lazy">
 
 												    </a>
 
@@ -893,7 +893,7 @@
 
 													<a href="print-packaging.php">
 
-													    <img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp">
+													    <img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp" loading="lazy">
 
 												    </a>
 
@@ -931,7 +931,7 @@
 
 													<a href="visual-effect-film-design.php">
 
-													    <img class="img-fullwidth" alt="visual_effects" src="opt_img/cources/visual_effects.webp">
+													    <img class="img-fullwidth" alt="visual_effects" src="opt_img/cources/visual_effects.webp" loading="lazy">
 
 												    </a>
 
@@ -969,7 +969,7 @@
 
 													<a href="animation-film-design.php"> 
 
-													    <img class="img-fullwidth" alt="animation_film" src="opt_img/cources/animation_film.webp">
+													    <img class="img-fullwidth" alt="animation_film" src="opt_img/cources/animation_film.webp" loading="lazy">
 
 													</a>
 
@@ -1007,7 +1007,7 @@
 
 													<a href="game-ar-and-vr-design.php">
 
-													    <img class="img-fullwidth" alt="game_ar_vr" src="opt_img/cources/game_ar_vr.webp">
+													    <img class="img-fullwidth" alt="game_ar_vr" src="opt_img/cources/game_ar_vr.webp" loading="lazy">
 
 												    </a>
 
@@ -1045,7 +1045,7 @@
 
 													<a href="web-design-technology.php">
 
-													    <img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp">
+													    <img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp" loading="lazy">
 
 												    </a>
 
@@ -1119,7 +1119,7 @@
 
 										<div class="col-md-6">
 
-											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sathish_Profile_picture.webp" alt="Sathish_Profile_picture"> </div>
+											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sathish_Profile_picture.webp" alt="Sathish_Profile_picture" loading="lazy"> </div>
 
 										</div>
 
@@ -1151,7 +1151,7 @@
 
 										<div class="col-md-6">
 
-											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sri_Profile_picture.webp" alt="Sri_Profile_picture"> </div>
+											<div class="thumb"> <img class="img-fullwidth mb-sm-0" src="opt_img/founder-member/Sri_Profile_picture.webp" alt="Sri_Profile_picture" loading="lazy"> </div>
 
 										</div>
 
@@ -1221,7 +1221,7 @@
 
 										<div class="icon-box p-15 mb-0 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/livelycampus.webp" alt="livelycampus"> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/livelycampus.webp" alt="livelycampus" loading="lazy"> </a>
 
 											<div class="ml-70 ml-sm-0">
 
@@ -1239,7 +1239,7 @@
 
 										<div class="icon-box p-15 mb-30 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/industryexposure.webp" alt="industryexposure"> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/industryexposure.webp" alt="industryexposure" loading="lazy"> </a>
 
 											<div class="ml-70 ml-sm-0">
 
@@ -1257,7 +1257,7 @@
 
 										<div class="icon-box p-15 mb-30 mb-sm-0 mt-sm-0">
 
-											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/liveproject.webp" alt="liveproject"> </a>
+											<a class="icon pull-left sm-pull-none flip"> <img src="opt_img/Icons/liveproject.webp" alt="liveproject" loading="lazy"> </a>
 
 											<div class="ml-70 ml-sm-0">
 

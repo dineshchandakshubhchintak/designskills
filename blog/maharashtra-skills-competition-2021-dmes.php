@@ -135,7 +135,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="MAHARASTRA_SKILLS" src="../opt_img/blog/MAHARASTRA_SKILLS.webp" class="img-responsive img-fullwidth "><br>
+                        <img alt="MAHARASTRA_SKILLS" src="../opt_img/blog/MAHARASTRA_SKILLS.webp" class="img-responsive img-fullwidth " loading="lazy"><br>
 
                     </div>
 
