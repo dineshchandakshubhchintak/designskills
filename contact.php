@@ -197,7 +197,7 @@
 
     <!-- Section Contact -->
 
-    <section class="divider parallax layer-overlay overlay-dark-3" data-bg-img="img/home/graphic-designer.jpg">
+    <section class="divider parallax layer-overlay overlay-dark-3" data-bg-img="opt_img/home/graphic-designer.webp">
 
       <div class="container-fluid">
 
@@ -363,7 +363,7 @@
 
           </div>
 
-          <div class="col-md-5 col-sm-5 " data-bg-img="img/enquiry.jpg " height="350">
+          <div class="col-md-5 col-sm-5 " data-bg-img="opt_img/enquiry.webp " height="350">
 
             <div id="accordion1" class="panel-group accordion transparent ">
 

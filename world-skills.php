@@ -145,7 +145,7 @@
 
           <!-- Section: inner-header -->
 
-          <section class="inner-header divider parallax layer-overlay overlay-dark-6" data-bg-img="img/highres-picture-general/world-skillskazan.png" style="height: 300px; ">
+          <section class="inner-header divider parallax layer-overlay overlay-dark-6" data-bg-img="opt_img/highres-picture-general/world-skillskazan.webp" style="height: 300px; ">
 
             <div class="container pt-70 pb-20">
 

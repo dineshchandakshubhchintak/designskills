@@ -60,7 +60,7 @@
 			<!-- Start main-content -->
 			<div class="main-content bg-lighter">
 				<!-- Section: inner-header -->
-				<section class=" inner-header divider parallax layer-overlay overlay-dark-3 " data-bg-img="img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
+				<section class=" inner-header divider parallax layer-overlay overlay-dark-3 " data-bg-img="opt_img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
 					<div class="container pt-70 pb-20">
 						<!-- Section Content -->
 						<div class="section-content">

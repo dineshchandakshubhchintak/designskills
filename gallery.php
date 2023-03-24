@@ -46,7 +46,9 @@
   gtag('config', 'G-4XYNJ94051');
 </script>
 
-</head>ref="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+</head>
+
+    <link ref="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
 	<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 

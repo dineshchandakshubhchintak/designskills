@@ -36,7 +36,7 @@
 
 
   
-  <link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+  <link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
   
 
@@ -90,7 +90,7 @@
 
         <!-- Section: inner-header -->
 
-        <section class=" inner-header divider parallax layer-overlay overlay-dark-3" data-bg-img="img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
+        <section class=" inner-header divider parallax layer-overlay overlay-dark-3" data-bg-img="opt_img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
 
           <div class="container pt-70 pb-20">
 
@@ -314,7 +314,7 @@
 
                       <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
 
-                        <div class="team-thumb"> <img class="img-fullwidth" alt="" src="img/awards/Certificate of Merit.png" loading="lazy">
+                        <div class="team-thumb"> <img class="img-fullwidth" alt="Certificate of Merit" src="opt_img/awards/Certificate of Merit.webp" loading="lazy">
 
                           <div class="team-overlay"></div>
 
