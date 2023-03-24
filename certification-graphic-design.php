@@ -153,7 +153,7 @@
 
     <div id="spinner">
 
-      <img alt="" src="images/preloaders/5.gif">
+      <img alt="" src="images/preloaders/5.gif" loading="lazy">
 
     </div>
 
@@ -177,7 +177,7 @@
 
     <section id="home">
 
-        <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive">
+        <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive" loading="lazy">
 
     </section>
 
@@ -239,7 +239,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> 
 
-                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                 </a>
 
@@ -257,7 +257,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                 </a>
 
@@ -275,7 +275,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                   <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                   <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                 </a>
 
@@ -303,7 +303,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none"> 
 
-                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                  <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                 </a>
 
@@ -321,7 +321,7 @@
 
                 <a class="icon icon-circled bg-white icon-lg pull-left flip sm-pull-none">
 
-                   <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11">
+                   <img src="opt_img/Icons/common-icon11.webp" alt="common-icon11" loading="lazy">
 
                 </a>
 
