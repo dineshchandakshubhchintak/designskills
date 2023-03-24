@@ -178,7 +178,7 @@
 
     <section id="home">
 
-    <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive" loading="lazy">
+    <img src="opt_img/cources/art_design.webp" alt="art_design" class="responsive" loading="lazy">
 
     </section>
 
