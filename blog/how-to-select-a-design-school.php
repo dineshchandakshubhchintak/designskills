@@ -129,7 +129,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="How-To-Select-A-Design-School" src="../opt_img/blog/How-To-Select-A-Design-School.webp" class="img-responsive img-fullwidth "><br>
+                        <img alt="How-To-Select-A-Design-School" src="../opt_img/blog/How-To-Select-A-Design-School.webp" class="img-responsive img-fullwidth" loading="lazy"><br>
 
                     </div>
 

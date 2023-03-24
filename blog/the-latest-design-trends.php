@@ -126,7 +126,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="The-Latest-Design-Trends" src="../opt_img/blog/The-Latest-Design-Trends.webp" class="img-responsive img-fullwidth ">
+                        <img alt="The-Latest-Design-Trends" src="../opt_img/blog/The-Latest-Design-Trends.webp" class="img-responsive img-fullwidth" loading="lazy">
 
                         <br>
 

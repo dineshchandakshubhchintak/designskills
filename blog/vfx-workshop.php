@@ -127,7 +127,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="VFX" src="../opt_img/blog/VFX.webp" class="img-responsive img-fullwidth "> <br>
+                        <img alt="VFX" src="../opt_img/blog/VFX.webp" class="img-responsive img-fullwidth" loading="lazy"> <br>
 
                     </div>
 
