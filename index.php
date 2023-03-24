@@ -38,7 +38,7 @@
 
 	<!-- Stylesheet -->
 
-	<link href="css/bootstrap.min.css" rel="preload" type="text/css">
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYNJ94051"></script>

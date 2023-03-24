@@ -46,7 +46,7 @@
   gtag('config', 'G-4XYNJ94051');
 </script>
 
-</head>ref="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+</head><link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
 	<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 
@@ -124,7 +124,7 @@
 
 									<div class="gallery-item photos students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-1-1.webp" alt="advisory-1-1">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-1-1.webp" alt="advisory-1-1" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -148,7 +148,7 @@
 
 									<div class="gallery-item campus">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-2-2.webp" alt="advisory-2-2">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-2-2.webp" alt="advisory-2-2"  loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -168,7 +168,7 @@
 
 									<div class="gallery-item photos">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-3-3.webp" alt="advisory-3-3">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-3-3.webp" alt="advisory-3-3"  loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -188,7 +188,7 @@
 
 									<div class="gallery-item campus students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-4-4.webp" alt="advisory-4-4">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-4-4.webp" alt="advisory-4-4" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -208,7 +208,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-5-5.webp" alt="advisory-5-5">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-5-5.webp" alt="advisory-5-5" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -228,7 +228,7 @@
 
 									<div class="gallery-item photos">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-6-6.webp" alt="advisory-6-6">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-6-6.webp" alt="advisory-6-6" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -248,7 +248,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-7-7.webp" alt="advisory-7-7">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-7-7.webp" alt="advisory-7-7" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -268,7 +268,7 @@
 
 									<div class="gallery-item photos">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-8-8.webp" alt="advisory-8-8">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-8-8.webp" alt="advisory-8-8" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -288,7 +288,7 @@
 
 									<div class="gallery-item campus students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-9-9.webp" alt="advisory-9-9">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-9-9.webp" alt="advisory-9-9" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -308,7 +308,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-10-10.webp" alt="advisory-10-10">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-10-10.webp" alt="advisory-10-10" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -328,7 +328,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-11-11.webp" alt="advisory-11-11">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-11-11.webp" alt="advisory-11-11" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -350,7 +350,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-12-12.webp" alt="advisory-12-12">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-12-12.webp" alt="advisory-12-12" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -370,7 +370,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-13-13.webp" alt="advisory-13-13">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-13-13.webp" alt="advisory-13-13" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -390,7 +390,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-14-14.webp" alt="advisory-14-14">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-14-14.webp" alt="advisory-14-14" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -410,7 +410,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-15-15.webp" alt="advisory-15-15">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-15-15.webp" alt="advisory-15-15" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -430,7 +430,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-16-16.webp" alt="advisory-16-16">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-16-16.webp" alt="advisory-16-16" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -450,7 +450,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-17-17.webp" alt="advisory-17-17">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-17-17.webp" alt="advisory-17-17" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -470,7 +470,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-18-18.webp" alt="advisory-18-18">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-18-18.webp" alt="advisory-18-18" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -490,7 +490,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-19-19.webp" alt="advisory-19-19">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-19-19.webp" alt="advisory-19-19" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -510,7 +510,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-20-20.webp" alt="advisory-20-20">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-20-20.webp" alt="advisory-20-20" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -530,7 +530,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-21-21.webp" alt="advisory-21-21">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-21-21.webp" alt="advisory-21-21" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -550,7 +550,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-22-22.webp" alt="advisory-22-22">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-22-22.webp" alt="advisory-22-22" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -570,7 +570,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-24-24.webp" alt="advisory-24-24">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-24-24.webp" alt="advisory-24-24" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -590,7 +590,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-25-25.webp" alt="advisory-25-25">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-25-25.webp" alt="advisory-25-25" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -610,7 +610,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-26-26.webp" alt="advisory-26-26">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-26-26.webp" alt="advisory-26-26" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -630,7 +630,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-27-27.webp" alt="advisory-27-27">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-27-27.webp" alt="advisory-27-27" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -650,7 +650,7 @@
 
 									<div class="gallery-item students">
 
-										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-28-28.webp" alt="advisory-28-28">
+										<div class="thumb"> <img class="img-fullwidth" src="opt_img/dsa/advisory-28-28.webp" alt="advisory-28-28" loading="lazy">
 
 											<div class="overlay-shade"></div>
 
@@ -758,7 +758,7 @@
 
                                     			<div class="icons-holder-inner">
 
-                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/ar-vr-in-pune-design-media.webp" data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a> </div>
+                                    				<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored"> <a href="opt_img/campus-life/ar-vr-in-pune-design-media.webp" data-lightbox-gallery="gallery" loading="lazy"><i class="fa fa-picture-o"></i></a> </div>
 
                                     			</div>
 
@@ -1070,7 +1070,7 @@
 
                                     <div class="gallery-item campus-life">
 
-                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-aubreyalousis.webpp" alt="design-skills-academy-aubreyalousis" loading="lazy">
+                                    	<div class="thumb"> <img class="img-fullwidth" src="opt_img/campus-life/thumbnail/design-skills-academy-aubreyalousis.webp" alt="design-skills-academy-aubreyalousis" loading="lazy">
 
                                     		<div class="overlay-shade"></div>
 

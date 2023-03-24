@@ -39,13 +39,13 @@
 
   <!-- Stylesheet -->
 
-  <link href="css/bootstrap.min.css" rel="preload" type="text/css">
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
-  <link href="css/jquery-ui.min.css" rel="preload" type="text/css">
+  <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 
-  <link href="css/animate.css" rel="preload" type="text/css">
+  <link href="css/animate.css" rel="stylesheet" type="text/css">
 
-  <link href="css/css-plugin-collections.css" rel="preload" />
+  <link href="css/css-plugin-collections.css" rel="stylesheet" />
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XYNJ94051"></script>

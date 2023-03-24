@@ -42,23 +42,23 @@
 
   <!-- Stylesheet -->
 
-  <link href="css/bootstrap.min.css" rel="preload" type="text/css">
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
-  <link href="css/jquery-ui.min.css" rel="preload" type="text/css">
+  <link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
 
-  <link href="css/animate.css" rel="preload" type="text/css">
+  <link href="css/animate.css" rel="stylesheet" type="text/css">
 
-  <link href="css/css-plugin-collections.css" rel="preload" />
+  <link href="css/css-plugin-collections.css" rel="stylesheet" />
 
-  <link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="preload" />
+  <link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet" />
 
-  <link href="css/style-main.css" rel="preload" type="text/css">
+  <link href="css/style-main.css" rel="stylesheet" type="text/css">
 
-  <link href="css/custom-bootstrap-margin-padding.css" rel="preload" type="text/css">
+  <link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
 
-  <link href="css/responsive.css" rel="preload" type="text/css">
+  <link href="css/responsive.css" rel="stylesheet" type="text/css">
 
-  <link href="css/colors/theme-skin-color-set-1.css" rel="preload" type="text/css">
+  <link href="css/colors/theme-skin-color-set-1.css" rel="stylesheet" type="text/css">
 
   
 
