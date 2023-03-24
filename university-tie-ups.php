@@ -43,7 +43,7 @@
 
 <!-- Favicon and Touch Icons -->
 
-<link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+<link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
 <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
 
@@ -161,7 +161,7 @@
 
     <!--</section>-->
 
-     <img src="opt_img/University_TieUps.webp" alt="NatuUniversity_TieUps" class="responsive">
+     <img src="opt_img/University_TieUps.webp" alt="NatuUniversity_TieUps" class="responsive" loading="lazy">
 
     <section>
 
@@ -259,7 +259,7 @@
 
                         <div class="entry-header text-center">
 
-                          <img src="opt_img/logo/logo-1.webp" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" />
+                          <img src="opt_img/logo/logo-1.webp" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" loading="lazy" />
 
                           <h2 class="entry-title pt-10"><a href="#">VU VISHWAKARMA</a></h2>
 
@@ -293,7 +293,7 @@
 
                          
 
-                          <img src="opt_img/logo/logo-2.webp" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" />
+                          <img src="opt_img/logo/logo-2.webp" alt="VU VISHWAKARMA Image" title="VU VISHWAKARMA Image" loading="lazy" />
 
                           <h2 class="entry-title pt-10"><a href="#">JAGRAN LAKECITY UNIVERSITY</a></h2>
 
