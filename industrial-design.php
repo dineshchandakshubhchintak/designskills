@@ -86,7 +86,9 @@
     gtag('config', 'G-4XYNJ94051');
   </script>
 
-</head>S | Main style file -->
+</head>
+
+<!-- CSS | Main style file -->
 
 <link href="css/style-main.css" rel="stylesheet" type="text/css">
 

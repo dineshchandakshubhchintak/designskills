@@ -140,7 +140,7 @@
 
               <div class="col-md-6">
 
-                <img alt="" src="../img/blog/Growth_in_Animaton_VFX.jpg" class="img-responsive img-fullwidth "><br>
+                <img alt="Growth_in_Animaton_VFX" src="../opt_img/blog/Growth_in_Animaton_VFX.webp" class="img-responsive img-fullwidth "><br>
 
               </div>
 
