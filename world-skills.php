@@ -177,7 +177,7 @@
 
         </section>
 
-        <!-- <img src="opt_img/world-skills/world_skills_logo/AWSITC_LOGO.webp" title="logo"> -->
+        <!-- <img src="opt_img/world-skills/world_skills_logo/AWSITC_LOGO.webp" title="logo" loading="lazy"> -->
 
         <section id="about">
 
@@ -185,7 +185,7 @@
 
             <div class="row">
 
-              <div class="col-md-12 text-center mt-30"> <img src="opt_img/world-skills/world-skills-logo/AWSITC_LOGO.webp" height="130px" title="logo"> </div>
+              <div class="col-md-12 text-center mt-30"> <img src="opt_img/world-skills/world-skills-logo/AWSITC_LOGO.webp" height="130px" title="logo" loading="lazy"> </div>
 
             </div>
 
@@ -249,7 +249,7 @@
 
                 <div class="col-sm-12 col-md-6 mt-10 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
 
-                  <div class="video-popup"> <img alt="world_skills_russia01" src="opt_img/world-skills/fullview/world_skills_russia01.webp" class="img-responsive img-fullwidth mt-10 ml-30 ml-xs-0 ml-sm-0"> </div>
+                  <div class="video-popup"> <img alt="world_skills_russia01" src="opt_img/world-skills/fullview/world_skills_russia01.webp" class="img-responsive img-fullwidth mt-10 ml-30 ml-xs-0 ml-sm-0" loading="lazy"> </div>
 
                 </div>
 
@@ -349,7 +349,7 @@
 
                     <div class="gallery-item photos students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/_mg-7895.jpg" alt="_mg-7895">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/_mg-7895.jpg" alt="_mg-7895" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -377,7 +377,7 @@
 
                     <div class="gallery-item campus">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/dscn3170.webp" alt="dscn3170">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/dscn3170.webp" alt="dscn3170" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -405,7 +405,7 @@
 
                     <div class="gallery-item photos">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/dscn3528.webp" alt="dscn3528">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/dscn3528.webp" alt="dscn3528" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -433,7 +433,7 @@
 
                     <div class="gallery-item campus students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/dscn3532.webp" alt="dscn3532">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/dscn3532.webp" alt="dscn3532" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -461,7 +461,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/globalskillsmelbourne.webp" alt="globalskillsmelbourne">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/globalskillsmelbourne.webp" alt="globalskillsmelbourne" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -489,7 +489,7 @@
 
                     <div class="gallery-item photos">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/globalskills_2022.webp" alt="globalskills_2022">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/globalskills_2022.webp" alt="globalskills_2022" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -517,7 +517,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/indiaskills_2018.webp" alt="indiaskills_2018">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/indiaskills_2018.webp" alt="indiaskills_2018" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -545,7 +545,7 @@
 
                     <div class="gallery-item photos">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/indiaskillsnationals.webp" alt="indiaskillsnationals">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/indiaskillsnationals.webp" alt="indiaskillsnationals" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -573,7 +573,7 @@
 
                     <div class="gallery-item campus students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/indiaskills_nationals.webp" alt="indiaskills_nationals">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/indiaskills_nationals.webp" alt="indiaskills_nationals" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -601,7 +601,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/low_res01.webp" alt="low_res01">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/low_res01.webp" alt="low_res01" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -625,7 +625,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/venu005.webp" alt="venu005">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/venu005.webp" alt="venu005" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -649,7 +649,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_russia02.webp" alt="world_skills_russia02">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_russia02.webp" alt="world_skills_russia02" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -673,7 +673,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_falicitation.webp" alt="world_skills_falicitation">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_falicitation.webp" alt="world_skills_falicitation" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -697,7 +697,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_russia01.webp" alt="world_skills_russia01">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_russia01.webp" alt="world_skills_russia01" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -721,7 +721,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_russia03.webp" alt="world_skills_russia03">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_russia03.webp" alt="world_skills_russia03" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -745,7 +745,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/19.webp" alt="19">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/19.webp" alt="19" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -769,7 +769,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_shwetaratanpura02.webp" alt="world_skills_shwetaratanpura02">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_shwetaratanpura02.webp" alt="world_skills_shwetaratanpura02" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -793,7 +793,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_shwetaratanpura03.webp" alt="world_skills_shwetaratanpura03">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_shwetaratanpura03.webp" alt="world_skills_shwetaratanpura03" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -817,7 +817,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_shwetaratanpura04.webp" alt="world_skills_shwetaratanpura04">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_shwetaratanpura04.webp" alt="world_skills_shwetaratanpura04" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -841,7 +841,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland01.webp" alt="world_skills_switzerland01">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland01.webp" alt="world_skills_switzerland01" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -865,7 +865,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland02.webp" alt="world_skills_switzerland02">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland02.webp" alt="world_skills_switzerland02" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -889,7 +889,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland03.webp" alt="world_skills_switzerland03">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland03.webp" alt="world_skills_switzerland03" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -913,7 +913,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland04.webp" alt="world_skills_switzerland04">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland04.webp" alt="world_skills_switzerland04" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -939,7 +939,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland06.webp" alt="world_skills_switzerland06">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland06.webp" alt="world_skills_switzerland06" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -963,7 +963,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_team india01.webp" alt="world_skills_team india01">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_team india01.webp" alt="world_skills_team india01" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -987,7 +987,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_teamindia02.webp" alt="world_skills_teamindia02">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_teamindia02.webp" alt="world_skills_teamindia02" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -1011,7 +1011,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_webdesign01.webp" alt="world_skills_webdesign01">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_webdesign01.webp" alt="world_skills_webdesign01" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -1035,7 +1035,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/wp_20150811_003.webp" alt="wp_20150811_003">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/wp_20150811_003.webp" alt="wp_20150811_003" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -1061,7 +1061,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/medal_pictures.webp" alt="medal_pictures">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/medal_pictures.webp" alt="medal_pictures" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -1085,7 +1085,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/top_panel.webp" alt="top_panel">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/top_panel.webp" alt="top_panel" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -1109,7 +1109,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_austria.webp" alt="world_skills_austria">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_austria.webp" alt="world_skills_austria" loading="lazy">
 
                         <div class="overlay-shade"></div>
 
@@ -1133,7 +1133,7 @@
 
                     <div class="gallery-item students">
 
-                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland07.webp" alt="world_skills_switzerland07">
+                      <div class="thumb"> <img class="img-fullwidth" src="opt_img/world-skills/thumbnail/world_skills_switzerland07.webp" alt="world_skills_switzerland07" loading="lazy">
 
                         <div class="overlay-shade"></div>
 

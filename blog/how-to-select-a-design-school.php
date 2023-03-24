@@ -35,7 +35,7 @@
   
   <!-- Favicon and Touch Icons -->
 
-  <link href="../img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+  <link href="../opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
   <link href="../images/apple-touch-icon.png" rel="apple-touch-icon">
 <!-- Google tag (gtag.js) -->
@@ -46,7 +46,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-4XYNJ94051');
-</script>
+</script> 
 
 </head>
   <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -129,7 +129,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="How-To-Select-A-Design-School" src="../opt_img/blog/How-To-Select-A-Design-School.webp" class="img-responsive img-fullwidth "><br>
+                        <img alt="How-To-Select-A-Design-School" src="../opt_img/blog/How-To-Select-A-Design-School.webp" class="img-responsive img-fullwidth" loading="lazy"><br>
 
                     </div>
 
