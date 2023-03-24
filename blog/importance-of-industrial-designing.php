@@ -127,7 +127,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="IMPORTANCEOF-INDUSTRIA-DESIGNING" src="../opt_img/blog/IMPORTANCEOF-INDUSTRIA-DESIGNING.webp" class="img-responsive img-fullwidth ">
+                        <img alt="IMPORTANCEOF-INDUSTRIA-DESIGNING" src="../opt_img/blog/IMPORTANCEOF-INDUSTRIA-DESIGNING.webp" class="img-responsive img-fullwidth" loading="lazy">
 
                     </div>
 
