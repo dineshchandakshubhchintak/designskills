@@ -79,8 +79,7 @@
   gtag('config', 'G-4XYNJ94051');
 </script>
 
-</head>
-<link href="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
+</head><ref="css/custom-bootstrap-margin-padding.css" rel="stylesheet" type="text/css">
 
 <!-- CSS | Responsive media queries -->
 
@@ -178,7 +177,7 @@
 
     <section id="home">
 
-        <img src="opt_img/cources/COMMUNICATION_DESIGN.webp" alt="COMMUNICATION_DESIGN" class="responsive" loading="lazy">
+        <img src="opt_img/cources/graphic_design.webp" alt="graphic_design" class="responsive" loading="lazy">
 
     </section>
 
