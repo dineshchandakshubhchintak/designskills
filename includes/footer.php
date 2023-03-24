@@ -122,7 +122,7 @@
 
 <!-- Section: ALUMINI TESTIMONIALS -->
 
-<section class="divider parallax layer-overlay overlay-dark-4 mt-30" data-background-ratio="0.5" data-bg-img="img/bg2.jpg">
+<section class="divider parallax layer-overlay overlay-dark-4 mt-30" data-background-ratio="0.5" data-bg-img="opt_img/bg2.webp">
 
   <div class="container pt-60 pb-60">
 
@@ -320,7 +320,7 @@
 
             <article class="post media-post clearfix pb-0 mb-10">
 
-              <a href="blog.php" class="post-thumb"><img alt="" src="../opt_img/blog/Importance-of-Having-ART-Basic.jpg"  style="width: 80px;"></a>
+              <a href="blog.php" class="post-thumb"><img alt="" src="../opt_img/blog/Importance-of-Having-ART-Basic.webp"  style="width: 80px;"></a>
 
               <div class="post-right">
 
@@ -348,7 +348,7 @@
 
             <article class="post media-post clearfix pb-0 mb-10">
 
-              <a href="blog.php" class="post-thumb"><img alt="" src="../img/blog/WSI_NATIONALS.jpg" style="width: 80px;"></a>
+              <a href="blog.php" class="post-thumb"><img alt="" src="../opt_img/blog/WSI_NATIONALS.webp" style="width: 80px;"></a>
 
               <div class="post-right">
 

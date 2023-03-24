@@ -24,7 +24,7 @@
 
   <!-- Favicon and Touch Icons -->
 
-  <link href="img/logo/fav.png" rel="shortcut icon" type="img/logo/fav.png">
+  <link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">
 
   <!-- Stylesheet -->
 
@@ -121,7 +121,7 @@
 
                 <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="img/home/landing-page01.webp" data-rotate="0" data-saveperformance="off" data-title="Slide 1" data-description="">
 
-                  <!-- MAIN IMAGE --><img src="img/home/landing-page01.webp" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina style="width: 100%;">
+                  <!-- MAIN IMAGE --><img src="opt_img/home/landing-page01.webp" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina style="width: 100%;">
 
                   <!-- LAYERS -->
 
@@ -149,7 +149,7 @@
 
                 <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="img/home/landing-page02.webp" data-rotate="0" data-saveperformance="off" data-title="Slide 2" data-description="">
 
-                  <!-- MAIN IMAGE --><img src="img/home/landing-page02.webp" alt="" data-bgposition="center 10%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina style="width: 100%;">
+                  <!-- MAIN IMAGE --><img src="opt_img/home/landing-page02.webp" alt="" data-bgposition="center 10%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina style="width: 100%;">
 
                   <!-- LAYERS -->
 

@@ -32,7 +32,7 @@
 <meta property="twitter:url" content="https://www.designskills.com/university-tie-ups">
 <meta property="twitter:title" content="University Tie-Ups | Collaborations with Top Universities | Design Skills Academy">
 <meta property="twitter:description" content="Explore our university tie-ups and learn more about our collaborations with top universities. Discover the benefits of our partnerships and how they can enhance your academic and professional experience.
-">/
+">
 <meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
 <!-- Page Title -->
