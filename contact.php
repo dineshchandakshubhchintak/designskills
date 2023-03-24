@@ -17,8 +17,7 @@
 <!-- Primary Meta Tags -->
 <title>Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy</title>
 <meta name="title" content="Contact Us | Get in Touch with Us for Support, Feedback, and Inquiries | Design Skills Academy">
-<meta name="description" content="Need help, have feedback or a question? Get in touch with our team via our contact form or through our email, phone number or social media accounts. We're here to help and value your feedback
-">
+<meta name="description" content="Need help, have feedback or a question? Get in touch with our team via our contact form or through our email, phone number or social media accounts. We're here to help and value your feedback">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
@@ -37,7 +36,7 @@
 
 <!-- Page Title -->
 
-<title>Designskill</title>
+
 
 
 

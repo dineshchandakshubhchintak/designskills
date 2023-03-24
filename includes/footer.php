@@ -2,7 +2,7 @@
 
 <div class="wahats-up">
 
-  <a href="https://wa.me/91 91582 95950" target="_blank"><img src="opt_img/logo/whats-up.webp" alt="whats-up"></a>
+  <a href="https://wa.me/919158295950" target="_blank"><img src="opt_img/logo/whats-up.webp" alt="whats-up"></a>
 
 </div>
 

@@ -1,6 +1,6 @@
 <div class="wahats-up">
 
-  <a href="https://web.whatsapp.com/+91 98807 97410" target="_blank"><img src="opt_img/logo/whats-up.webp" alt="whats-up"></a>
+  <a href="https://web.whatsapp.com/+919880797410" target="_blank"><img src="opt_img/logo/whats-up.webp" alt="whats-up"></a>
 
 </div>
 
