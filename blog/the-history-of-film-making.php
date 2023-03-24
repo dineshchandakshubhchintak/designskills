@@ -129,7 +129,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="THE-HISTORY-FILM-MAKING" src="../opt_img/blog/THE-HISTORY-FILM-MAKING.webp" class="img-responsive img-fullwidth ">
+                        <img alt="THE-HISTORY-FILM-MAKING" src="../opt_img/blog/THE-HISTORY-FILM-MAKING.webp" class="img-responsive img-fullwidth " loading="lazy">
 
                     </div>
 

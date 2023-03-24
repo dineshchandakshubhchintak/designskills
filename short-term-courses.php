@@ -86,7 +86,7 @@
 									<div class="col-sm-3 col-md-3">
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
-												<a href="certification-in-compositing.php"><img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp"></a>
+												<a href="certification-in-compositing.php"><img class="img-fullwidth" alt="compositing" src="opt_img/cources/compositing.webp" loading="lazy"></a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
 												<h6 class="font-14 font-weight-500 mb-5 text-center">6 Months</h6>
@@ -98,7 +98,7 @@
 									<div class="col-sm-3 col-md-3">
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
-												<a href="certification-in-3d-maya.php"><img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp"></a>
+												<a href="certification-in-3d-maya.php"><img class="img-fullwidth" alt="3d_maya" src="opt_img/cources/3d_maya.webp" loading="lazy"></a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
 												<h6 class="font-14 font-weight-500 mb-5 text-center">6 Months</h6>
@@ -110,7 +110,7 @@
 									<div class="col-sm-3 col-md-3">
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
-												<a href="certification-graphic-design.php"><img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp"></a>
+												<a href="certification-graphic-design.php"><img class="img-fullwidth" alt="graphic_design" src="opt_img/cources/graphic_design.webp" loading="lazy"></a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
 												<h6 class="font-14 font-weight-500 mb-5 text-center">6 Months</h6>
@@ -122,7 +122,7 @@
 									<div class="col-sm-3 col-md-3">
 										<div class="project mb-30 border-2px">
 											<div class="thumb">
-												<a href="certification-art-design.php"> <img class="img-fullwidth" alt="art_design" src="opt_img/cources/art_design.webp"></a>
+												<a href="certification-art-design.php"> <img class="img-fullwidth" alt="art_design" src="opt_img/cources/art_design.webp" loading="lazy"></a>
 											</div>
 											<div class="project-details p-15 pt-10 pb-10">
 												<h6 class="font-14 font-weight-500 mb-5 text-center">6 Months</h6>
@@ -136,7 +136,7 @@
 							<div class="col-sm-3 col-md-3">
 								<div class="project mb-30 border-2px">
 									<div class="thumb">
-										<a href="industrial-design.php"><img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp"></a>
+										<a href="industrial-design.php"><img class="img-fullwidth" alt="industrial_design" src="opt_img/cources/industrial_design.webp" loading="lazy"></a>
 									</div>
 									<div class="project-details p-15 pt-10 pb-10">
 										<h6 class="font-14 font-weight-500 mb-5 text-center">1 Year</h6>
@@ -148,7 +148,7 @@
 							<div class="col-sm-3 col-md-3">
 								<div class="project mb-30 border-2px">
 									<div class="thumb">
-										<a href="print-packaging.php"><img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp"></a>
+										<a href="print-packaging.php"><img class="img-fullwidth" alt="printing_packaging" src="opt_img/cources/printing_packaging.webp" loading="lazy"></a>
 									</div>
 									<div class="project-details p-15 pt-10 pb-10">
 										<h6 class="font-14 font-weight-500 mb-5 text-center">1 Year</h6>
@@ -160,7 +160,7 @@
 							<div class="col-sm-3 col-md-3">
 								<div class="project mb-30 border-2px">
 									<div class="thumb">
-										<a href="web-design-technology.php"><img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp"></a>
+										<a href="web-design-technology.php"><img class="img-fullwidth" alt="web-tech" src="opt_img/cources/web-tech.webp" loading="lazy"></a>
 									</div>
 									<div class="project-details p-15 pt-10 pb-10">
 										<h6 class="font-14 font-weight-500 mb-5 text-center">1 Year</h6>
@@ -220,7 +220,7 @@
 							</div>
 						</div>
 						<div class="col-md-5 col-sm-5">
-							<div id="accordion1" class="panel-group accordion transparent"> <img src="opt_img/home/short-term.webp" alt="short-term" title="image" height="250px" /> </div>
+							<div id="accordion1" class="panel-group accordion transparent"> <img src="opt_img/home/short-term.webp" alt="short-term"  loading="lazy" title="image" height="250px" /> </div>
 						</div>
 					</div>
 				</div>

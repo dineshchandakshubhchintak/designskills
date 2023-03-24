@@ -131,7 +131,7 @@
 
     				 <div class="col-md-6">
 
-                        <img alt="CANADA-TRIP-SCHOOL" src="../opt_img/blog/CANADA-TRIP-SCHOOL.webp" class="img-responsive img-fullwidth ">
+                        <img alt="CANADA-TRIP-SCHOOL" src="../opt_img/blog/CANADA-TRIP-SCHOOL.webp" class="img-responsive img-fullwidth " loading="lazy">
 
                         <br>
 
