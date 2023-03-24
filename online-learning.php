@@ -171,7 +171,7 @@
 
         <!-- Section: Video -->
 
-        <img src="img/Online_Learning.jpg" alt="Nature" class="responsive">
+        <img src="opt_img/Online_Learning.webp" alt="Online_Learning" class="responsive">
 
         <section>
 

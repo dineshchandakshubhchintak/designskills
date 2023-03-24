@@ -127,7 +127,7 @@
 
                     <div class="col-md-6">
 
-                        <img alt="" src="../img/blog/The-Do-Photography.jpg" class="img-responsive img-fullwidth "><br>
+                        <img alt="The-Do-Photography" src="../opt_img/blog/The-Do-Photography.webp" class="img-responsive img-fullwidth "><br>
 
                     </div>
 
