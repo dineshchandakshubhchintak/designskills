@@ -32,9 +32,6 @@
 <meta property="twitter:description" content="Learn the latest techniques and best practices in video production, photography, graphic design, and more with our online media learning videos. From beginners to professionals, our comprehensive tutorials and expert insights will help you hone your skills and achieve your goals.">
 <meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-  <!-- Page Title -->
-
-  <title>Designskill</title>
 
   <!-- Favicon and Touch Icons -->
 

@@ -35,12 +35,6 @@
 ">
 <meta property="twitter:image" content="https://designskills.com/img/logo/Design_Skills_Academy_Logo.png">
 
-<!-- Page Title -->
-
-<title>Designskill</title>
-
-
-
 <!-- Favicon and Touch Icons -->
 
 <link href="opt_img/logo/fav.webp" rel="shortcut icon" type="opt_img/logo/fav.webp">

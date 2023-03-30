@@ -90,7 +90,7 @@
 
 			<!-- Section: inner-header -->
 
-			<section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
+			<section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="opt_img/highres-picture-general/director-ramesh-sippy-visit.webp" style="height:300px">
 
 				<div class="container pt-70 pb-20">
 
