@@ -47,6 +47,10 @@
                                                 <textarea placeholder="ENTER MESSAGE" rows="3" class="form-control required" name="msg" aria-required="true"></textarea>
                                               </div>
                                             </div>
+                                            <div id='recaptcha' class="g-recaptcha"
+                                              data-sitekey="6LfBa0MlAAAAAELRRIR2rgv_jNpgQu2pvCBRuUXx"
+                                              data-callback="onCompleted"
+                                              data-size="invisible"></div>
                                             <div class="col-sm-12">
                                               <div class="form-group mb-0 mt-10">
                                                 <!--<button type="submit" class="btn btn-colored btn-default text-black btn-lg btn-block">SUBMIT</button>-->
@@ -55,4 +59,25 @@
                                             </div>
                                           </div>
                                         </form>
+
+                                        <script src="https://www.google.com/recaptcha/api.js" async defer>
+                                        </script>
+                                          <script>
+                                              var form = document.getElementById("contactForm")
+                                              form.addEventListener("submit", function(event) {
+                                                console.log('form submitted.');
+                                                if (!grecaptcha.getResponse()) {
+                                                    console.log('captcha not yet completed.');
+                                                    event.preventDefault(); //prevent form submit
+                                                    grecaptcha.execute();
+                                                } else {
+                                                    console.log('form really submitted.');
+                                                }
+                                            });
+                                            onCompleted = function() {
+                                                console.log('captcha completed.');
+                                                form.submit();
+                                                document.getElementById("message-success").style.display = "flex"
+                                            }
+                                        </script>
                                         <!-- Application Form End-->

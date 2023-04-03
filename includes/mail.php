@@ -51,7 +51,7 @@ if(isset($_POST['submit']))
 
 
 
-{
+
 
 $name  = $_POST["name"];
 
@@ -144,6 +144,15 @@ $headers = "MIME-Version: 1.0\r\n"
   ."From: =?UTF-8?B?". base64_encode($from_name) ."?= <$from_address>\r\n"
 
   ."X-Mailer: PHP/". phpversion();
+
+//recaptcha
+  if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+
+		// Google secret API
+		$secretkey = "6LfBa0MlAAAAANO1ufNB6xuPzwbKXaYu2atSbruv";
+
+		// reCAPTCHA response verification
+		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secretkey . '&response=' . $_POST['g-recaptcha-response']);
 
 
 
