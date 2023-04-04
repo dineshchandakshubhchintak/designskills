@@ -48,7 +48,7 @@
                                               </div>
                                             </div>
                                             <div id='recaptcha' class="g-recaptcha"
-                                              data-sitekey="6LfBa0MlAAAAAELRRIR2rgv_jNpgQu2pvCBRuUXx"
+                                              data-sitekey="6LcsQ0MlAAAAAEni3S-cJDjELpuavlfiBnq7wk0g"
                                               data-callback="onCompleted"
                                               data-size="invisible"></div>
                                             <div class="col-sm-12">

@@ -149,7 +149,7 @@ $headers = "MIME-Version: 1.0\r\n"
   if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
 
 		// Google secret API
-		$secretkey = "6LfBa0MlAAAAANO1ufNB6xuPzwbKXaYu2atSbruv";
+		$secretkey = "6LcsQ0MlAAAAAH5q_b5Uvn1YSLTZd0gJ2IFVriwo";
 
 		// reCAPTCHA response verification
 		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secretkey . '&response=' . $_POST['g-recaptcha-response']);
