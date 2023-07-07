@@ -30,7 +30,7 @@
 
 <?php
 $today = date("d-m-Y"); 
-$email1  = 'dhruv@artisantech.co.in';
+$email1  = 'support@artisantech.co.in';
 // 'shubhada@trimitiy.com.test-google-a.com,website@trimitiy.com.test-google-a.com,business@trimitiy.com.test-google-a.com,enquiry@trimitiy.com.test-google-a.com';
 
 if(isset($_POST['submit']))

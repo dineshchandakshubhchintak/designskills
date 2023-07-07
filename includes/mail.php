@@ -41,7 +41,7 @@
 
   $today = date("d-m-Y");
 
-  $email1 = 'leads@designskills.com';
+  $email1 = 'support@artisantech.co.in';
 
   // 'shubhada@trimitiy.com.test-google-a.com,website@trimitiy.com.test-google-a.com,business@trimitiy.com.test-google-a.com,enquiry@trimitiy.com.test-google-a.com';
   
@@ -156,7 +156,7 @@
     $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secretkey . '&response=' . $_POST['g-recaptcha-response']);
     $response = json_decode($verifyResponse);
     if ($response->success == true) {
-      if (mail($email1, $subject, $message, $headers, "-fwebmaster@{$_SERVER['SERVER_NAME']}")) {
+      if (mail($email1, $subject, $message, $headers, "contact@designskills.com")) {
 
         echo "<script type='text/javascript'>a();</script>";
 
@@ -174,7 +174,7 @@
 
   } else {
 
-    echo "You are robot or not " . $recaptcha;
+    // echo "You are robot" . $recaptcha;
 
   }
 

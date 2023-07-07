@@ -60,7 +60,7 @@
                                           </div>
                                         </form>
 
-                                        <script src="https://www.google.com/recaptcha/api.js" async>
+                                        <script src="https://www.google.com/recaptcha/api.js">
                                         </script>
                                           <script>
                                               var form = document.getElementById("contactForm")
